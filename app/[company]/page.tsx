@@ -1,4 +1,4 @@
-// app/[company]/page.tsx
+// app/[company]/page.tsx h
 import { supabase } from '../../lib/supabaseClient';
 import Link from 'next/link';
 
