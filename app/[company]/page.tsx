@@ -1,9 +1,15 @@
-// app/[company]/page.tsx h
+// app/[company]/page.tsx
 import { supabase } from '../../lib/supabaseClient';
 import Link from 'next/link';
 
-export default async function CompanyPage({ params }: { params: { company: string } }) {
-  const companyName = params.company.replace(/-/g, ' ');
+export default async function CompanyPage({ 
+  params 
+}: { 
+  params: Promise<{ company: string }> 
+}) {
+  // Await the params since it's now a Promise
+  const resolvedParams = await params;
+  const companyName = resolvedParams.company.replace(/-/g, ' ');
 
   const { data: company, error } = await supabase
     .from('companies')
@@ -15,12 +21,10 @@ export default async function CompanyPage({ params }: { params: { company: strin
   if (!company) return <div>Company not found</div>;
 
   return (
-    <main style={{ padding: '2rem', maxWidth: '600px', margin: 'auto' }}>
-      <h1 style={{ fontSize: '2.5rem' }}>{company.name}</h1>
+    <div>
+      <h1>{company.name}</h1>
       <p>{company.wiki_intro}</p>
-      <Link href="/" style={{ color: '#0070f3', textDecoration: 'underline' }}>
-        ← Back to Home
-      </Link>
-    </main>
+      <Link href="/">← Back to Home</Link>
+    </div>
   );
 }
