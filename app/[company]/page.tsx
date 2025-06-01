@@ -1,5 +1,6 @@
 // app/[company]/page.tsx
 import { supabase } from '../../lib/supabaseClient';
+import Link from 'next/link'
 
 export default async function CompanyPage({ params }: { params: { company: string } }) {
   const companyName = params.company.replace(/-/g, ' ');
@@ -17,7 +18,9 @@ export default async function CompanyPage({ params }: { params: { company: strin
     <main style={{ padding: '2rem', maxWidth: '600px', margin: 'auto' }}>
       <h1 style={{ fontSize: '2.5rem' }}>{company.name}</h1>
       <p>{company.wiki_intro}</p>
-      <a href="/" style={{ color: '#0070f3', textDecoration: 'underline' }}>← Back to Home</a>
+      <Link href="/" style={{ color: '#0070f3', textDecoration: 'underline' }}>
+        ← Back to Home
+      </Link>
     </main>
   );
 }
