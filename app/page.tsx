@@ -1,3 +1,5 @@
+// app/page.tsx
+import Link from 'next/link';
 import { supabase } from '../lib/supabaseClient';
 
 export default async function HomePage() {
@@ -14,12 +16,12 @@ export default async function HomePage() {
         <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
           {companies?.map((company) => (
             <li key={company.id} style={{ marginBottom: '1.5rem' }}>
-              <a
+              <Link
                 href={`/${company.name.toLowerCase().replace(/\s+/g, '-')}`}
                 style={{ textDecoration: 'none', fontSize: '1.5rem', color: '#0070f3' }}
               >
                 {company.name}
-              </a>
+              </Link>
             </li>
           ))}
         </ul>

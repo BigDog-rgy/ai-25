@@ -1,6 +1,6 @@
 // app/[company]/page.tsx
 import { supabase } from '../../lib/supabaseClient';
-import Link from 'next/link'
+import Link from 'next/link';
 
 export default async function CompanyPage({ params }: { params: { company: string } }) {
   const companyName = params.company.replace(/-/g, ' ');
