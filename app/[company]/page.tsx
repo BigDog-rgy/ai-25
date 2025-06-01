@@ -1,31 +1,23 @@
+// app/[company]/page.tsx
 import { supabase } from '../../lib/supabaseClient';
 
-interface PageProps {
-  params: { company: string };
-}
+export default async function CompanyPage({ params }: { params: { company: string } }) {
+  const companyName = params.company.replace(/-/g, ' ');
 
-export default async function CompanyPage({ params }: PageProps) {
-  const { company } = params;
-
-  // Convert hyphenated URL slug back to company name-ish for lookup
-  const companyName = company.replace(/-/g, ' ');
-
-  // Query Supabase for the company by name (case insensitive)
-  const { data, error } = await supabase
+  const { data: company, error } = await supabase
     .from('companies')
-    .select('name, ticker')
-    .ilike('name', `%${companyName}%`)
-    .limit(1)
+    .select('*')
+    .ilike('name', companyName)
     .single();
 
-  if (error || !data) {
-    return <p>Company not found: {company}</p>;
-  }
+  if (error) return <div>Error loading company: {error.message}</div>;
+  if (!company) return <div>Company not found</div>;
 
   return (
     <main style={{ padding: '2rem', maxWidth: '600px', margin: 'auto' }}>
-      <h1>{data.name}</h1>
-      <p>Ticker: {data.ticker}</p>
+      <h1 style={{ fontSize: '2.5rem' }}>{company.name}</h1>
+      <p>{company.wiki_intro}</p>
+      <a href="/" style={{ color: '#0070f3', textDecoration: 'underline' }}>← Back to Home</a>
     </main>
   );
 }
