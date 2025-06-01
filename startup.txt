@@ -1,0 +1,8 @@
+cd ai-25
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\python-env\Scripts\Activate.ps1
+
+npm run dev
+
+http://localhost:3000

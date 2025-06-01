@@ -1,0 +1,2522 @@
+{
+  "MSFT": {
+    "name": "Microsoft Corp",
+    "pe_ratio": "35.46",
+    "market_cap": "3410.57B"
+  },
+  "NVDA": {
+    "name": "Nvidia Corp",
+    "pe_ratio": "46.12",
+    "market_cap": "3306.22B"
+  },
+  "AAPL": {
+    "name": "Apple Inc.",
+    "pe_ratio": "32.58",
+    "market_cap": "3118.30B"
+  },
+  "AMZN": {
+    "name": "Amazon.com Inc",
+    "pe_ratio": "33.62",
+    "market_cap": "2188.67B"
+  },
+  "META": {
+    "name": "Meta Platforms, Inc. Class A",
+    "pe_ratio": "24.98",
+    "market_cap": "1610.14B"
+  },
+  "AVGO": {
+    "name": "Broadcom Inc.",
+    "pe_ratio": "111.24",
+    "market_cap": "1084.41B"
+  },
+  "GOOGL": {
+    "name": "Alphabet Inc. Class A",
+    "pe_ratio": "18.57",
+    "market_cap": "2027.75B"
+  },
+  "TSLA": {
+    "name": "Tesla, Inc.",
+    "pe_ratio": "188.13",
+    "market_cap": "1100.34B"
+  },
+  "BRK.B": {
+    "name": "Berkshire Hathaway Class B",
+    "pe_ratio": "13.65",
+    "market_cap": "1104.64B"
+  },
+  "GOOG": {
+    "name": "Alphabet Inc. Class C",
+    "pe_ratio": "18.72",
+    "market_cap": "2028.22B"
+  },
+  "JPM": {
+    "name": "Jpmorgan Chase & Co.",
+    "pe_ratio": "13.00",
+    "market_cap": "736.13B"
+  },
+  "V": {
+    "name": "Visa Inc.",
+    "pe_ratio": "37.42",
+    "market_cap": "713.42B"
+  },
+  "LLY": {
+    "name": "Eli Lilly & Co.",
+    "pe_ratio": "62.55",
+    "market_cap": "715.64B"
+  },
+  "NFLX": {
+    "name": "Netflix Inc",
+    "pe_ratio": "56.31",
+    "market_cap": "507.13B"
+  },
+  "MA": {
+    "name": "Mastercard Incorporated",
+    "pe_ratio": "41.13",
+    "market_cap": "532.49B"
+  },
+  "XOM": {
+    "name": "Exxon Mobil Corporation",
+    "pe_ratio": "14.09",
+    "market_cap": "458.85B"
+  },
+  "COST": {
+    "name": "Costco Wholesale Corp",
+    "pe_ratio": "60.38",
+    "market_cap": "458.92B"
+  },
+  "WMT": {
+    "name": "Walmart Inc.",
+    "pe_ratio": "42.04",
+    "market_cap": "785.05B"
+  },
+  "PG": {
+    "name": "Procter & Gamble Company",
+    "pe_ratio": "26.17",
+    "market_cap": "386.31B"
+  },
+  "HD": {
+    "name": "Home Depot, Inc.",
+    "pe_ratio": "25.44",
+    "market_cap": "377.08B"
+  },
+  "JNJ": {
+    "name": "Johnson & Johnson",
+    "pe_ratio": "16.95",
+    "market_cap": "366.90B"
+  },
+  "ABBV": {
+    "name": "Abbvie Inc.",
+    "pe_ratio": "79.19",
+    "market_cap": "328.04B"
+  },
+  "BAC": {
+    "name": "Bank of America Corporation",
+    "pe_ratio": "13.37",
+    "market_cap": "337.20B"
+  },
+  "UNH": {
+    "name": "Unitedhealth Group Incorporated",
+    "pe_ratio": "13.21",
+    "market_cap": "286.56B"
+  },
+  "KO": {
+    "name": "Coca-Cola Company",
+    "pe_ratio": "28.80",
+    "market_cap": "309.61B"
+  },
+  "CRM": {
+    "name": "Salesforce, Inc.",
+    "pe_ratio": "45.22",
+    "market_cap": "275.97B"
+  },
+  "PM": {
+    "name": "Philip Morris International Inc.",
+    "pe_ratio": "35.59",
+    "market_cap": "269.54B"
+  },
+  "ORCL": {
+    "name": "Oracle Corp",
+    "pe_ratio": "37.51",
+    "market_cap": "447.67B"
+  },
+  "PLTR": {
+    "name": "Palantir Technologies Inc. Class A",
+    "pe_ratio": "551.66",
+    "market_cap": "298.13B"
+  },
+  "CSCO": {
+    "name": "Cisco Systems, Inc.",
+    "pe_ratio": "26.22",
+    "market_cap": "254.29B"
+  },
+  "GE": {
+    "name": "Ge Aerospace",
+    "pe_ratio": "36.69",
+    "market_cap": "250.91B"
+  },
+  "WFC": {
+    "name": "Wells Fargo & Co.",
+    "pe_ratio": "13.67",
+    "market_cap": "247.51B"
+  },
+  "IBM": {
+    "name": "International Business Machines Corporation",
+    "pe_ratio": "46.17",
+    "market_cap": "249.46B"
+  },
+  "ABT": {
+    "name": "Abbott Laboratories",
+    "pe_ratio": "17.58",
+    "market_cap": "235.83B"
+  },
+  "CVX": {
+    "name": "Chevron Corporation",
+    "pe_ratio": "15.88",
+    "market_cap": "241.86B"
+  },
+  "MCD": {
+    "name": "Mcdonald's Corporation",
+    "pe_ratio": "28.34",
+    "market_cap": "229.69B"
+  },
+  "LIN": {
+    "name": "Linde Plc",
+    "pe_ratio": "33.41",
+    "market_cap": "216.69B"
+  },
+  "NOW": {
+    "name": "Servicenow, Inc.",
+    "pe_ratio": "139.24",
+    "market_cap": "212.33B"
+  },
+  "DIS": {
+    "name": "The Walt Disney Company",
+    "pe_ratio": "23.01",
+    "market_cap": "202.53B"
+  },
+  "T": {
+    "name": "At&t Inc.",
+    "pe_ratio": "17.21",
+    "market_cap": "201.62B"
+  },
+  "ISRG": {
+    "name": "Intuitive Surgical Inc.",
+    "pe_ratio": "82.38",
+    "market_cap": "201.30B"
+  },
+  "ACN": {
+    "name": "Accenture Plc",
+    "pe_ratio": "26.36",
+    "market_cap": "199.95B"
+  },
+  "MRK": {
+    "name": "Merck & Co., Inc.",
+    "pe_ratio": "11.24",
+    "market_cap": "193.93B"
+  },
+  "UBER": {
+    "name": "Uber Technologies, Inc.",
+    "pe_ratio": "16.12",
+    "market_cap": "193.35B"
+  },
+  "GS": {
+    "name": "Goldman Sachs Group Inc.",
+    "pe_ratio": "14.21",
+    "market_cap": "187.88B"
+  },
+  "INTU": {
+    "name": "Intuit Inc",
+    "pe_ratio": "62.69",
+    "market_cap": "187.55B"
+  },
+  "VZ": {
+    "name": "Verizon Communications",
+    "pe_ratio": "10.53",
+    "market_cap": "186.82B"
+  },
+  "AMD": {
+    "name": "Advanced Micro Devices",
+    "pe_ratio": "84.11",
+    "market_cap": "186.04B"
+  },
+  "ADBE": {
+    "name": "Adobe Inc.",
+    "pe_ratio": "27.71",
+    "market_cap": "179.29B"
+  },
+  "RTX": {
+    "name": "Rtx Corporation",
+    "pe_ratio": "40.23",
+    "market_cap": "183.29B"
+  },
+  "PEP": {
+    "name": "Pepsico, Inc.",
+    "pe_ratio": "19.38",
+    "market_cap": "180.69B"
+  },
+  "BKNG": {
+    "name": "Booking Holdings Inc.",
+    "pe_ratio": "33.46",
+    "market_cap": "175.00B"
+  },
+  "TXN": {
+    "name": "Texas Instruments Incorporated",
+    "pe_ratio": "35.68",
+    "market_cap": "171.10B"
+  },
+  "QCOM": {
+    "name": "Qualcomm Inc",
+    "pe_ratio": "15.65",
+    "market_cap": "168.76B"
+  },
+  "PGR": {
+    "name": "Progressive Corporation",
+    "pe_ratio": "19.41",
+    "market_cap": "168.97B"
+  },
+  "CAT": {
+    "name": "Caterpillar Inc.",
+    "pe_ratio": "17.18",
+    "market_cap": "165.82B"
+  },
+  "AXP": {
+    "name": "American Express Company",
+    "pe_ratio": "20.91",
+    "market_cap": "209.69B"
+  },
+  "SPGI": {
+    "name": "S&p Global Inc.",
+    "pe_ratio": "41.16",
+    "market_cap": "160.80B"
+  },
+  "MS": {
+    "name": "Morgan Stanley",
+    "pe_ratio": "15.35",
+    "market_cap": "209.91B"
+  },
+  "TMO": {
+    "name": "Thermo Fisher Scientific, Inc.",
+    "pe_ratio": "24.29",
+    "market_cap": "156.25B"
+  },
+  "BSX": {
+    "name": "Boston Scientific Corp.",
+    "pe_ratio": "78.15",
+    "market_cap": "157.80B"
+  },
+  "BA": {
+    "name": "Boeing Company",
+    "pe_ratio": "-",
+    "market_cap": "154.76B"
+  },
+  "SCHW": {
+    "name": "The Charles Schwab Corporation",
+    "pe_ratio": "27.13",
+    "market_cap": "162.13B"
+  },
+  "NEE": {
+    "name": "Nextra Energy, Inc.",
+    "pe_ratio": "27.62",
+    "market_cap": "152.05B"
+  },
+  "TJX": {
+    "name": "Tjx Companies, Inc.",
+    "pe_ratio": "31.70",
+    "market_cap": "150.76B"
+  },
+  "AMGN": {
+    "name": "Amgen Inc",
+    "pe_ratio": "25.18",
+    "market_cap": "148.33B"
+  },
+  "HON": {
+    "name": "Honeywell International, Inc.",
+    "pe_ratio": "25.84",
+    "market_cap": "144.57B"
+  },
+  "BLK": {
+    "name": "Blackrock, Inc.",
+    "pe_ratio": "24.14",
+    "market_cap": "153.94B"
+  },
+  "C": {
+    "name": "Citigroup Inc.",
+    "pe_ratio": "12.03",
+    "market_cap": "142.19B"
+  },
+  "UNP": {
+    "name": "Union Pacific Corp.",
+    "pe_ratio": "20.68",
+    "market_cap": "137.12B"
+  },
+  "SYK": {
+    "name": "Stryker Corporation",
+    "pe_ratio": "53.26",
+    "market_cap": "150.84B"
+  },
+  "AMAT": {
+    "name": "Applied Materials Inc",
+    "pe_ratio": "20.20",
+    "market_cap": "134.82B"
+  },
+  "DE": {
+    "name": "Deere & Company",
+    "pe_ratio": "25.63",
+    "market_cap": "143.80B"
+  },
+  "CMCSA": {
+    "name": "Comcast Corp",
+    "pe_ratio": "8.70",
+    "market_cap": "132.32B"
+  },
+  "GILD": {
+    "name": "Gilead Sciences Inc",
+    "pe_ratio": "22.32",
+    "market_cap": "132.06B"
+  },
+  "LOW": {
+    "name": "Lowe's Companies Inc.",
+    "pe_ratio": "19.20",
+    "market_cap": "131.21B"
+  },
+  "ADP": {
+    "name": "Automatic Data Processing",
+    "pe_ratio": "33.06",
+    "market_cap": "131.10B"
+  },
+  "PFE": {
+    "name": "Pfizer Inc.",
+    "pe_ratio": "16.67",
+    "market_cap": "130.76B"
+  },
+  "ETN": {
+    "name": "Eaton Corporation, Plcs",
+    "pe_ratio": "33.24",
+    "market_cap": "128.85B"
+  },
+  "PANW": {
+    "name": "Palo Alto Networks, Inc.",
+    "pe_ratio": "109.77",
+    "market_cap": "128.65B"
+  },
+  "COF": {
+    "name": "Capital One Financial",
+    "pe_ratio": "16.58",
+    "market_cap": "126.37B"
+  },
+  "DHR": {
+    "name": "Danaher Corporation",
+    "pe_ratio": "38.08",
+    "market_cap": "140.56B"
+  },
+  "GEV": {
+    "name": "Ge Vernova Inc.",
+    "pe_ratio": "63.73",
+    "market_cap": "121.89B"
+  },
+  "TMUS": {
+    "name": "T-Mobile Us, Inc.",
+    "pe_ratio": "23.81",
+    "market_cap": "277.33B"
+  },
+  "COP": {
+    "name": "Conocophillips",
+    "pe_ratio": "11.48",
+    "market_cap": "114.13B"
+  },
+  "MMC": {
+    "name": "Marsh & Mclennan Companies, Inc.",
+    "pe_ratio": "28.44",
+    "market_cap": "114.23B"
+  },
+  "VRTX": {
+    "name": "Vertex Pharmaceuticals Inc",
+    "pe_ratio": "-",
+    "market_cap": "113.16B"
+  },
+  "MDT": {
+    "name": "Medtronic Plc",
+    "pe_ratio": "26.43",
+    "market_cap": "111.54B"
+  },
+  "ADI": {
+    "name": "Analog Devices, Inc.",
+    "pe_ratio": "71.61",
+    "market_cap": "111.37B"
+  },
+  "MU": {
+    "name": "Micron Technology, Inc.",
+    "pe_ratio": "23.71",
+    "market_cap": "110.25B"
+  },
+  "CB": {
+    "name": "Chubb Limited",
+    "pe_ratio": "14.18",
+    "market_cap": "118.05B"
+  },
+  "CRWD": {
+    "name": "Crowdstrike Holdings, Inc. Class A",
+    "pe_ratio": "-",
+    "market_cap": "110.68B"
+  },
+  "LRCX": {
+    "name": "Lam Research Corp",
+    "pe_ratio": "23.35",
+    "market_cap": "107.22B"
+  },
+  "BX": {
+    "name": "Blackstone Inc.",
+    "pe_ratio": "44.00",
+    "market_cap": "176.46B"
+  },
+  "APH": {
+    "name": "Amphenol Corporation",
+    "pe_ratio": "41.87",
+    "market_cap": "104.52B"
+  },
+  "KLAC": {
+    "name": "Kla Corporation",
+    "pe_ratio": "28.60",
+    "market_cap": "104.08B"
+  },
+  "PLD": {
+    "name": "Prologis, Inc.",
+    "pe_ratio": "27.93",
+    "market_cap": "105.17B"
+  },
+  "ICE": {
+    "name": "Intercontinental Exchange  Inc.",
+    "pe_ratio": "36.60",
+    "market_cap": "101.39B"
+  },
+  "MO": {
+    "name": "Altria Group, Inc.",
+    "pe_ratio": "9.95",
+    "market_cap": "100.17B"
+  },
+  "AMT": {
+    "name": "American Tower Corporation",
+    "pe_ratio": "55.21",
+    "market_cap": "100.71B"
+  },
+  "CME": {
+    "name": "Cme Group Inc.",
+    "pe_ratio": "27.94",
+    "market_cap": "100.16B"
+  },
+  "ANET": {
+    "name": "Arista Networks",
+    "pe_ratio": "40.91",
+    "market_cap": "121.45B"
+  },
+  "LMT": {
+    "name": "Lockheed Martin Corp.",
+    "pe_ratio": "20.43",
+    "market_cap": "110.84B"
+  },
+  "SO": {
+    "name": "The Southern Company",
+    "pe_ratio": "21.45",
+    "market_cap": "98.34B"
+  },
+  "TT": {
+    "name": "Trane Technologies Plc",
+    "pe_ratio": "35.84",
+    "market_cap": "96.08B"
+  },
+  "FI": {
+    "name": "Fiserv, Inc.",
+    "pe_ratio": "29.92",
+    "market_cap": "93.78B"
+  },
+  "SBUX": {
+    "name": "Starbucks Corp",
+    "pe_ratio": "30.75",
+    "market_cap": "96.15B"
+  },
+  "BMY": {
+    "name": "Bristol-Myers Squibb Co.",
+    "pe_ratio": "17.73",
+    "market_cap": "96.10B"
+  },
+  "ELV": {
+    "name": "Elevance Health, Inc.",
+    "pe_ratio": "15.76",
+    "market_cap": "91.23B"
+  },
+  "INTC": {
+    "name": "Intel Corp",
+    "pe_ratio": "-",
+    "market_cap": "93.26B"
+  },
+  "CEG": {
+    "name": "Constellation Energy Corporation",
+    "pe_ratio": "30.99",
+    "market_cap": "92.15B"
+  },
+  "WELL": {
+    "name": "Welltower Inc.",
+    "pe_ratio": "162.41",
+    "market_cap": "98.52B"
+  },
+  "MCK": {
+    "name": "Mckesson Corporation",
+    "pe_ratio": "28.14",
+    "market_cap": "90.88B"
+  },
+  "DUK": {
+    "name": "Duke Energy Corporation",
+    "pe_ratio": "19.51",
+    "market_cap": "90.93B"
+  },
+  "CI": {
+    "name": "The Cigna Group",
+    "pe_ratio": "17.84",
+    "market_cap": "86.01B"
+  },
+  "CDNS": {
+    "name": "Cadence Design Systems",
+    "pe_ratio": "81.12",
+    "market_cap": "87.46B"
+  },
+  "PH": {
+    "name": "Parker-Hannifin Corporation",
+    "pe_ratio": "26.15",
+    "market_cap": "86.80B"
+  },
+  "AJG": {
+    "name": "Arthur J. Gallagher & Co.",
+    "pe_ratio": "52.89",
+    "market_cap": "88.05B"
+  },
+  "EQIX": {
+    "name": "Equinix, Inc. Reit",
+    "pe_ratio": "91.18",
+    "market_cap": "85.84B"
+  },
+  "MDLZ": {
+    "name": "Mondelez International, Inc. Class A",
+    "pe_ratio": "24.42",
+    "market_cap": "85.10B"
+  },
+  "KKR": {
+    "name": "Kkr & Co. Inc.",
+    "pe_ratio": "54.40",
+    "market_cap": "111.77B"
+  },
+  "WM": {
+    "name": "Waste Management, Inc.",
+    "pe_ratio": "34.98",
+    "market_cap": "93.34B"
+  },
+  "MMM": {
+    "name": "3m Company",
+    "pe_ratio": "19.47",
+    "market_cap": "82.96B"
+  },
+  "SHW": {
+    "name": "The Sherwin-Williams Company",
+    "pe_ratio": "34.26",
+    "market_cap": "90.72B"
+  },
+  "TDG": {
+    "name": "Transdigm Group Incorporated",
+    "pe_ratio": "48.62",
+    "market_cap": "80.88B"
+  },
+  "ORLY": {
+    "name": "O'reilly Automotive, Inc.",
+    "pe_ratio": "34.16",
+    "market_cap": "79.44B"
+  },
+  "SNPS": {
+    "name": "Synopsys Inc",
+    "pe_ratio": "38.16",
+    "market_cap": "79.79B"
+  },
+  "CVS": {
+    "name": "Cvs Health Corporation",
+    "pe_ratio": "15.00",
+    "market_cap": "79.42B"
+  },
+  "AON": {
+    "name": "Aon Plc Class A",
+    "pe_ratio": "31.10",
+    "market_cap": "78.81B"
+  },
+  "CTAS": {
+    "name": "Cintas Corp",
+    "pe_ratio": "51.75",
+    "market_cap": "90.06B"
+  },
+  "MCO": {
+    "name": "Moody's Corporation",
+    "pe_ratio": "42.51",
+    "market_cap": "88.53B"
+  },
+  "CL": {
+    "name": "Colgate-Palmolive Company",
+    "pe_ratio": "25.98",
+    "market_cap": "74.35B"
+  },
+  "ZTS": {
+    "name": "Zoetis Inc.",
+    "pe_ratio": "29.44",
+    "market_cap": "72.99B"
+  },
+  "NKE": {
+    "name": "Nike, Inc.",
+    "pe_ratio": "20.66",
+    "market_cap": "91.63B"
+  },
+  "UPS": {
+    "name": "United Parcel Service, Inc. Class B",
+    "pe_ratio": "14.46",
+    "market_cap": "83.93B"
+  },
+  "PYPL": {
+    "name": "Paypal Holdings, Inc.",
+    "pe_ratio": "16.22",
+    "market_cap": "70.33B"
+  },
+  "GD": {
+    "name": "General Dynamics Corporation",
+    "pe_ratio": "19.53",
+    "market_cap": "75.52B"
+  },
+  "WMB": {
+    "name": "Williams Companies Inc.",
+    "pe_ratio": "31.40",
+    "market_cap": "71.48B"
+  },
+  "MSI": {
+    "name": "Motorola Solutions, Inc.",
+    "pe_ratio": "35.48",
+    "market_cap": "70.99B"
+  },
+  "CMG": {
+    "name": "Chipotle Mexican Grill, Inc.",
+    "pe_ratio": "45.93",
+    "market_cap": "70.43B"
+  },
+  "PNC": {
+    "name": "Pnc Financial Services Group",
+    "pe_ratio": "12.61",
+    "market_cap": "70.66B"
+  },
+  "USB": {
+    "name": "U.S. Bancorp",
+    "pe_ratio": "11.09",
+    "market_cap": "69.78B"
+  },
+  "HCA": {
+    "name": "Hca Healthcare, Inc.",
+    "pe_ratio": "17.19",
+    "market_cap": "93.08B"
+  },
+  "DASH": {
+    "name": "Doordash, Inc. Class A",
+    "pe_ratio": "264.36",
+    "market_cap": "85.67B"
+  },
+  "EMR": {
+    "name": "Emerson Electric Co.",
+    "pe_ratio": "28.54",
+    "market_cap": "67.26B"
+  },
+  "HWM": {
+    "name": "Howmet Aerospace Inc.",
+    "pe_ratio": "54.20",
+    "market_cap": "67.11B"
+  },
+  "ITW": {
+    "name": "Illinois Tool Works Inc.",
+    "pe_ratio": "22.16",
+    "market_cap": "73.75B"
+  },
+  "FTNT": {
+    "name": "Fortinet, Inc.",
+    "pe_ratio": "43.12",
+    "market_cap": "80.18B"
+  },
+  "ECL": {
+    "name": "Ecolab, Inc.",
+    "pe_ratio": "35.55",
+    "market_cap": "74.10B"
+  },
+  "AZO": {
+    "name": "Autozone, Inc.",
+    "pe_ratio": "26.02",
+    "market_cap": "64.91B"
+  },
+  "BK": {
+    "name": "Bank of New York Mellon Corporation",
+    "pe_ratio": "14.72",
+    "market_cap": "64.63B"
+  },
+  "JCI": {
+    "name": "Johnson Controls International Plc",
+    "pe_ratio": "26.10",
+    "market_cap": "64.40B"
+  },
+  "NOC": {
+    "name": "Northrop Grumman Corp.",
+    "pe_ratio": "18.54",
+    "market_cap": "67.81B"
+  },
+  "EOG": {
+    "name": "Eog Resources, Inc.",
+    "pe_ratio": "10.57",
+    "market_cap": "62.19B"
+  },
+  "APO": {
+    "name": "Apollo Global Management, Inc.",
+    "pe_ratio": "25.19",
+    "market_cap": "81.50B"
+  },
+  "ADSK": {
+    "name": "Autodesk Inc",
+    "pe_ratio": "57.74",
+    "market_cap": "63.31B"
+  },
+  "RCL": {
+    "name": "Royal Caribbean Group",
+    "pe_ratio": "21.33",
+    "market_cap": "68.98B"
+  },
+  "MAR": {
+    "name": "Marriot International Class A",
+    "pe_ratio": "31.12",
+    "market_cap": "74.83B"
+  },
+  "REGN": {
+    "name": "Regeneron Pharmaceuticals Inc",
+    "pe_ratio": "15.18",
+    "market_cap": "64.41B"
+  },
+  "TRV": {
+    "name": "The Travelers Companies, Inc.",
+    "pe_ratio": "14.95",
+    "market_cap": "62.20B"
+  },
+  "ROP": {
+    "name": "Roper Technologies, Inc.",
+    "pe_ratio": "41.87",
+    "market_cap": "62.41B"
+  },
+  "HLT": {
+    "name": "Hilton Worldwide Holdings Inc.",
+    "pe_ratio": "40.45",
+    "market_cap": "60.96B"
+  },
+  "APD": {
+    "name": "Air Products & Chemicals, Inc.",
+    "pe_ratio": "40.31",
+    "market_cap": "61.72B"
+  },
+  "CARR": {
+    "name": "Carrier Global Corporation",
+    "pe_ratio": "17.40",
+    "market_cap": "65.01B"
+  },
+  "CSX": {
+    "name": "Csx Corporation",
+    "pe_ratio": "18.60",
+    "market_cap": "58.63B"
+  },
+  "ABNB": {
+    "name": "Airbnb, Inc. Class A",
+    "pe_ratio": "34.37",
+    "market_cap": "85.57B"
+  },
+  "WDAY": {
+    "name": "Workday, Inc. Class A",
+    "pe_ratio": "139.77",
+    "market_cap": "73.14B"
+  },
+  "NEM": {
+    "name": "Newmont Corporation",
+    "pe_ratio": "11.43",
+    "market_cap": "56.68B"
+  },
+  "COIN": {
+    "name": "Coinbase Global, Inc. Class A",
+    "pe_ratio": "49.47",
+    "market_cap": "67.24B"
+  },
+  "FCX": {
+    "name": "Freeport-Mcmoran Inc.",
+    "pe_ratio": "32.03",
+    "market_cap": "55.72B"
+  },
+  "CPRT": {
+    "name": "Copart Inc",
+    "pe_ratio": "42.60",
+    "market_cap": "61.28B"
+  },
+  "ALL": {
+    "name": "The Allstate Corporation",
+    "pe_ratio": "14.35",
+    "market_cap": "55.60B"
+  },
+  "AEP": {
+    "name": "American Electric Power Company, Inc.",
+    "pe_ratio": "20.02",
+    "market_cap": "55.44B"
+  },
+  "NSC": {
+    "name": "Norfolk Southern Corp.",
+    "pe_ratio": "16.65",
+    "market_cap": "54.96B"
+  },
+  "TFC": {
+    "name": "Truist Financial Corporation",
+    "pe_ratio": "12.20",
+    "market_cap": "54.21B"
+  },
+  "KMI": {
+    "name": "Kinder Morgan, Inc.",
+    "pe_ratio": "24.21",
+    "market_cap": "62.22B"
+  },
+  "DLR": {
+    "name": "Digital Realty Trust, Inc.",
+    "pe_ratio": "158.77",
+    "market_cap": "57.52B"
+  },
+  "AXON": {
+    "name": "Axon Enterprise, Inc.",
+    "pe_ratio": "179.68",
+    "market_cap": "57.79B"
+  },
+  "FICO": {
+    "name": "Fair Isaac Corporation",
+    "pe_ratio": "95.02",
+    "market_cap": "53.70B"
+  },
+  "VST": {
+    "name": "Vistra Corp.",
+    "pe_ratio": "24.68",
+    "market_cap": "53.38B"
+  },
+  "NXPI": {
+    "name": "Nxp Semiconductors N.v.",
+    "pe_ratio": "22.92",
+    "market_cap": "53.14B"
+  },
+  "AFL": {
+    "name": "Aflac Inc.",
+    "pe_ratio": "16.61",
+    "market_cap": "57.54B"
+  },
+  "OKE": {
+    "name": "Oneok, Inc.",
+    "pe_ratio": "16.54",
+    "market_cap": "52.93B"
+  },
+  "MPC": {
+    "name": "Marathon Petroleum Corporation",
+    "pe_ratio": "22.80",
+    "market_cap": "49.85B"
+  },
+  "ROST": {
+    "name": "Ross Stores Inc",
+    "pe_ratio": "24.41",
+    "market_cap": "50.73B"
+  },
+  "PCAR": {
+    "name": "Paccar Inc",
+    "pe_ratio": "14.72",
+    "market_cap": "50.93B"
+  },
+  "BDX": {
+    "name": "Becton, Dickinson and Co.",
+    "pe_ratio": "33.79",
+    "market_cap": "50.74B"
+  },
+  "PWR": {
+    "name": "Quanta Services, Inc.",
+    "pe_ratio": "55.73",
+    "market_cap": "51.09B"
+  },
+  "RSG": {
+    "name": "Republic Services Inc.",
+    "pe_ratio": "37.75",
+    "market_cap": "78.24B"
+  },
+  "PAYX": {
+    "name": "Paychex Inc",
+    "pe_ratio": "32.90",
+    "market_cap": "56.98B"
+  },
+  "COR": {
+    "name": "Cencora, Inc.",
+    "pe_ratio": "33.96",
+    "market_cap": "56.72B"
+  },
+  "PSX": {
+    "name": "Phillips 66",
+    "pe_ratio": "27.86",
+    "market_cap": "49.78B"
+  },
+  "SPG": {
+    "name": "Simon Property Group, Inc.",
+    "pe_ratio": "24.58",
+    "market_cap": "62.04B"
+  },
+  "AMP": {
+    "name": "Ameriprise Financial, Inc.",
+    "pe_ratio": "17.74",
+    "market_cap": "49.73B"
+  },
+  "FDX": {
+    "name": "Fedex Corporation",
+    "pe_ratio": "14.20",
+    "market_cap": "54.18B"
+  },
+  "AIG": {
+    "name": "American International Group, Inc.",
+    "pe_ratio": "18.84",
+    "market_cap": "48.61B"
+  },
+  "GM": {
+    "name": "General Motors Company",
+    "pe_ratio": "7.21",
+    "market_cap": "48.10B"
+  },
+  "SRE": {
+    "name": "Sempra",
+    "pe_ratio": "17.26",
+    "market_cap": "51.15B"
+  },
+  "SLB": {
+    "name": "Schlumberger Limited",
+    "pe_ratio": "11.91",
+    "market_cap": "47.76B"
+  },
+  "O": {
+    "name": "Realty Income Corporation",
+    "pe_ratio": "51.04",
+    "market_cap": "50.80B"
+  },
+  "GWW": {
+    "name": "W.W. Grainger, Inc.",
+    "pe_ratio": "28.10",
+    "market_cap": "52.86B"
+  },
+  "PSA": {
+    "name": "Public Storage",
+    "pe_ratio": "30.73",
+    "market_cap": "54.29B"
+  },
+  "TEL": {
+    "name": "Te Connectivity Plc",
+    "pe_ratio": "35.70",
+    "market_cap": "48.30B"
+  },
+  "FAST": {
+    "name": "Fastenal Co",
+    "pe_ratio": "41.48",
+    "market_cap": "47.70B"
+  },
+  "URI": {
+    "name": "United Rentals, Inc.",
+    "pe_ratio": "18.75",
+    "market_cap": "47.06B"
+  },
+  "D": {
+    "name": "Dominion Energy, Inc",
+    "pe_ratio": "21.09",
+    "market_cap": "47.93B"
+  },
+  "CTVA": {
+    "name": "Corteva, Inc.",
+    "pe_ratio": "41.95",
+    "market_cap": "46.94B"
+  },
+  "MET": {
+    "name": "Metlife, Inc.",
+    "pe_ratio": "13.17",
+    "market_cap": "54.29B"
+  },
+  "KMB": {
+    "name": "Kimberly-Clark Corp.",
+    "pe_ratio": "19.19",
+    "market_cap": "46.72B"
+  },
+  "CMI": {
+    "name": "Cummins Inc.",
+    "pe_ratio": "16.75",
+    "market_cap": "46.38B"
+  },
+  "EW": {
+    "name": "Edwards Lifesciences Corp",
+    "pe_ratio": "52.14",
+    "market_cap": "45.78B"
+  },
+  "KVUE": {
+    "name": "Kenvue Inc.",
+    "pe_ratio": "43.76",
+    "market_cap": "46.08B"
+  },
+  "KDP": {
+    "name": "Keurig Dr Pepper Inc.",
+    "pe_ratio": "30.64",
+    "market_cap": "45.95B"
+  },
+  "KR": {
+    "name": "The Kroger Co.",
+    "pe_ratio": "18.75",
+    "market_cap": "45.92B"
+  },
+  "TGT": {
+    "name": "Target Corporation",
+    "pe_ratio": "11.06",
+    "market_cap": "44.52B"
+  },
+  "CCI": {
+    "name": "Crown Castle Inc.",
+    "pe_ratio": "-",
+    "market_cap": "44.84B"
+  },
+  "EXC": {
+    "name": "Exelon Corporation",
+    "pe_ratio": "16.47",
+    "market_cap": "44.81B"
+  },
+  "MSCI": {
+    "name": "Msci, Inc.",
+    "pe_ratio": "39.38",
+    "market_cap": "44.31B"
+  },
+  "VRSK": {
+    "name": "Verisk Analytics, Inc.",
+    "pe_ratio": "46.03",
+    "market_cap": "43.97B"
+  },
+  "MNST": {
+    "name": "Monster Beverage Corporation",
+    "pe_ratio": "41.53",
+    "market_cap": "61.34B"
+  },
+  "LHX": {
+    "name": "L3harris Technologies, Inc.",
+    "pe_ratio": "27.37",
+    "market_cap": "43.18B"
+  },
+  "FIS": {
+    "name": "Fidelity National Information Services, Inc.",
+    "pe_ratio": "50.66",
+    "market_cap": "42.55B"
+  },
+  "IDXX": {
+    "name": "Idexx Laboratories Inc",
+    "pe_ratio": "48.20",
+    "market_cap": "41.95B"
+  },
+  "VLO": {
+    "name": "Valero Energy Corporation",
+    "pe_ratio": "47.36",
+    "market_cap": "42.07B"
+  },
+  "AME": {
+    "name": "Ametek, Inc.",
+    "pe_ratio": "29.79",
+    "market_cap": "41.99B"
+  },
+  "F": {
+    "name": "Ford Motor Company",
+    "pe_ratio": "8.61",
+    "market_cap": "42.75B"
+  },
+  "YUM": {
+    "name": "Yum! Brands, Inc.",
+    "pe_ratio": "29.84",
+    "market_cap": "41.60B"
+  },
+  "XEL": {
+    "name": "Xcel Energy, Inc.",
+    "pe_ratio": "21.29",
+    "market_cap": "41.65B"
+  },
+  "CTSH": {
+    "name": "Cognizant Technology Solutions",
+    "pe_ratio": "17.17",
+    "market_cap": "40.21B"
+  },
+  "CHTR": {
+    "name": "Charter Comm Inc Del Cl a",
+    "pe_ratio": "11.61",
+    "market_cap": "117.52B"
+  },
+  "PEG": {
+    "name": "Public Service Enterprise Group Incorporated",
+    "pe_ratio": "21.81",
+    "market_cap": "39.81B"
+  },
+  "OTIS": {
+    "name": "Otis Worldwide Corporation",
+    "pe_ratio": "25.84",
+    "market_cap": "38.89B"
+  },
+  "PCG": {
+    "name": "Pg&e Corporation",
+    "pe_ratio": "16.31",
+    "market_cap": "94.86M"
+  },
+  "CBRE": {
+    "name": "Cbre Group, Inc.",
+    "pe_ratio": "39.85",
+    "market_cap": "38.90B"
+  },
+  "TTWO": {
+    "name": "Take-Two Interactive Software Inc",
+    "pe_ratio": "-",
+    "market_cap": "41.42B"
+  },
+  "HIG": {
+    "name": "The Hartford Insurance Group, Inc.",
+    "pe_ratio": "13.12",
+    "market_cap": "37.41B"
+  },
+  "PRU": {
+    "name": "Prudential Financial, Inc.",
+    "pe_ratio": "17.09",
+    "market_cap": "38.22B"
+  },
+  "BKR": {
+    "name": "Baker Hughes Company",
+    "pe_ratio": "12.95",
+    "market_cap": "37.56B"
+  },
+  "RMD": {
+    "name": "Resmed Inc.",
+    "pe_ratio": "28.45",
+    "market_cap": "37.15B"
+  },
+  "GLW": {
+    "name": "Corning Incorporated",
+    "pe_ratio": "92.10",
+    "market_cap": "41.22B"
+  },
+  "CAH": {
+    "name": "Cardinal Health, Inc.",
+    "pe_ratio": "24.03",
+    "market_cap": "36.72B"
+  },
+  "HES": {
+    "name": "Hess Corporation",
+    "pe_ratio": "18.39",
+    "market_cap": "41.07B"
+  },
+  "ED": {
+    "name": "Consolidated Edison, Inc.",
+    "pe_ratio": "19.45",
+    "market_cap": "37.97B"
+  },
+  "VMC": {
+    "name": "Vulcan Materials Company",
+    "pe_ratio": "39.13",
+    "market_cap": "36.46B"
+  },
+  "LULU": {
+    "name": "Lululemon Athletica Inc.",
+    "pe_ratio": "22.18",
+    "market_cap": "40.55B"
+  },
+  "TRGP": {
+    "name": "Targa Resources Corp.",
+    "pe_ratio": "30.25",
+    "market_cap": "35.71B"
+  },
+  "SYY": {
+    "name": "Sysco Corporation",
+    "pe_ratio": "18.88",
+    "market_cap": "35.39B"
+  },
+  "EA": {
+    "name": "Electronic Arts Inc",
+    "pe_ratio": "35.52",
+    "market_cap": "37.74B"
+  },
+  "ACGL": {
+    "name": "Arch Capital Group Ltd",
+    "pe_ratio": "9.76",
+    "market_cap": "35.66B"
+  },
+  "DELL": {
+    "name": "Dell Technologies Inc.",
+    "pe_ratio": "18.38",
+    "market_cap": "79.75B"
+  },
+  "ETR": {
+    "name": "Entergy Corporation",
+    "pe_ratio": "26.93",
+    "market_cap": "35.76B"
+  },
+  "DHI": {
+    "name": "D.R. Horton Inc.",
+    "pe_ratio": "9.45",
+    "market_cap": "38.38B"
+  },
+  "WAB": {
+    "name": "Wabtec Inc.",
+    "pe_ratio": "32.47",
+    "market_cap": "35.45B"
+  },
+  "EFX": {
+    "name": "Equifax, Incorporated",
+    "pe_ratio": "57.29",
+    "market_cap": "34.84B"
+  },
+  "ROK": {
+    "name": "Rockwell Automation, Inc.",
+    "pe_ratio": "38.80",
+    "market_cap": "34.74B"
+  },
+  "MLM": {
+    "name": "Martin Marietta Materials",
+    "pe_ratio": "32.67",
+    "market_cap": "34.25B"
+  },
+  "EBAY": {
+    "name": "Ebay Inc",
+    "pe_ratio": "17.31",
+    "market_cap": "33.38B"
+  },
+  "IT": {
+    "name": "Gartner, Inc.",
+    "pe_ratio": "27.96",
+    "market_cap": "34.60B"
+  },
+  "DXCM": {
+    "name": "Dexcom, Inc.",
+    "pe_ratio": "65.28",
+    "market_cap": "34.10B"
+  },
+  "WEC": {
+    "name": "Wec Energy Group, Inc.",
+    "pe_ratio": "20.94",
+    "market_cap": "34.23B"
+  },
+  "NDAQ": {
+    "name": "Nasdaq, Inc.",
+    "pe_ratio": "37.16",
+    "market_cap": "47.06B"
+  },
+  "VICI": {
+    "name": "Vici Properties Inc.",
+    "pe_ratio": "12.83",
+    "market_cap": "33.97B"
+  },
+  "IR": {
+    "name": "Ingersoll Rand Inc.",
+    "pe_ratio": "41.30",
+    "market_cap": "33.71B"
+  },
+  "MPWR": {
+    "name": "Monolithic Power Systems, Inc.",
+    "pe_ratio": "18.65",
+    "market_cap": "33.63B"
+  },
+  "GEHC": {
+    "name": "Ge Healthcare Technologies Inc.",
+    "pe_ratio": "15.37",
+    "market_cap": "33.47B"
+  },
+  "EQT": {
+    "name": "Eqt Corp",
+    "pe_ratio": "95.81",
+    "market_cap": "33.26B"
+  },
+  "DAL": {
+    "name": "Delta Air Lines, Inc.",
+    "pe_ratio": "9.07",
+    "market_cap": "33.42B"
+  },
+  "NRG": {
+    "name": "Nrg Energy, Inc.",
+    "pe_ratio": "25.39",
+    "market_cap": "31.52B"
+  },
+  "MCHP": {
+    "name": "Microchip Technology Inc",
+    "pe_ratio": "-",
+    "market_cap": "32.58B"
+  },
+  "CSGP": {
+    "name": "Costar Group Inc",
+    "pe_ratio": "267.61",
+    "market_cap": "32.45B"
+  },
+  "EXR": {
+    "name": "Extra Space Storage, Inc.",
+    "pe_ratio": "35.47",
+    "market_cap": "33.81B"
+  },
+  "A": {
+    "name": "Agilent Technologies Inc.",
+    "pe_ratio": "26.07",
+    "market_cap": "32.34B"
+  },
+  "ODFL": {
+    "name": "Old Dominion Freight Line",
+    "pe_ratio": "32.17",
+    "market_cap": "36.27B"
+  },
+  "GRMN": {
+    "name": "Garmin Ltd",
+    "pe_ratio": "26.99",
+    "market_cap": "39.45B"
+  },
+  "WTW": {
+    "name": "Willis Towers Watson Public Limited Companys",
+    "pe_ratio": "-",
+    "market_cap": "31.13B"
+  },
+  "XYL": {
+    "name": "Xylem Inc",
+    "pe_ratio": "34.43",
+    "market_cap": "31.15B"
+  },
+  "MTB": {
+    "name": "M&t Bank Corp.",
+    "pe_ratio": "12.55",
+    "market_cap": "30.07B"
+  },
+  "CNC": {
+    "name": "Centene Corporation",
+    "pe_ratio": "9.16",
+    "market_cap": "30.63B"
+  },
+  "GIS": {
+    "name": "General Mills, Inc.",
+    "pe_ratio": "12.04",
+    "market_cap": "30.02B"
+  },
+  "ANSS": {
+    "name": "Ansys Inc",
+    "pe_ratio": "51.07",
+    "market_cap": "30.24B"
+  },
+  "STZ": {
+    "name": "Constellation Brands, Inc.",
+    "pe_ratio": "-",
+    "market_cap": "34.34B"
+  },
+  "HUM": {
+    "name": "Humana Inc.",
+    "pe_ratio": "17.49",
+    "market_cap": "29.85B"
+  },
+  "IRM": {
+    "name": "Iron Mountain Inc.",
+    "pe_ratio": "246.31",
+    "market_cap": "29.82B"
+  },
+  "AVB": {
+    "name": "Avalonbay Communities, Inc.",
+    "pe_ratio": "25.98",
+    "market_cap": "29.70B"
+  },
+  "DD": {
+    "name": "Dupont De Nemours, Inc.",
+    "pe_ratio": "-",
+    "market_cap": "28.84B"
+  },
+  "DTE": {
+    "name": "Dte Energy Company",
+    "pe_ratio": "18.71",
+    "market_cap": "28.76B"
+  },
+  "VTR": {
+    "name": "Ventas, Inc.",
+    "pe_ratio": "197.91",
+    "market_cap": "88.66B"
+  },
+  "OXY": {
+    "name": "Occidental Petroleum Corporation",
+    "pe_ratio": "17.12",
+    "market_cap": "41.64B"
+  },
+  "BR": {
+    "name": "Broadridge Financial Solutions Inc",
+    "pe_ratio": "36.49",
+    "market_cap": "28.52B"
+  },
+  "STT": {
+    "name": "State Street Corporation",
+    "pe_ratio": "11.04",
+    "market_cap": "28.03B"
+  },
+  "TSCO": {
+    "name": "Tractor Supply Co",
+    "pe_ratio": "26.31",
+    "market_cap": "28.05B"
+  },
+  "RJF": {
+    "name": "Raymond James Financial, Inc.",
+    "pe_ratio": "14.82",
+    "market_cap": "31.03B"
+  },
+  "KEYS": {
+    "name": "Keysight Technologies, Inc.",
+    "pe_ratio": "46.61",
+    "market_cap": "28.13B"
+  },
+  "AWK": {
+    "name": "American Water Works Company, Inc",
+    "pe_ratio": "26.16",
+    "market_cap": "28.03B"
+  },
+  "HPQ": {
+    "name": "Hp Inc.",
+    "pe_ratio": "10.46",
+    "market_cap": "27.43B"
+  },
+  "NUE": {
+    "name": "Nucor Corporation",
+    "pe_ratio": "20.62",
+    "market_cap": "26.73B"
+  },
+  "TPL": {
+    "name": "Texas Pacific Land Corporation",
+    "pe_ratio": "71.04",
+    "market_cap": "32.65B"
+  },
+  "AEE": {
+    "name": "Ameren Corporation",
+    "pe_ratio": "21.96",
+    "market_cap": "27.38B"
+  },
+  "GDDY": {
+    "name": "Godaddy Inc",
+    "pe_ratio": "36.45",
+    "market_cap": "27.06B"
+  },
+  "BRO": {
+    "name": "Brown & Brown, Inc.",
+    "pe_ratio": "31.22",
+    "market_cap": "32.10B"
+  },
+  "PPG": {
+    "name": "Ppg Industries, Inc.",
+    "pe_ratio": "19.35",
+    "market_cap": "25.94B"
+  },
+  "IP": {
+    "name": "International Paper Co.",
+    "pe_ratio": "43.05",
+    "market_cap": "26.65B"
+  },
+  "FITB": {
+    "name": "Fifth Third Bancorp",
+    "pe_ratio": "12.55",
+    "market_cap": "26.37B"
+  },
+  "FANG": {
+    "name": "Diamondback Energy, Inc.",
+    "pe_ratio": "8.53",
+    "market_cap": "40.71B"
+  },
+  "LEN": {
+    "name": "Lennar Corporation Class A",
+    "pe_ratio": "8.10",
+    "market_cap": "29.20B"
+  },
+  "UAL": {
+    "name": "United Airlines Holdings, Inc.",
+    "pe_ratio": "7.17",
+    "market_cap": "25.68B"
+  },
+  "PPL": {
+    "name": "Ppl Corporation",
+    "pe_ratio": "26.15",
+    "market_cap": "25.89B"
+  },
+  "DOV": {
+    "name": "Dover Corporation",
+    "pe_ratio": "11.23",
+    "market_cap": "25.56B"
+  },
+  "ATO": {
+    "name": "Atmos Energy Corporation",
+    "pe_ratio": "22.33",
+    "market_cap": "25.41B"
+  },
+  "VLTO": {
+    "name": "Veralto Corporation",
+    "pe_ratio": "29.22",
+    "market_cap": "25.33B"
+  },
+  "SBAC": {
+    "name": "Sba Communications Corp",
+    "pe_ratio": "31.17",
+    "market_cap": "25.31B"
+  },
+  "CDW": {
+    "name": "Cdw Corporation",
+    "pe_ratio": "23.30",
+    "market_cap": "24.76B"
+  },
+  "STE": {
+    "name": "Steris Plc",
+    "pe_ratio": "40.67",
+    "market_cap": "24.81B"
+  },
+  "FTV": {
+    "name": "Fortive Corporation",
+    "pe_ratio": "31.88",
+    "market_cap": "24.68B"
+  },
+  "TYL": {
+    "name": "Tyler Technologies, Inc.",
+    "pe_ratio": "86.56",
+    "market_cap": "24.76B"
+  },
+  "CNP": {
+    "name": "Centerpoint Energy, Inc.",
+    "pe_ratio": "25.32",
+    "market_cap": "24.58B"
+  },
+  "DRI": {
+    "name": "Darden Restaurants, Inc.",
+    "pe_ratio": "23.55",
+    "market_cap": "24.43B"
+  },
+  "KHC": {
+    "name": "The Kraft Heinz Company",
+    "pe_ratio": "12.64",
+    "market_cap": "33.00B"
+  },
+  "EQR": {
+    "name": "Equity Residential",
+    "pe_ratio": "27.84",
+    "market_cap": "27.95B"
+  },
+  "CCL": {
+    "name": "Carnival Corporation",
+    "pe_ratio": "15.58",
+    "market_cap": "30.35B"
+  },
+  "CPAY": {
+    "name": "Corpay, Inc.",
+    "pe_ratio": "24.46",
+    "market_cap": "24.59B"
+  },
+  "MTD": {
+    "name": "Mettler-Toledo International",
+    "pe_ratio": "28.91",
+    "market_cap": "24.09B"
+  },
+  "IQV": {
+    "name": "Iqvia Holdings Inc.",
+    "pe_ratio": "19.56",
+    "market_cap": "24.83B"
+  },
+  "ADM": {
+    "name": "Archer Daniels Midland Company",
+    "pe_ratio": "17.83",
+    "market_cap": "24.03B"
+  },
+  "EXE": {
+    "name": "Expand Energy Corporation",
+    "pe_ratio": "-",
+    "market_cap": "27.01B"
+  },
+  "CINF": {
+    "name": "Cincinnati Financial Corp",
+    "pe_ratio": "16.47",
+    "market_cap": "23.59B"
+  },
+  "CHD": {
+    "name": "Church & Dwight Co., Inc.",
+    "pe_ratio": "41.18",
+    "market_cap": "23.64B"
+  },
+  "CBOE": {
+    "name": "Cboe Global Markets, Inc.",
+    "pe_ratio": "29.42",
+    "market_cap": "23.50B"
+  },
+  "HBAN": {
+    "name": "Huntington Bancshares Inc",
+    "pe_ratio": "12.43",
+    "market_cap": "23.48B"
+  },
+  "SYF": {
+    "name": "Synchrony Financial",
+    "pe_ratio": "8.24",
+    "market_cap": "22.86B"
+  },
+  "LYV": {
+    "name": "Live Nation Entertainment Inc.",
+    "pe_ratio": "50.78",
+    "market_cap": "34.37B"
+  },
+  "ES": {
+    "name": "Eversource Energy",
+    "pe_ratio": "27.43",
+    "market_cap": "23.34B"
+  },
+  "TDY": {
+    "name": "Teledyne Technologies Incorporated",
+    "pe_ratio": "28.41",
+    "market_cap": "23.29B"
+  },
+  "HSY": {
+    "name": "The Hershey Company",
+    "pe_ratio": "19.31",
+    "market_cap": "31.72B"
+  },
+  "STX": {
+    "name": "Seagate Technology Holdings Plcs",
+    "pe_ratio": "15.76",
+    "market_cap": "23.14B"
+  },
+  "VRSN": {
+    "name": "Verisign Inc",
+    "pe_ratio": "34.53",
+    "market_cap": "26.53B"
+  },
+  "SW": {
+    "name": "Smurfit Westrock Plc",
+    "pe_ratio": "37.97",
+    "market_cap": "24.14B"
+  },
+  "HPE": {
+    "name": "Hewlett Packard Enterprise Company",
+    "pe_ratio": "8.64",
+    "market_cap": "22.94B"
+  },
+  "PODD": {
+    "name": "Insulet Corporation",
+    "pe_ratio": "58.64",
+    "market_cap": "22.93B"
+  },
+  "SMCI": {
+    "name": "Super Micro Computer, Inc.",
+    "pe_ratio": "24.72",
+    "market_cap": "26.73B"
+  },
+  "EIX": {
+    "name": "Edison International",
+    "pe_ratio": "8.23",
+    "market_cap": "22.32B"
+  },
+  "K": {
+    "name": "Kellanova",
+    "pe_ratio": "20.76",
+    "market_cap": "28.59B"
+  },
+  "WRB": {
+    "name": "W.R. Berkley Corporation",
+    "pe_ratio": "17.12",
+    "market_cap": "28.00B"
+  },
+  "FE": {
+    "name": "Firstenergy Corp.",
+    "pe_ratio": "22.79",
+    "market_cap": "24.73B"
+  },
+  "NVR": {
+    "name": "Nvr, Inc.",
+    "pe_ratio": "15.05",
+    "market_cap": "21.38B"
+  },
+  "TROW": {
+    "name": "T Rowe Price Group Inc",
+    "pe_ratio": "11.12",
+    "market_cap": "21.58B"
+  },
+  "AMCR": {
+    "name": "Amcor Plcs",
+    "pe_ratio": "16.94",
+    "market_cap": "21.76B"
+  },
+  "DG": {
+    "name": "Dollar General Corp.",
+    "pe_ratio": "19.20",
+    "market_cap": "21.59B"
+  },
+  "CMS": {
+    "name": "Cms Energy Corporation",
+    "pe_ratio": "21.29",
+    "market_cap": "21.53B"
+  },
+  "DVN": {
+    "name": "Devon Energy Corporation",
+    "pe_ratio": "7.44",
+    "market_cap": "20.99B"
+  },
+  "WSM": {
+    "name": "Williams-Sonoma, Inc.",
+    "pe_ratio": "19.33",
+    "market_cap": "21.43B"
+  },
+  "WAT": {
+    "name": "Waters Corp",
+    "pe_ratio": "32.51",
+    "market_cap": "21.34B"
+  },
+  "NTRS": {
+    "name": "Northern Trust Corp",
+    "pe_ratio": "10.08",
+    "market_cap": "21.01B"
+  },
+  "DOW": {
+    "name": "Dow Inc.",
+    "pe_ratio": "75.26",
+    "market_cap": "21.28B"
+  },
+  "HUBB": {
+    "name": "Hubbell Incorporated",
+    "pe_ratio": "26.43",
+    "market_cap": "20.86B"
+  },
+  "LDOS": {
+    "name": "Leidos Holdings, Inc.",
+    "pe_ratio": "16.06",
+    "market_cap": "20.53B"
+  },
+  "LH": {
+    "name": "Labcorp Holdings Inc.",
+    "pe_ratio": "28.82",
+    "market_cap": "20.90B"
+  },
+  "PHM": {
+    "name": "Pultegroup, Inc.",
+    "pe_ratio": "7.27",
+    "market_cap": "20.66B"
+  },
+  "PTC": {
+    "name": "Ptc, Inc",
+    "pe_ratio": "47.37",
+    "market_cap": "20.68B"
+  },
+  "NTAP": {
+    "name": "Netapp, Inc",
+    "pe_ratio": "18.79",
+    "market_cap": "20.95B"
+  },
+  "RF": {
+    "name": "Regions Financial Corp.",
+    "pe_ratio": "10.88",
+    "market_cap": "20.26B"
+  },
+  "EXPE": {
+    "name": "Expedia Group, Inc.",
+    "pe_ratio": "19.50",
+    "market_cap": "21.04B"
+  },
+  "WBD": {
+    "name": "Warner Bros. Discovery, Inc. Series a",
+    "pe_ratio": "-",
+    "market_cap": "22.39B"
+  },
+  "GPN": {
+    "name": "Global Payments, Inc.",
+    "pe_ratio": "13.05",
+    "market_cap": "19.72B"
+  },
+  "IFF": {
+    "name": "International Flavors & Fragrances Inc.",
+    "pe_ratio": "-",
+    "market_cap": "19.78B"
+  },
+  "DGX": {
+    "name": "Quest Diagnostics Inc.",
+    "pe_ratio": "22.51",
+    "market_cap": "19.88B"
+  },
+  "INVH": {
+    "name": "Invitation Homes Inc.",
+    "pe_ratio": "100.12",
+    "market_cap": "21.09B"
+  },
+  "LII": {
+    "name": "Lennox International Inc.",
+    "pe_ratio": "26.94",
+    "market_cap": "21.45B"
+  },
+  "DECK": {
+    "name": "Deckers Outdoor Corp",
+    "pe_ratio": "20.68",
+    "market_cap": "19.34B"
+  },
+  "LUV": {
+    "name": "Southwest Airlines Co.",
+    "pe_ratio": "38.70",
+    "market_cap": "18.57B"
+  },
+  "STLD": {
+    "name": "Steel Dynamics Inc",
+    "pe_ratio": "17.98",
+    "market_cap": "20.20B"
+  },
+  "WY": {
+    "name": "Weyerhaeuser Company",
+    "pe_ratio": "52.87",
+    "market_cap": "19.22B"
+  },
+  "ZBH": {
+    "name": "Zimmer Biomet Holdings, Inc.",
+    "pe_ratio": "21.22",
+    "market_cap": "18.95B"
+  },
+  "ULTA": {
+    "name": "Ulta Beauty, Inc.",
+    "pe_ratio": "16.16",
+    "market_cap": "18.51B"
+  },
+  "BIIB": {
+    "name": "Biogen Inc.",
+    "pe_ratio": "12.78",
+    "market_cap": "18.97B"
+  },
+  "MAA": {
+    "name": "Mid-America Apartment Communities, Inc.",
+    "pe_ratio": "33.58",
+    "market_cap": "19.38B"
+  },
+  "MKC": {
+    "name": "Mccormick & Company, Incorporated Non-Vtg Cs",
+    "pe_ratio": "25.54",
+    "market_cap": "19.96B"
+  },
+  "NI": {
+    "name": "Nisource Inc.",
+    "pe_ratio": "21.51",
+    "market_cap": "18.79B"
+  },
+  "ON": {
+    "name": "On Semiconductor Corp",
+    "pe_ratio": "30.41",
+    "market_cap": "18.32B"
+  },
+  "ESS": {
+    "name": "Essex Property Trust, Inc",
+    "pe_ratio": "27.42",
+    "market_cap": "19.10B"
+  },
+  "JBL": {
+    "name": "Jabil Inc.",
+    "pe_ratio": "40.13",
+    "market_cap": "17.97B"
+  },
+  "CFG": {
+    "name": "Citizens Financial Group, Inc.",
+    "pe_ratio": "13.24",
+    "market_cap": "18.03B"
+  },
+  "HAL": {
+    "name": "Halliburton Company",
+    "pe_ratio": "8.74",
+    "market_cap": "17.94B"
+  },
+  "CTRA": {
+    "name": "Coterra Energy Inc.",
+    "pe_ratio": "14.30",
+    "market_cap": "18.70B"
+  },
+  "MOH": {
+    "name": "Molina Healthcare, Inc.",
+    "pe_ratio": "15.72",
+    "market_cap": "17.63B"
+  },
+  "GPC": {
+    "name": "Genuine Parts Company",
+    "pe_ratio": "21.20",
+    "market_cap": "17.92B"
+  },
+  "FDS": {
+    "name": "Factset Research Systems",
+    "pe_ratio": "33.43",
+    "market_cap": "17.85B"
+  },
+  "FSLR": {
+    "name": "First Solar, Inc.",
+    "pe_ratio": "14.02",
+    "market_cap": "17.69B"
+  },
+  "DLTR": {
+    "name": "Dollar Tree Inc.",
+    "pe_ratio": "-",
+    "market_cap": "18.20B"
+  },
+  "WDC": {
+    "name": "Western Digital Corp.",
+    "pe_ratio": "9.64",
+    "market_cap": "17.70B"
+  },
+  "TRMB": {
+    "name": "Trimble Inc.",
+    "pe_ratio": "11.67",
+    "market_cap": "17.10B"
+  },
+  "PKG": {
+    "name": "Packaging Corp of America",
+    "pe_ratio": "20.36",
+    "market_cap": "17.50B"
+  },
+  "SNA": {
+    "name": "Snap-on Incorporated",
+    "pe_ratio": "17.37",
+    "market_cap": "17.36B"
+  },
+  "DPZ": {
+    "name": "Domino's Pizza Inc.",
+    "pe_ratio": "28.52",
+    "market_cap": "17.04B"
+  },
+  "PFG": {
+    "name": "Principal Financial Group, Inc.",
+    "pe_ratio": "17.43",
+    "market_cap": "18.23B"
+  },
+  "TPR": {
+    "name": "Tapestry, Inc.",
+    "pe_ratio": "21.67",
+    "market_cap": "17.11B"
+  },
+  "PNR": {
+    "name": "Pentair Plc",
+    "pe_ratio": "26.00",
+    "market_cap": "16.59B"
+  },
+  "EXPD": {
+    "name": "Expeditors International of Washington, Inc.",
+    "pe_ratio": "19.61",
+    "market_cap": "16.18B"
+  },
+  "CLX": {
+    "name": "Clorox Company",
+    "pe_ratio": "24.21",
+    "market_cap": "16.62B"
+  },
+  "FFIV": {
+    "name": "F5, Inc.",
+    "pe_ratio": "27.13",
+    "market_cap": "16.41B"
+  },
+  "KEY": {
+    "name": "Keycorp",
+    "pe_ratio": "-",
+    "market_cap": "18.07B"
+  },
+  "COO": {
+    "name": "The Cooper Companies, Inc.",
+    "pe_ratio": "39.61",
+    "market_cap": "16.38B"
+  },
+  "LNT": {
+    "name": "Alliant Energy Corporation",
+    "pe_ratio": "21.77",
+    "market_cap": "16.21B"
+  },
+  "BALL": {
+    "name": "Ball Corporation",
+    "pe_ratio": "28.82",
+    "market_cap": "15.07B"
+  },
+  "ROL": {
+    "name": "Rollins, Inc.",
+    "pe_ratio": "58.29",
+    "market_cap": "27.83B"
+  },
+  "BAX": {
+    "name": "Baxter International Inc.",
+    "pe_ratio": "-",
+    "market_cap": "16.15B"
+  },
+  "TSN": {
+    "name": "Tyson Foods, Inc.",
+    "pe_ratio": "21.35",
+    "market_cap": "19.57B"
+  },
+  "L": {
+    "name": "Loews Corporation",
+    "pe_ratio": "14.69",
+    "market_cap": "18.75B"
+  },
+  "J": {
+    "name": "Jacobs Solutions Inc.",
+    "pe_ratio": "35.54",
+    "market_cap": "15.48B"
+  },
+  "WST": {
+    "name": "West Pharmaceutical Services, Inc.",
+    "pe_ratio": "34.11",
+    "market_cap": "15.61B"
+  },
+  "GEN": {
+    "name": "Gen Digital Inc.",
+    "pe_ratio": "27.65",
+    "market_cap": "17.67B"
+  },
+  "APTV": {
+    "name": "Aptiv Plc",
+    "pe_ratio": "11.16",
+    "market_cap": "14.66B"
+  },
+  "LYB": {
+    "name": "Lyondellbasell Industries N.v. Class A",
+    "pe_ratio": "18.30",
+    "market_cap": "19.02B"
+  },
+  "EVRG": {
+    "name": "Evergy, Inc.",
+    "pe_ratio": "17.68",
+    "market_cap": "15.44B"
+  },
+  "ZBRA": {
+    "name": "Zebra Technologies Corporation",
+    "pe_ratio": "28.15",
+    "market_cap": "15.15B"
+  },
+  "EL": {
+    "name": "The Estee Lauder Companies Inc. Class A",
+    "pe_ratio": "-",
+    "market_cap": "23.51B"
+  },
+  "CF": {
+    "name": "Cf Industries Holding, Inc.",
+    "pe_ratio": "11.55",
+    "market_cap": "14.19B"
+  },
+  "OMC": {
+    "name": "Omnicom Group Inc.",
+    "pe_ratio": "10.53",
+    "market_cap": "15.02B"
+  },
+  "EG": {
+    "name": "Everest Group, Ltd.",
+    "pe_ratio": "17.53",
+    "market_cap": "14.78B"
+  },
+  "AVY": {
+    "name": "Avery Dennison Corp.",
+    "pe_ratio": "21.12",
+    "market_cap": "14.35B"
+  },
+  "KIM": {
+    "name": "Kimco Realty Corp.",
+    "pe_ratio": "28.33",
+    "market_cap": "14.66B"
+  },
+  "LVS": {
+    "name": "Las Vegas Sands Corp.",
+    "pe_ratio": "23.58",
+    "market_cap": "29.90B"
+  },
+  "IEX": {
+    "name": "Idex Corporation",
+    "pe_ratio": "30.08",
+    "market_cap": "14.35B"
+  },
+  "MAS": {
+    "name": "Masco Corporation",
+    "pe_ratio": "18.24",
+    "market_cap": "14.08B"
+  },
+  "BBY": {
+    "name": "Best Buy Company, Inc.",
+    "pe_ratio": "16.74",
+    "market_cap": "15.16B"
+  },
+  "TXT": {
+    "name": "Textron, Inc.",
+    "pe_ratio": "17.30",
+    "market_cap": "13.80B"
+  },
+  "BLDR": {
+    "name": "Builders Firstsource, Inc.",
+    "pe_ratio": "15.10",
+    "market_cap": "13.00B"
+  },
+  "JKHY": {
+    "name": "Henry (Jack) & Associates",
+    "pe_ratio": "31.37",
+    "market_cap": "13.42B"
+  },
+  "TER": {
+    "name": "Teradyne, Inc.",
+    "pe_ratio": "23.06",
+    "market_cap": "13.07B"
+  },
+  "ALGN": {
+    "name": "Align Technology Inc",
+    "pe_ratio": "33.64",
+    "market_cap": "13.40B"
+  },
+  "CPT": {
+    "name": "Camden Property Trust",
+    "pe_ratio": "109.49",
+    "market_cap": "16.85B"
+  },
+  "UDR": {
+    "name": "Udr, Inc.",
+    "pe_ratio": "118.16",
+    "market_cap": "13.99B"
+  },
+  "HOLX": {
+    "name": "Hologic Inc",
+    "pe_ratio": "23.83",
+    "market_cap": "12.58B"
+  },
+  "ALLE": {
+    "name": "Allegion Public Limited Company",
+    "pe_ratio": "20.29",
+    "market_cap": "12.43B"
+  },
+  "DOC": {
+    "name": "Healthpeak Properties, Inc.",
+    "pe_ratio": "44.66",
+    "market_cap": "12.59B"
+  },
+  "POOL": {
+    "name": "Pool Corporation",
+    "pe_ratio": "30.24",
+    "market_cap": "12.12B"
+  },
+  "PAYC": {
+    "name": "Paycom Software, Inc.",
+    "pe_ratio": "37.11",
+    "market_cap": "15.03B"
+  },
+  "FOXA": {
+    "name": "Fox Corporation Class A",
+    "pe_ratio": "13.88",
+    "market_cap": "24.12B"
+  },
+  "REG": {
+    "name": "Regency Centers Corporation",
+    "pe_ratio": "34.93",
+    "market_cap": "13.52B"
+  },
+  "SJM": {
+    "name": "The J.M. Smucker Company",
+    "pe_ratio": "-",
+    "market_cap": "12.07B"
+  },
+  "JNPR": {
+    "name": "Juniper Networks Inc",
+    "pe_ratio": "34.53",
+    "market_cap": "12.08B"
+  },
+  "CHRW": {
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "pe_ratio": "23.91",
+    "market_cap": "11.88B"
+  },
+  "AKAM": {
+    "name": "Akamai Technologies Inc",
+    "pe_ratio": "26.27",
+    "market_cap": "11.39B"
+  },
+  "SWKS": {
+    "name": "Skyworks Solutions Inc",
+    "pe_ratio": "28.48",
+    "market_cap": "10.95B"
+  },
+  "JBHT": {
+    "name": "Jb Hunt Transport Services Inc",
+    "pe_ratio": "26.55",
+    "market_cap": "14.51B"
+  },
+  "UHS": {
+    "name": "Universal Health Services, Inc. Class B",
+    "pe_ratio": "11.05",
+    "market_cap": "12.68B"
+  },
+  "RVTY": {
+    "name": "Revvity, Inc.",
+    "pe_ratio": "37.28",
+    "market_cap": "11.12B"
+  },
+  "ARE": {
+    "name": "Alexandria Real Estate Equities, Inc.",
+    "pe_ratio": "97.22",
+    "market_cap": "12.81B"
+  },
+  "MOS": {
+    "name": "The Mosaic Company",
+    "pe_ratio": "30.51",
+    "market_cap": "11.21B"
+  },
+  "NDSN": {
+    "name": "Nordson Corp",
+    "pe_ratio": "26.03",
+    "market_cap": "11.64B"
+  },
+  "LKQ": {
+    "name": "Lkq Corporation",
+    "pe_ratio": "15.82",
+    "market_cap": "10.92B"
+  },
+  "CAG": {
+    "name": "Conagra Brands, Inc.",
+    "pe_ratio": "33.67",
+    "market_cap": "10.98B"
+  },
+  "RL": {
+    "name": "Ralph Lauren Corporation",
+    "pe_ratio": "25.31",
+    "market_cap": "17.15B"
+  },
+  "TKO": {
+    "name": "Tko Group Holdings, Inc.",
+    "pe_ratio": "95.20",
+    "market_cap": "32.45B"
+  },
+  "SWK": {
+    "name": "Stanley Black & Decker, Inc.",
+    "pe_ratio": "29.99",
+    "market_cap": "10.93B"
+  },
+  "HST": {
+    "name": "Host Hotels & Resorts, Inc.",
+    "pe_ratio": "15.99",
+    "market_cap": "10.70B"
+  },
+  "NWSA": {
+    "name": "News Corporation Class A",
+    "pe_ratio": "33.19",
+    "market_cap": "16.87B"
+  },
+  "BG": {
+    "name": "Bunge Global Sa",
+    "pe_ratio": "10.18",
+    "market_cap": "10.79B"
+  },
+  "KMX": {
+    "name": "Carmax Inc.",
+    "pe_ratio": "21.21",
+    "market_cap": "10.35B"
+  },
+  "PNW": {
+    "name": "Pinnacle West Capital Corporation",
+    "pe_ratio": "18.37",
+    "market_cap": "11.04B"
+  },
+  "SOLV": {
+    "name": "Solventum Corporation",
+    "pe_ratio": "34.91",
+    "market_cap": "13.11B"
+  },
+  "VTRS": {
+    "name": "Viatris Inc.",
+    "pe_ratio": "-",
+    "market_cap": "10.28B"
+  },
+  "AIZ": {
+    "name": "Assurant, Inc.",
+    "pe_ratio": "15.86",
+    "market_cap": "10.31B"
+  },
+  "EPAM": {
+    "name": "Epam Systems, Inc.",
+    "pe_ratio": "25.69",
+    "market_cap": "10.41B"
+  },
+  "GL": {
+    "name": "Globe Life Inc.",
+    "pe_ratio": "9.94",
+    "market_cap": "10.09B"
+  },
+  "INCY": {
+    "name": "Incyte Genomics Inc",
+    "pe_ratio": "197.43",
+    "market_cap": "12.35B"
+  },
+  "BXP": {
+    "name": "Bxp, Inc.",
+    "pe_ratio": "-",
+    "market_cap": "11.81B"
+  },
+  "TAP": {
+    "name": "Molson Coors Beverage Company Class B",
+    "pe_ratio": "11.38",
+    "market_cap": "11.44B"
+  },
+  "EMN": {
+    "name": "Eastman Chemical Company",
+    "pe_ratio": "10.46",
+    "market_cap": "9.49B"
+  },
+  "IPG": {
+    "name": "The Interpublic Group of Companies, Inc.",
+    "pe_ratio": "19.46",
+    "market_cap": "9.41B"
+  },
+  "DAY": {
+    "name": "Dayforce, Inc.",
+    "pe_ratio": "372.36",
+    "market_cap": "9.52B"
+  },
+  "ERIE": {
+    "name": "Erie Indemnity Co",
+    "pe_ratio": "31.97",
+    "market_cap": "17.36B"
+  },
+  "HII": {
+    "name": "Huntington Ingalls Industries, Inc.",
+    "pe_ratio": "16.53",
+    "market_cap": "9.00B"
+  },
+  "HSIC": {
+    "name": "Henry Schein Inc",
+    "pe_ratio": "22.33",
+    "market_cap": "8.74B"
+  },
+  "HAS": {
+    "name": "Hasbro, Inc.",
+    "pe_ratio": "22.49",
+    "market_cap": "9.55B"
+  },
+  "MRNA": {
+    "name": "Moderna, Inc.",
+    "pe_ratio": "-",
+    "market_cap": "10.21B"
+  },
+  "HRL": {
+    "name": "Hormel Foods Corporation",
+    "pe_ratio": "21.86",
+    "market_cap": "16.56B"
+  },
+  "WYNN": {
+    "name": "Wynn Resorts Ltd",
+    "pe_ratio": "26.35",
+    "market_cap": "10.09B"
+  },
+  "AOS": {
+    "name": "A.O. Smith Corporation",
+    "pe_ratio": "19.72",
+    "market_cap": "10.02B"
+  },
+  "AES": {
+    "name": "Aes Corporation",
+    "pe_ratio": "6.39",
+    "market_cap": "8.34B"
+  },
+  "NCLH": {
+    "name": "Norwegian Cruise Line Holdings Ltd.s",
+    "pe_ratio": "11.53",
+    "market_cap": "8.45B"
+  },
+  "MKTX": {
+    "name": "Marketaxess Holdings Inc.",
+    "pe_ratio": "38.10",
+    "market_cap": "8.23B"
+  },
+  "WBA": {
+    "name": "Walgreens Boots Alliance, Inc",
+    "pe_ratio": "-",
+    "market_cap": "9.73B"
+  },
+  "TECH": {
+    "name": "Bio-Techne Corp.",
+    "pe_ratio": "60.07",
+    "market_cap": "7.73B"
+  },
+  "GNRC": {
+    "name": "Generac Holdings Inc",
+    "pe_ratio": "22.46",
+    "market_cap": "7.62B"
+  },
+  "LW": {
+    "name": "Lamb Weston Holdings, Inc.",
+    "pe_ratio": "21.00",
+    "market_cap": "7.56B"
+  },
+  "MTCH": {
+    "name": "Match Group, Inc",
+    "pe_ratio": "14.77",
+    "market_cap": "7.34B"
+  },
+  "FRT": {
+    "name": "Federal Realty Investment Trust",
+    "pe_ratio": "28.08",
+    "market_cap": "8.49B"
+  },
+  "MGM": {
+    "name": "Mgm Resorts International",
+    "pe_ratio": "15.08",
+    "market_cap": "9.16B"
+  },
+  "CRL": {
+    "name": "Charles River Laboratories International, Inc.",
+    "pe_ratio": "-",
+    "market_cap": "6.94B"
+  },
+  "PARA": {
+    "name": "Paramount Global Class B",
+    "pe_ratio": "-",
+    "market_cap": "8.39B"
+  },
+  "ALB": {
+    "name": "Albemarle Corporation",
+    "pe_ratio": "-",
+    "market_cap": "6.97B"
+  },
+  "CPB": {
+    "name": "The Campbell's Company",
+    "pe_ratio": "20.44",
+    "market_cap": "10.58B"
+  },
+  "IVZ": {
+    "name": "Invesco Ltd",
+    "pe_ratio": "12.28",
+    "market_cap": "6.86B"
+  },
+  "BEN": {
+    "name": "Franklin Resources, Inc.",
+    "pe_ratio": "32.17",
+    "market_cap": "11.67B"
+  },
+  "FOX": {
+    "name": "Fox Corporation Class B",
+    "pe_ratio": "12.85",
+    "market_cap": "24.12B"
+  },
+  "BF.B": {
+    "name": "Brown-Forman Corporation Class B",
+    "pe_ratio": "17.05",
+    "market_cap": "16.81B"
+  },
+  "ENPH": {
+    "name": "Enphase Energy, Inc.",
+    "pe_ratio": "45.38",
+    "market_cap": "6.40B"
+  },
+  "APA": {
+    "name": "Apa Corporation",
+    "pe_ratio": "6.26",
+    "market_cap": "6.25B"
+  },
+  "DVA": {
+    "name": "Davita Inc.",
+    "pe_ratio": "14.35",
+    "market_cap": "10.94B"
+  },
+  "CZR": {
+    "name": "Caesars Entertainment, Inc.",
+    "pe_ratio": "-",
+    "market_cap": "6.15B"
+  },
+  "MHK": {
+    "name": "Mohawk Industries, Inc.",
+    "pe_ratio": "14.07",
+    "market_cap": "6.73B"
+  },
+  "NWS": {
+    "name": "News Corporation Class B",
+    "pe_ratio": "38.34",
+    "market_cap": "16.87B"
+  },
+  "AMTM": {
+    "name": "Amentum Holdings, Inc.",
+    "pe_ratio": "327.00",
+    "market_cap": "5.36B"
+  }
+}

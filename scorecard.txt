@@ -1,0 +1,115 @@
+# AI-Readiness Scorecard for S&P 500 Annual Report Analysis
+
+Analyze the following 10-K report and rate the company's AI readiness based on the scorecard defined below. Provide a score (1-5) for each dimension and an overall weighted average score.
+
+## Scoring Instructions
+
+- **Be specific**: Cite exact phrases or sections from the report that support your ratings
+- **Look for concrete evidence**: Prioritize specific initiatives, investments, and metrics over general statements
+- **Consider scale and ambition**: Rate based on the comprehensiveness and strategic importance of AI-related activities
+- **Differentiate carefully**: Use the full 1-5 scale - avoid clustering scores in the middle
+
+---
+
+## **Dimension 1: AI Strategy and Vision (Weighting: 35%)**
+
+**What to look for:** Explicit mentions of artificial intelligence, machine learning, automation, algorithmic decision-making, intelligent systems, generative AI, or AI transformation initiatives.
+
+- **Rating 1 (Minimal):** No mention of AI, ML, or intelligent automation. Digital transformation discussion limited to basic digitization or legacy system upgrades.
+
+- **Rating 2 (Emerging):** Scattered references to AI/ML or automation with no clear strategic framework. May mention "exploring AI opportunities" without specifics.
+
+- **Rating 3 (Developing):** Clear acknowledgment of AI as strategically important with some concrete examples of pilot programs or initial implementations. Limited integration across business units.
+
+- **Rating 4 (Advanced):** AI/ML explicitly positioned as a key strategic priority with multiple specific use cases, dedicated investments, and clear business impact metrics. Evidence of AI integration across several business functions.
+
+- **Rating 5 (Leading):** Comprehensive AI strategy with detailed roadmap, significant financial commitments, measurable results, and AI positioned as core to competitive advantage. Evidence of AI-first thinking in business model evolution.
+
+---
+
+## **Dimension 2: Data Infrastructure and Analytics Maturity (Weighting: 25%)**
+
+**What to look for:** Data platforms, analytics capabilities, data science teams, real-time processing, data governance, predictive analytics, business intelligence sophistication.
+
+- **Rating 1 (Basic):** Limited discussion of data beyond compliance reporting. No mention of analytics capabilities or data-driven decision making.
+
+- **Rating 2 (Foundational):** Basic data collection and reporting mentioned. May reference market research or customer surveys but no advanced analytics.
+
+- **Rating 3 (Intermediate):** Business intelligence and basic analytics capabilities described. Some mention of data-driven insights or customer analytics. Data governance policies referenced.
+
+- **Rating 4 (Sophisticated):** Advanced analytics capabilities with predictive modeling, real-time data processing, or customer personalization. Clear data strategy with infrastructure investments. Data science or analytics teams mentioned.
+
+- **Rating 5 (Cutting-edge):** Comprehensive data ecosystem with AI/ML analytics, real-time decision engines, advanced personalization, and data monetization strategies. Evidence of proprietary data advantages and sophisticated modeling capabilities.
+
+---
+
+## **Dimension 3: Technology Infrastructure and Digital Capabilities (Weighting: 20%)**
+
+**What to look for:** Cloud adoption, API strategies, platform architectures, technology partnerships, digital platforms, automation systems, integration capabilities.
+
+- **Rating 1 (Legacy):** Minimal discussion of technology infrastructure. Focus on maintaining existing systems rather than innovation.
+
+- **Rating 2 (Transitioning):** Some cloud adoption or system modernization mentioned but primarily focused on cost savings or basic efficiency.
+
+- **Rating 3 (Modernizing):** Clear cloud strategy with migration initiatives. Some mention of APIs, digital platforms, or system integration projects. Technology partnerships for digital capabilities.
+
+- **Rating 4 (Advanced):** Comprehensive cloud-native or hybrid infrastructure. Platform-based architectures enabling rapid development. Strategic technology partnerships with major cloud/AI providers. Automation of core processes.
+
+- **Rating 5 (Next-generation):** State-of-the-art technology stack optimized for AI/ML workloads. Real-time processing capabilities, edge computing, or advanced integration platforms. Technology infrastructure as competitive moat.
+
+---
+
+## **Dimension 4: Human Capital and AI Skills Development (Weighting: 15%)**
+
+**What to look for:** Data science hiring, AI/ML training programs, digital skills development, technology talent acquisition, reskilling initiatives, AI literacy programs.
+
+- **Rating 1 (Traditional):** No mention of technology-specific talent acquisition or skills development programs.
+
+- **Rating 2 (Awareness):** General employee development mentioned but no specific focus on digital or analytical skills.
+
+- **Rating 3 (Building):** Some technology training or digital skills programs referenced. May mention efforts to hire technology talent or upskill existing workforce.
+
+- **Rating 4 (Investing):** Specific AI/ML talent acquisition strategies. Comprehensive digital skills training programs. Partnerships with universities for AI research or talent pipeline.
+
+- **Rating 5 (Leading):** Extensive AI/data science teams. Company-wide AI literacy initiatives. Centers of excellence for AI/ML. Strategic talent partnerships and retention programs for critical AI skills.
+
+---
+
+## **Dimension 5: AI Governance and Responsible Implementation (Weighting: 5%)**
+
+**What to look for:** AI ethics policies, algorithmic fairness, AI risk management, responsible AI frameworks, bias mitigation, transparency in AI systems.
+
+- **Rating 1 (Absent):** No discussion of AI-related governance, ethics, or risk management beyond basic cybersecurity.
+
+- **Rating 2 (Basic):** General data privacy and cybersecurity policies mentioned but no AI-specific governance framework.
+
+- **Rating 3 (Developing):** Some recognition of AI-related risks or ethical considerations. Basic governance structures for data and technology projects.
+
+- **Rating 4 (Structured):** Clear AI governance framework with specific policies for responsible AI development and deployment. Board-level oversight of AI initiatives.
+
+- **Rating 5 (Exemplary):** Comprehensive responsible AI program with detailed ethics guidelines, bias testing procedures, transparency requirements, and regular auditing of AI systems. Industry leadership in AI governance.
+
+---
+
+## **Output Format Requirements**
+
+Provide your analysis in exactly this format:
+
+**Company:** [Company Name]
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): X/5
+- Dimension 2 (Data Infrastructure and Analytics): X/5  
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): X/5
+- Dimension 4 (Human Capital and AI Skills): X/5
+- Dimension 5 (AI Governance and Responsible Implementation): X/5
+
+**Overall AI-Readiness Score:** X.XX/5.00
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Strongest AI Indicators:** [2-3 specific examples from the report]
+- **Main AI Gaps:** [1-2 areas where the company shows limited AI readiness]
+- **Strategic AI Positioning:** [1-2 sentences on how AI fits into their business strategy]
+
+**Confidence Level:** [High/Medium/Low] - based on the specificity and depth of AI-related disclosures in the report

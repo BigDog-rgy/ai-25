@@ -1,0 +1,396 @@
+{
+  "total_keyword_sentences": 26828,
+  "keywords": [
+    {
+      "keyword": "cybersecurity",
+      "total_sentences": 13581,
+      "percent_of_total_sentences": 50.62
+    },
+    {
+      "keyword": "ai",
+      "total_sentences": 4384,
+      "percent_of_total_sentences": 16.34
+    },
+    {
+      "keyword": "underwriting",
+      "total_sentences": 1910,
+      "percent_of_total_sentences": 7.12
+    },
+    {
+      "keyword": "artificial intelligence",
+      "total_sentences": 1603,
+      "percent_of_total_sentences": 5.98
+    },
+    {
+      "keyword": "data security",
+      "total_sentences": 967,
+      "percent_of_total_sentences": 3.6
+    },
+    {
+      "keyword": "clinical trials",
+      "total_sentences": 772,
+      "percent_of_total_sentences": 2.88
+    },
+    {
+      "keyword": "regulatory compliance",
+      "total_sentences": 392,
+      "percent_of_total_sentences": 1.46
+    },
+    {
+      "keyword": "cloud services",
+      "total_sentences": 304,
+      "percent_of_total_sentences": 1.13
+    },
+    {
+      "keyword": "risk assessment",
+      "total_sentences": 300,
+      "percent_of_total_sentences": 1.12
+    },
+    {
+      "keyword": "cloud computing",
+      "total_sentences": 284,
+      "percent_of_total_sentences": 1.06
+    },
+
+    {
+      "keyword": "quality control",
+      "total_sentences": 260,
+      "percent_of_total_sentences": 0.97
+    },
+    {
+      "keyword": "inventory management",
+      "total_sentences": 180,
+      "percent_of_total_sentences": 0.67
+    },
+    {
+      "keyword": "data management",
+      "total_sentences": 171,
+      "percent_of_total_sentences": 0.64
+    },
+    {
+      "keyword": "portfolio management",
+      "total_sentences": 166,
+      "percent_of_total_sentences": 0.62
+    },
+    {
+      "keyword": "aws",
+      "total_sentences": 136,
+      "percent_of_total_sentences": 0.51
+    },
+    {
+      "keyword": "genomics",
+      "total_sentences": 120,
+      "percent_of_total_sentences": 0.45
+    },
+    {
+      "keyword": "drug discovery",
+      "total_sentences": 103,
+      "percent_of_total_sentences": 0.38
+    },
+    {
+      "keyword": "robotics",
+      "total_sentences": 82,
+      "percent_of_total_sentences": 0.31
+    },
+    {
+      "keyword": "machine learning",
+      "total_sentences": 75,
+      "percent_of_total_sentences": 0.28
+    },
+    {
+      "keyword": "gpus",
+      "total_sentences": 75,
+      "percent_of_total_sentences": 0.28
+    },
+    {
+      "keyword": "hybrid cloud",
+      "total_sentences": 75,
+      "percent_of_total_sentences": 0.28
+    },
+    {
+      "keyword": "transformers",
+      "total_sentences": 62,
+      "percent_of_total_sentences": 0.23
+    },
+    {
+      "keyword": "data governance",
+      "total_sentences": 60,
+      "percent_of_total_sentences": 0.22
+    },
+    {
+      "keyword": "patient monitoring",
+      "total_sentences": 57,
+      "percent_of_total_sentences": 0.21
+    },
+    {
+      "keyword": "algorithmic",
+      "total_sentences": 53,
+      "percent_of_total_sentences": 0.2
+    },
+    {
+      "keyword": "pathology",
+      "total_sentences": 52,
+      "percent_of_total_sentences": 0.19
+    },
+    {
+      "keyword": "cloud infrastructure",
+      "total_sentences": 42,
+      "percent_of_total_sentences": 0.16
+    },
+    {
+      "keyword": "data science",
+      "total_sentences": 38,
+      "percent_of_total_sentences": 0.14
+    },
+    {
+      "keyword": "autonomous vehicles",
+      "total_sentences": 35,
+      "percent_of_total_sentences": 0.13
+    },
+    {
+      "keyword": "digital health",
+      "total_sentences": 30,
+      "percent_of_total_sentences": 0.11
+    },
+    {
+      "keyword": "azure",
+      "total_sentences": 27,
+      "percent_of_total_sentences": 0.1
+    },
+    {
+      "keyword": "fraud detection",
+      "total_sentences": 27,
+      "percent_of_total_sentences": 0.1
+    },
+    {
+      "keyword": "adas",
+      "total_sentences": 26,
+      "percent_of_total_sentences": 0.1
+    },
+    {
+      "keyword": "predictive analytics",
+      "total_sentences": 26,
+      "percent_of_total_sentences": 0.1
+    },
+    {
+      "keyword": "gcp",
+      "total_sentences": 25,
+      "percent_of_total_sentences": 0.09
+    },
+    {
+      "keyword": "supply chain optimization",
+      "total_sentences": 24,
+      "percent_of_total_sentences": 0.09
+    },
+    {
+      "keyword": "telehealth",
+      "total_sentences": 23,
+      "percent_of_total_sentences": 0.09
+    },
+    {
+      "keyword": "cloud platforms",
+      "total_sentences": 21,
+      "percent_of_total_sentences": 0.08
+    },
+    {
+      "keyword": "multi-cloud",
+      "total_sentences": 21,
+      "percent_of_total_sentences": 0.08
+    },
+    {
+      "keyword": "accelerators",
+      "total_sentences": 19,
+      "percent_of_total_sentences": 0.07
+    },
+    {
+      "keyword": "cloud native",
+      "total_sentences": 17,
+      "percent_of_total_sentences": 0.06
+    },
+    {
+      "keyword": "radiology",
+      "total_sentences": 14,
+      "percent_of_total_sentences": 0.05
+    },
+    {
+      "keyword": "edge computing",
+      "total_sentences": 13,
+      "percent_of_total_sentences": 0.05
+    },
+    {
+      "keyword": "kubernetes",
+      "total_sentences": 13,
+      "percent_of_total_sentences": 0.05
+    },
+    {
+      "keyword": "ml",
+      "total_sentences": 13,
+      "percent_of_total_sentences": 0.05
+    },
+    {
+      "keyword": "process optimization",
+      "total_sentences": 11,
+      "percent_of_total_sentences": 0.04
+    },
+    {
+      "keyword": "medical imaging",
+      "total_sentences": 11,
+      "percent_of_total_sentences": 0.04
+    },
+    {
+      "keyword": "large language models",
+      "total_sentences": 10,
+      "percent_of_total_sentences": 0.04
+    },
+    {
+      "keyword": "game development",
+      "total_sentences": 10,
+      "percent_of_total_sentences": 0.04
+    },
+    {
+      "keyword": "data integration",
+      "total_sentences": 9,
+      "percent_of_total_sentences": 0.03
+    },
+    {
+      "keyword": "llm",
+      "total_sentences": 8,
+      "percent_of_total_sentences": 0.03
+    },
+    {
+      "keyword": "deep learning",
+      "total_sentences": 7,
+      "percent_of_total_sentences": 0.03
+    },
+    {
+      "keyword": "route optimization",
+      "total_sentences": 7,
+      "percent_of_total_sentences": 0.03
+    },
+    {
+      "keyword": "hospital management",
+      "total_sentences": 7,
+      "percent_of_total_sentences": 0.03
+    },
+    {
+      "keyword": "demand forecasting",
+      "total_sentences": 6,
+      "percent_of_total_sentences": 0.02
+    },
+    {
+      "keyword": "quantum computing",
+      "total_sentences": 6,
+      "percent_of_total_sentences": 0.02
+    },
+    {
+      "keyword": "neural networks",
+      "total_sentences": 5,
+      "percent_of_total_sentences": 0.02
+    },
+    {
+      "keyword": "autonomous systems",
+      "total_sentences": 5,
+      "percent_of_total_sentences": 0.02
+    },
+    {
+      "keyword": "robotic process automation",
+      "total_sentences": 5,
+      "percent_of_total_sentences": 0.02
+    },
+    {
+      "keyword": "precision medicine",
+      "total_sentences": 4,
+      "percent_of_total_sentences": 0.01
+    },
+    {
+      "keyword": "intelligent automation",
+      "total_sentences": 4,
+      "percent_of_total_sentences": 0.01
+    },
+    {
+      "keyword": "target identification",
+      "total_sentences": 4,
+      "percent_of_total_sentences": 0.01
+    },
+    {
+      "keyword": "anomaly detection",
+      "total_sentences": 3,
+      "percent_of_total_sentences": 0.01
+    },
+    {
+      "keyword": "personalized medicine",
+      "total_sentences": 3,
+      "percent_of_total_sentences": 0.01
+    },
+    {
+      "keyword": "natural language processing",
+      "total_sentences": 3,
+      "percent_of_total_sentences": 0.01
+    },
+    {
+      "keyword": "computer vision",
+      "total_sentences": 2,
+      "percent_of_total_sentences": 0.01
+    },
+    {
+      "keyword": "predictive maintenance",
+      "total_sentences": 2,
+      "percent_of_total_sentences": 0.01
+    },
+    {
+      "keyword": "digital twins",
+      "total_sentences": 2,
+      "percent_of_total_sentences": 0.01
+    },
+    {
+      "keyword": "rpa",
+      "total_sentences": 2,
+      "percent_of_total_sentences": 0.01
+    },
+    {
+      "keyword": "virtual try-on",
+      "total_sentences": 2,
+      "percent_of_total_sentences": 0.01
+    },
+    {
+      "keyword": "robo-advisors",
+      "total_sentences": 2,
+      "percent_of_total_sentences": 0.01
+    },
+    {
+      "keyword": "robotic surgery",
+      "total_sentences": 2,
+      "percent_of_total_sentences": 0.01
+    },
+    {
+      "keyword": "foundation models",
+      "total_sentences": 2,
+      "percent_of_total_sentences": 0.01
+    },
+    {
+      "keyword": "data warehouses",
+      "total_sentences": 2,
+      "percent_of_total_sentences": 0.01
+    },
+    {
+      "keyword": "vehicle diagnostics",
+      "total_sentences": 1,
+      "percent_of_total_sentences": 0.0
+    },
+    {
+      "keyword": "reinforcement learning",
+      "total_sentences": 1,
+      "percent_of_total_sentences": 0.0
+    },
+    {
+      "keyword": "data pipelines",
+      "total_sentences": 1,
+      "percent_of_total_sentences": 0.0
+    },
+    {
+      "keyword": "data lakes",
+      "total_sentences": 1,
+      "percent_of_total_sentences": 0.0
+    }
+  ]
+}

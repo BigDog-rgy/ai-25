@@ -1,0 +1,1445 @@
+[
+  {
+    "index": 8,
+    "ticker": "AES",
+    "name": "AES Corporation",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 15,
+    "ticker": "ARE",
+    "name": "Alexandria Real Estate Equities",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 30,
+    "ticker": "AWK",
+    "name": "American Water Works",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 31,
+    "ticker": "AMP",
+    "name": "Ameriprise Financial",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 33,
+    "ticker": "AMGN",
+    "name": "Amgen",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 38,
+    "ticker": "APA",
+    "name": "APA Corporation",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 43,
+    "ticker": "ACGL",
+    "name": "Arch Capital Group",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 44,
+    "ticker": "ADM",
+    "name": "Archer Daniels Midland",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 46,
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 59,
+    "ticker": "BAX",
+    "name": "Baxter International",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 60,
+    "ticker": "BDX",
+    "name": "Becton Dickinson",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 66,
+    "ticker": "BX",
+    "name": "Blackstone Inc.",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 70,
+    "ticker": "BSX",
+    "name": "Boston Scientific",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 74,
+    "ticker": "BRO",
+    "name": "Brown & Brown",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 76,
+    "ticker": "BLDR",
+    "name": "Builders FirstSource",
+    "missing_fields": [
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 78,
+    "ticker": "BXP",
+    "name": "BXP, Inc.",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 81,
+    "ticker": "CZR",
+    "name": "Caesars Entertainment",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 82,
+    "ticker": "CPT",
+    "name": "Camden Property Trust",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 84,
+    "ticker": "COF",
+    "name": "Capital One",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 86,
+    "ticker": "KMX",
+    "name": "CarMax",
+    "missing_fields": [
+      "operating_income",
+      "total_assets",
+      "total_equity"
+    ]
+  },
+  {
+    "index": 91,
+    "ticker": "CBRE",
+    "name": "CBRE Group",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 92,
+    "ticker": "CDW",
+    "name": "CDW Corporation",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 93,
+    "ticker": "COR",
+    "name": "Cencora",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 95,
+    "ticker": "CNP",
+    "name": "CenterPoint Energy",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 97,
+    "ticker": "CRL",
+    "name": "Charles River Laboratories",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 123,
+    "ticker": "COO",
+    "name": "Cooper Companies (The)",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 124,
+    "ticker": "CPRT",
+    "name": "Copart",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 126,
+    "ticker": "CPAY",
+    "name": "Corpay",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 136,
+    "ticker": "DHR",
+    "name": "Danaher Corporation",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 143,
+    "ticker": "DAL",
+    "name": "Delta Air Lines",
+    "missing_fields": [
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 144,
+    "ticker": "DVN",
+    "name": "Devon Energy",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 145,
+    "ticker": "DXCM",
+    "name": "Dexcom",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 147,
+    "ticker": "DLR",
+    "name": "Digital Realty",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 152,
+    "ticker": "DASH",
+    "name": "DoorDash",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 153,
+    "ticker": "DOV",
+    "name": "Dover Corporation",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 155,
+    "ticker": "DHI",
+    "name": "D. R. Horton",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 163,
+    "ticker": "EIX",
+    "name": "Edison International",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 164,
+    "ticker": "EW",
+    "name": "Edwards Lifesciences",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity"
+    ]
+  },
+  {
+    "index": 166,
+    "ticker": "ELV",
+    "name": "Elevance Health",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 167,
+    "ticker": "EMR",
+    "name": "Emerson Electric",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 168,
+    "ticker": "ENPH",
+    "name": "Enphase Energy",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 171,
+    "ticker": "EPAM",
+    "name": "EPAM Systems",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 175,
+    "ticker": "EQR",
+    "name": "Equity Residential",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 176,
+    "ticker": "ERIE",
+    "name": "Erie Indemnity",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 177,
+    "ticker": "ESS",
+    "name": "Essex Property Trust",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 179,
+    "ticker": "EG",
+    "name": "Everest Group",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 180,
+    "ticker": "EVRG",
+    "name": "Evergy",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 181,
+    "ticker": "ES",
+    "name": "Eversource Energy",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 185,
+    "ticker": "EXPD",
+    "name": "Expeditors International",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 188,
+    "ticker": "FFIV",
+    "name": "F5, Inc.",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 189,
+    "ticker": "FDS",
+    "name": "FactSet",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 191,
+    "ticker": "FAST",
+    "name": "Fastenal",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 192,
+    "ticker": "FRT",
+    "name": "Federal Realty Investment Trust",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 193,
+    "ticker": "FDX",
+    "name": "FedEx",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 198,
+    "ticker": "FI",
+    "name": "Fiserv",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 200,
+    "ticker": "FTNT",
+    "name": "Fortinet",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 201,
+    "ticker": "FTV",
+    "name": "Fortive",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 216,
+    "ticker": "GPC",
+    "name": "Genuine Parts Company",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 220,
+    "ticker": "GDDY",
+    "name": "GoDaddy",
+    "missing_fields": [
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 225,
+    "ticker": "HCA",
+    "name": "HCA Healthcare",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 226,
+    "ticker": "DOC",
+    "name": "Healthpeak Properties",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 227,
+    "ticker": "HSIC",
+    "name": "Henry Schein",
+    "missing_fields": [
+      "operating_income",
+      "total_assets",
+      "total_equity"
+    ]
+  },
+  {
+    "index": 236,
+    "ticker": "HST",
+    "name": "Host Hotels & Resorts",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 239,
+    "ticker": "HUBB",
+    "name": "Hubbell Incorporated",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 240,
+    "ticker": "HUM",
+    "name": "Humana",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 241,
+    "ticker": "HBAN",
+    "name": "Huntington Bancshares",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 249,
+    "ticker": "PODD",
+    "name": "Insulet Corporation",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 255,
+    "ticker": "INTU",
+    "name": "Intuit",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 258,
+    "ticker": "INVH",
+    "name": "Invitation Homes",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 267,
+    "ticker": "JPM",
+    "name": "JPMorgan Chase",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 271,
+    "ticker": "KDP",
+    "name": "Keurig Dr Pepper",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 272,
+    "ticker": "KEY",
+    "name": "KeyCorp",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 275,
+    "ticker": "KIM",
+    "name": "Kimco Realty",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 277,
+    "ticker": "KKR",
+    "name": "KKR & Co.",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 280,
+    "ticker": "KR",
+    "name": "Kroger",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 286,
+    "ticker": "LDOS",
+    "name": "Leidos",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 292,
+    "ticker": "LKQ",
+    "name": "LKQ Corporation",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity"
+    ]
+  },
+  {
+    "index": 296,
+    "ticker": "LULU",
+    "name": "Lululemon Athletica",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 303,
+    "ticker": "MLM",
+    "name": "Martin Marietta Materials",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 319,
+    "ticker": "MAA",
+    "name": "Mid-America Apartment Communities",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 322,
+    "ticker": "MOH",
+    "name": "Molina Healthcare",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 333,
+    "ticker": "NTAP",
+    "name": "NetApp",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 342,
+    "ticker": "NSC",
+    "name": "Norfolk Southern",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 347,
+    "ticker": "NUE",
+    "name": "Nucor",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 353,
+    "ticker": "ODFL",
+    "name": "Old Dominion",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 354,
+    "ticker": "OMC",
+    "name": "Omnicom Group",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 359,
+    "ticker": "PCAR",
+    "name": "Paccar",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 360,
+    "ticker": "PKG",
+    "name": "Packaging Corporation of America",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 374,
+    "ticker": "PNW",
+    "name": "Pinnacle West Capital",
+    "missing_fields": [
+      "total_assets",
+      "total_equity"
+    ]
+  },
+  {
+    "index": 378,
+    "ticker": "PPL",
+    "name": "PPL Corporation",
+    "missing_fields": [
+      "total_assets",
+      "total_equity"
+    ]
+  },
+  {
+    "index": 387,
+    "ticker": "PHM",
+    "name": "PulteGroup",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 388,
+    "ticker": "PWR",
+    "name": "Quanta Services",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 392,
+    "ticker": "RJF",
+    "name": "Raymond James Financial",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 394,
+    "ticker": "O",
+    "name": "Realty Income",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 395,
+    "ticker": "REG",
+    "name": "Regency Centers",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 398,
+    "ticker": "RSG",
+    "name": "Republic Services",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 400,
+    "ticker": "RVTY",
+    "name": "Revvity",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 402,
+    "ticker": "ROL",
+    "name": "Rollins, Inc.",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 403,
+    "ticker": "ROP",
+    "name": "Roper Technologies",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 408,
+    "ticker": "SBAC",
+    "name": "SBA Communications",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 411,
+    "ticker": "SRE",
+    "name": "Sempra",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 414,
+    "ticker": "SPG",
+    "name": "Simon Property Group",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 421,
+    "ticker": "LUV",
+    "name": "Southwest Airlines",
+    "missing_fields": [
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 424,
+    "ticker": "STT",
+    "name": "State Street Corporation",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 425,
+    "ticker": "STLD",
+    "name": "Steel Dynamics",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 429,
+    "ticker": "SYF",
+    "name": "Synchrony Financial",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 436,
+    "ticker": "TRGP",
+    "name": "Targa Resources",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 437,
+    "ticker": "TGT",
+    "name": "Target Corporation",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 438,
+    "ticker": "TEL",
+    "name": "TE Connectivity",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 440,
+    "ticker": "TER",
+    "name": "Teradyne",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 453,
+    "ticker": "TFC",
+    "name": "Truist Financial",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 458,
+    "ticker": "UDR",
+    "name": "UDR, Inc.",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 461,
+    "ticker": "UAL",
+    "name": "United Airlines Holdings",
+    "missing_fields": [
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 465,
+    "ticker": "UHS",
+    "name": "Universal Health Services",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 467,
+    "ticker": "VTR",
+    "name": "Ventas",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 468,
+    "ticker": "VLTO",
+    "name": "Veralto",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 474,
+    "ticker": "VICI",
+    "name": "Vici Properties",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 476,
+    "ticker": "VST",
+    "name": "Vistra Corp",
+    "missing_fields": [
+      "net_income",
+      "total_equity"
+    ]
+  },
+  {
+    "index": 477,
+    "ticker": "VMC",
+    "name": "Vulcan Materials Company",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity"
+    ]
+  },
+  {
+    "index": 478,
+    "ticker": "WRB",
+    "name": "W. R. Berkley Corporation",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 485,
+    "ticker": "WM",
+    "name": "Waste Management",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 486,
+    "ticker": "WAT",
+    "name": "Waters Corporation",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 487,
+    "ticker": "WEC",
+    "name": "WEC Energy Group",
+    "missing_fields": [
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity"
+    ]
+  },
+  {
+    "index": 489,
+    "ticker": "WELL",
+    "name": "Welltower",
+    "missing_fields": [
+      "operating_income"
+    ]
+  },
+  {
+    "index": 490,
+    "ticker": "WST",
+    "name": "West Pharmaceutical Services",
+    "missing_fields": [
+      "total_assets",
+      "total_equity"
+    ]
+  },
+  {
+    "index": 491,
+    "ticker": "WDC",
+    "name": "Western Digital",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  },
+  {
+    "index": 493,
+    "ticker": "WSM",
+    "name": "Williams-Sonoma, Inc.",
+    "missing_fields": [
+      "revenue",
+      "operating_income",
+      "net_income",
+      "total_assets",
+      "total_equity",
+      "number_of_employees"
+    ]
+  }
+]
