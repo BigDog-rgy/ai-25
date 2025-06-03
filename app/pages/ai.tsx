@@ -1,9 +1,21 @@
-// pages/ai.tsx  (simplest React component)
 import { useEffect, useState } from "react";
 import { supabase } from "../../lib/supabase";
 
+interface AIRow {
+  id: string;
+  company: string;
+  sector: string | null;
+  industry: string | null;
+  dim1: number;
+  dim2: number;
+  dim3: number;
+  dim4: number;
+  dim5: number;
+  overall: number;
+}
+
 export default function AIReadiness() {
-  const [rows, setRows] = useState<any[]>([]);
+  const [rows, setRows] = useState<AIRow[]>([]);
 
   useEffect(() => {
     supabase
@@ -24,11 +36,10 @@ export default function AIReadiness() {
           </tr>
         </thead>
         <tbody>
-        // eslint-disable-next-line @typescript-eslint/no-explicit-any
           {rows.map(r => (
             <tr key={r.id} className="border-b hover:bg-gray-50">
               <td>{r.company}</td>
-              <td>{r.overall.toFixed(2)}</td>
+              <td>{r.overall?.toFixed(2)}</td>
               <td>{r.dim1}</td><td>{r.dim2}</td><td>{r.dim3}</td>
               <td>{r.dim4}</td><td>{r.dim5}</td>
             </tr>
