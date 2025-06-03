@@ -1,4 +1,4 @@
-// app/ai/[id]/page.tsx
+// ai-25/app/[company]/page.tsx
 import { createClient } from "@supabase/supabase-js";
 import Link from "next/link";
 
@@ -10,14 +10,14 @@ export default async function CompanyPage({ params }: { params: { company: strin
   const { data } = await supabase
     .from("company_ai_readiness")
     .select("*")
-    .eq("id", params.company)
+    .eq("company", decodeURIComponent(params.company))
     .single();
 
   if (!data) return <div>Company not found.</div>;
 
   return (
     <main style={{ maxWidth: 700, margin: "2rem auto" }}>
-      <Link href="/ai">&larr; Back to list</Link>
+      <Link href="/">&larr; Back to list</Link>
       <h1>{data.company}</h1>
       <p>
         <b>Sector:</b> {data.sector} <br />

@@ -1,16 +1,15 @@
-// app/ai/page.tsx
+// ai-25/app/page.tsx
 import Link from "next/link";
 import { createClient } from "@supabase/supabase-js";
 
-// This works for SSR - you could also fetch client-side with useEffect, but this is cleaner for a plain list.
-export default async function AIIndex() {
+export default async function MainPage() {
   const supabase = createClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
     process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
   );
   const { data: rows } = await supabase
     .from("company_ai_readiness")
-    .select("id, company, overall")
+    .select("company, overall")
     .order("overall", { ascending: false });
 
   return (
@@ -25,9 +24,9 @@ export default async function AIIndex() {
         </thead>
         <tbody>
           {rows?.map(r => (
-            <tr key={r.id}>
+            <tr key={r.company}>
               <td>
-                <Link href={`/ai/${encodeURIComponent(r.id)}`}>
+                <Link href={`/${encodeURIComponent(r.company)}`}>
                   {r.company}
                 </Link>
               </td>
