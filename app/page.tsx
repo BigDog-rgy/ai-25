@@ -26,9 +26,9 @@ export default async function MainPage() {
           {rows?.map(r => (
             <tr key={r.company}>
               <td>
-                <Link href={`/${encodeURIComponent(r.company)}`}>
-                  {r.company}
-                </Link>
+                <Link href={`/${encodeURIComponent(encodeURIComponent(r.company))}`}>
+  {r.company}
+</Link>
               </td>
               <td style={{ textAlign: "right" }}>{r.overall?.toFixed(2)}</td>
             </tr>

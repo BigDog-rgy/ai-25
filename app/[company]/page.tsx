@@ -7,10 +7,17 @@ export default async function CompanyPage({ params }: { params: { company: strin
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
     process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
   );
+
+  // Get the company param
+  const encodedCompany = params.company;
+
+  // Double decode
+  const companyName = decodeURIComponent(decodeURIComponent(encodedCompany));
+
   const { data } = await supabase
     .from("company_ai_readiness")
     .select("*")
-    .eq("company", decodeURIComponent(params.company))
+    .eq("company", companyName)
     .single();
 
   if (!data) return <div>Company not found.</div>;
