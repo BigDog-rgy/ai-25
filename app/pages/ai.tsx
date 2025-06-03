@@ -24,6 +24,7 @@ export default function AIReadiness() {
           </tr>
         </thead>
         <tbody>
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
           {rows.map(r => (
             <tr key={r.id} className="border-b hover:bg-gray-50">
               <td>{r.company}</td>
