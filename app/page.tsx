@@ -1,4 +1,3 @@
-// ai-25/app/page.tsx
 import Link from "next/link";
 import { createClient } from "@supabase/supabase-js";
 
@@ -9,7 +8,7 @@ export default async function MainPage() {
   );
   const { data: rows } = await supabase
     .from("company_ai_readiness")
-    .select("company, overall")
+    .select("id, company, overall")
     .order("overall", { ascending: false });
 
   return (
@@ -24,11 +23,9 @@ export default async function MainPage() {
         </thead>
         <tbody>
           {rows?.map(r => (
-            <tr key={r.company}>
+            <tr key={r.id}>
               <td>
-                <Link href={`/${encodeURIComponent(encodeURIComponent(r.company))}`}>
-  {r.company}
-</Link>
+                <Link href={`/${r.id}`}>{r.company}</Link>
               </td>
               <td style={{ textAlign: "right" }}>{r.overall?.toFixed(2)}</td>
             </tr>
