@@ -1,7 +1,7 @@
 import { createClient } from "@supabase/supabase-js";
 import Link from "next/link";
 
-export default async function CompanyPage({ params }: { params: { company: string } }) {
+export default async function CompanyPage({ params }: { params: { id: string } }) {
   const supabase = createClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
     process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
@@ -9,7 +9,7 @@ export default async function CompanyPage({ params }: { params: { company: strin
   const { data } = await supabase
     .from("company_ai_readiness")
     .select("*")
-    .eq("id", params.company)
+    .eq("id", params.id)
     .single();
 
   if (!data) return <div>Company not found.</div>;
