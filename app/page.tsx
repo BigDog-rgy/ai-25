@@ -1,6 +1,6 @@
 // app/page.tsx
 import Link from 'next/link';
-import { supabase } from '../lib/supabaseClient';
+import { supabase } from '../lib/supabase';
 
 export default async function HomePage() {
   const { data: companies, error } = await supabase.from('companies').select('*');

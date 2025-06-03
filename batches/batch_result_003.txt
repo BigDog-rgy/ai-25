@@ -1,0 +1,89 @@
+### BEGIN COMPANY REPORT
+Company: Advanced Micro Devices  
+Sector: Information Technology  
+Industry: Semiconductors
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 5/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 5/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 4.45/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "AI is defining the next era of computing and that the full potential of AI will be realized when the technology is pervasive across cloud, edge, and endpoint devices."
+- **Dimension 2 Evidence:** "We offer a deep portfolio of data center computing solutions including AI accelerators, microprocessors (CPUs), graphic processing units (GPUs)..."
+- **Dimension 3 Evidence:** "AMD was the first company to integrate a dedicated neural processing unit (NPU) on the same SoC as an x86 CPU for AI PCs."
+- **Dimension 4 Evidence:** "The expected benefits of AMD’s acquisition of Silo AI Oy (Silo AI)."
+- **Dimension 5 Evidence:** No specific mention of AI governance frameworks, but general references to technology strategy and risk management.
+
+**Strategic AI Positioning:** AI is central to AMD's strategy, with AI capabilities integrated into their core products like CPUs and GPUs, making it a fundamental driver of their business model and competitive advantage.
+
+**Contextual Considerations:** AMD's position in the semiconductor industry, with a focus on high-performance computing and AI, supports its advanced AI strategy and infrastructure.
+
+**Confidence Level:** High - based on the detailed and specific AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: AES Corporation  
+Sector: Utilities  
+Industry: Independent Power Producers & Energy Traders
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.30/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "AES partnered with the AI Fund to combine its power sector expertise with the fund's artificial intelligence capabilities."
+- **Dimension 2 Evidence:** "Fluence is a leading global provider of energy storage products and services and AI-enabled digital applications for renewables and storage."
+- **Dimension 3 Evidence:** "Significant advancements with Maximo, an AI-powered robot designed to enhance the speed, efficiency, and safety of solar installations."
+- **Dimension 4 Evidence:** No specific mentions of AI talent strategies, but partnerships like with the AI Fund suggest some focus on skills.
+- **Dimension 5 Evidence:** No specific AI governance framework mentioned, but general risk management practices are in place.
+
+**Strategic AI Positioning:** AI is used as a business enabler, particularly in enhancing operational efficiency and supporting the growth of renewable energy solutions.
+
+**Contextual Considerations:** As a utility company, AES's focus on AI is more operational and efficiency-driven, aligning with industry trends towards smart grids and renewable energy.
+
+**Confidence Level:** Medium - based on the moderate depth of AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Aflac  
+Sector: Financials  
+Industry: Life & Health Insurance
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.55/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Investments in digital capabilities and product innovation including the development and use of artificial intelligence (AI)."
+- **Dimension 2 Evidence:** "Enterprise cybersecurity risk assessment is performed annually in coordination with the GSCISO."
+- **Dimension 3 Evidence:** "Development of new technology, including the use of AI by the Company and third-party vendors."
+- **Dimension 4 Evidence:** No specific AI talent development programs mentioned; general focus on technology development.
+- **Dimension 5 Evidence:** Mentions of cybersecurity and risk management, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is primarily used for operational enhancements and risk management, with limited strategic integration into core business functions.
+
+**Contextual Considerations:** As an insurance company, Aflac's AI initiatives are likely focused on risk assessment and operational efficiencies rather than core product offerings.
+
+**Confidence Level:** Medium - based on the limited specificity of AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT

@@ -1,5 +1,5 @@
 // app/[company]/page.tsx
-import { supabase } from '../../lib/supabaseClient';
+import { supabase } from '../../lib/supabase';
 import Link from 'next/link';
 
 export default async function CompanyPage({ 

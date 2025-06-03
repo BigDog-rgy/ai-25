@@ -72,6 +72,32 @@ def clean_money_string(money_str):
     multiplier = scale_factors.get(scale_word, 1)
     return number * multiplier
 
+def scrape_company_description(wiki_path):
+    try:
+        full_url = BASE_WIKI + wiki_path
+        resp = requests.get(full_url, headers=headers)
+        if resp.status_code != 200:
+            print(f"Failed to fetch wiki page {full_url}: {resp.status_code}")
+            return None
+        soup = BeautifulSoup(resp.text, 'html.parser')
+        toc_anchor = soup.find('meta', {'property': 'mw:PageProp/toc'})
+        if toc_anchor:
+            description_paragraphs = []
+            sibling = toc_anchor.find_previous_sibling()
+            while sibling:
+                if sibling.name == 'p':
+                    description_paragraphs.append(sibling.get_text(strip=True))
+                sibling = sibling.find_previous_sibling()
+            return "\n".join(reversed(description_paragraphs)).strip()
+        else:
+            print(f"TOC anchor not found on {full_url}")
+            # Fallback to getting the first paragraph if TOC is not found
+            first_paragraph = soup.find('div', {'id': 'mw-content-text'}).find('div', class_='mw-parser-output').find('p')
+            return first_paragraph.get_text(strip=True) if first_paragraph else None
+    except Exception as e:
+        print(f"Error scraping description for {wiki_path}: {e}")
+        return None
+
 def scrape_financials(wiki_path):
     try:
         full_url = BASE_WIKI + wiki_path
@@ -121,7 +147,7 @@ def scrape_financials(wiki_path):
                         results[key] = cleaned_val if cleaned_val is not None else val
                     break
 
-        # Subsidiaries extraction (unchanged)
+        # Enhanced subsidiaries extraction with descriptions
         for idx in range(revenue_row_idx, len(rows)):
             tr = rows[idx]
             th = tr.find('th')
@@ -157,41 +183,35 @@ def scrape_financials(wiki_path):
                             for li in lis:
                                 a_tag = li.find('a')
                                 if a_tag:
-                                    results['subsidiaries'].append(a_tag.text.strip())
+                                    subsidiary_name = a_tag.text.strip()
+                                    subsidiary_wiki_link = a_tag.get('href')
+                                    
+                                    # Get description for this subsidiary
+                                    subsidiary_description = None
+                                    if subsidiary_wiki_link:
+                                        print(f"Fetching description for subsidiary: {subsidiary_name}")
+                                        subsidiary_description = scrape_company_description(subsidiary_wiki_link)
+                                        # Polite delay between subsidiary requests
+                                        time.sleep(0.2 + random.uniform(0, 0.3))
+                                    
+                                    results['subsidiaries'].append({
+                                        'name': subsidiary_name,
+                                        'wiki_link': BASE_WIKI + subsidiary_wiki_link if subsidiary_wiki_link else None,
+                                        'description': subsidiary_description
+                                    })
                                 else:
-                                    results['subsidiaries'].append(li.text.strip())
+                                    subsidiary_name = li.text.strip()
+                                    results['subsidiaries'].append({
+                                        'name': subsidiary_name,
+                                        'wiki_link': None,
+                                        'description': None
+                                    })
                     break
 
         return results
 
     except Exception as e:
         print(f"Error scraping wiki {wiki_path}: {e}")
-        return None
-
-def scrape_company_description(wiki_path):
-    try:
-        full_url = BASE_WIKI + wiki_path
-        resp = requests.get(full_url, headers=headers)
-        if resp.status_code != 200:
-            print(f"Failed to fetch wiki page {full_url}: {resp.status_code}")
-            return None
-        soup = BeautifulSoup(resp.text, 'html.parser')
-        toc_anchor = soup.find('meta', {'property': 'mw:PageProp/toc'})
-        if toc_anchor:
-            description_paragraphs = []
-            sibling = toc_anchor.find_previous_sibling()
-            while sibling:
-                if sibling.name == 'p':
-                    description_paragraphs.append(sibling.get_text(strip=True))
-                sibling = sibling.find_previous_sibling()
-            return "\n".join(reversed(description_paragraphs)).strip()
-        else:
-            print(f"TOC anchor not found on {full_url}")
-            # Fallback to getting the first paragraph if TOC is not found
-            first_paragraph = soup.find('div', {'id': 'mw-content-text'}).find('div', class_='mw-parser-output').find('p')
-            return first_paragraph.get_text(strip=True) if first_paragraph else None
-    except Exception as e:
-        print(f"Error scraping description for {wiki_path}: {e}")
         return None
 
 url = 'https://en.wikipedia.org/wiki/List_of_S%26P_500_companies'
@@ -209,9 +229,10 @@ if not tbody:
 
 companies_data = []
 missing_description_companies = []
+subsidiaries_without_descriptions = []
 rows = tbody.find_all('tr')
 
-for i, row in enumerate(rows[1:505], start=1): # Limit to first 10 companies
+for i, row in enumerate(rows[1:505], start=1): # Limit to first 10 companies for testing
     tds = row.find_all('td')
     if len(tds) >= 8:
         ticker = tds[0].find('a').text.strip() if tds[0].find('a') else tds[0].text.strip()
@@ -225,6 +246,8 @@ for i, row in enumerate(rows[1:505], start=1): # Limit to first 10 companies
         cik = tds[6].text.strip()
         founded = tds[7].text.strip()
 
+        print(f"Processing company {i}: {name}")
+        
         financials = scrape_financials(wiki_link) if wiki_link else {}
         if financials is None:
             financials = {}
@@ -235,7 +258,13 @@ for i, row in enumerate(rows[1:505], start=1): # Limit to first 10 companies
         if not description or len(description) < 50:
             missing_description_companies.append(name)
 
-        # Polite delay between requests
+        # Check subsidiaries for missing descriptions
+        subsidiaries = financials.get('subsidiaries', [])
+        for subsidiary in subsidiaries:
+            if isinstance(subsidiary, dict) and (not subsidiary.get('description') or len(subsidiary.get('description', '')) < 50):
+                subsidiaries_without_descriptions.append(f"{name} -> {subsidiary.get('name', 'Unknown')}")
+
+        # Polite delay between main company requests
         time.sleep(0.25 + random.uniform(0, 0.8))
 
         companies_data.append({
@@ -254,7 +283,7 @@ for i, row in enumerate(rows[1:505], start=1): # Limit to first 10 companies
             'total_assets': financials.get('total assets'),
             'total_equity': financials.get('total equity'),
             'number_of_employees': financials.get('number of employees'),
-            'subsidiaries': financials.get('subsidiaries', []),
+            'subsidiaries': subsidiaries,
             'description': description
         })
     else:
@@ -262,6 +291,7 @@ for i, row in enumerate(rows[1:505], start=1): # Limit to first 10 companies
 
 output_data = {
     'companies_with_missing_or_short_description': missing_description_companies,
+    'subsidiaries_without_descriptions': subsidiaries_without_descriptions,
     'companies_data': companies_data
 }
 
@@ -270,3 +300,8 @@ with open('wiki_expansion.json', 'w', encoding='utf-8') as f:
 
 print(f"Saved data for first 10 companies with financial and description data to wiki_expansion.json")
 print(f"Companies with missing or short descriptions: {missing_description_companies}")
+print(f"Subsidiaries without descriptions: {len(subsidiaries_without_descriptions)}")
+if subsidiaries_without_descriptions:
+    print("Examples of subsidiaries without descriptions:")
+    for example in subsidiaries_without_descriptions[:5]:
+        print(f"  - {example}")

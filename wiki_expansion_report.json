@@ -1,0 +1,3020 @@
+[
+  {
+    "name": "Amazon",
+    "total_chars": 28237,
+    "description_chars": 2821,
+    "subsidiaries_chars": 25416
+  },
+  {
+    "name": "Alphabet Inc.",
+    "total_chars": 12267,
+    "description_chars": 1322,
+    "subsidiaries_chars": 10945
+  },
+  {
+    "name": "Alphabet Inc.",
+    "total_chars": 12267,
+    "description_chars": 1322,
+    "subsidiaries_chars": 10945
+  },
+  {
+    "name": "Ford Motor Company",
+    "total_chars": 11614,
+    "description_chars": 0,
+    "subsidiaries_chars": 11614
+  },
+  {
+    "name": "Netflix",
+    "total_chars": 11358,
+    "description_chars": 0,
+    "subsidiaries_chars": 11358
+  },
+  {
+    "name": "Citigroup",
+    "total_chars": 10135,
+    "description_chars": 1204,
+    "subsidiaries_chars": 8931
+  },
+  {
+    "name": "Johnson & Johnson",
+    "total_chars": 9325,
+    "description_chars": 1167,
+    "subsidiaries_chars": 8158
+  },
+  {
+    "name": "Wells Fargo",
+    "total_chars": 8676,
+    "description_chars": 2798,
+    "subsidiaries_chars": 5878
+  },
+  {
+    "name": "Apple Inc.",
+    "total_chars": 6758,
+    "description_chars": 3096,
+    "subsidiaries_chars": 3662
+  },
+  {
+    "name": "GE Aerospace",
+    "total_chars": 6398,
+    "description_chars": 1444,
+    "subsidiaries_chars": 4954
+  },
+  {
+    "name": "Nvidia",
+    "total_chars": 6257,
+    "description_chars": 2724,
+    "subsidiaries_chars": 3533
+  },
+  {
+    "name": "Comcast",
+    "total_chars": 6237,
+    "description_chars": 3359,
+    "subsidiaries_chars": 2878
+  },
+  {
+    "name": "Textron",
+    "total_chars": 6138,
+    "description_chars": 468,
+    "subsidiaries_chars": 5670
+  },
+  {
+    "name": "Boeing",
+    "total_chars": 5968,
+    "description_chars": 1090,
+    "subsidiaries_chars": 4878
+  },
+  {
+    "name": "Honeywell",
+    "total_chars": 5706,
+    "description_chars": 1482,
+    "subsidiaries_chars": 4224
+  },
+  {
+    "name": "CME Group",
+    "total_chars": 5697,
+    "description_chars": 787,
+    "subsidiaries_chars": 4910
+  },
+  {
+    "name": "TKO Group Holdings",
+    "total_chars": 5481,
+    "description_chars": 1556,
+    "subsidiaries_chars": 3925
+  },
+  {
+    "name": "Mondelez International",
+    "total_chars": 5381,
+    "description_chars": 1680,
+    "subsidiaries_chars": 3701
+  },
+  {
+    "name": "ExxonMobil",
+    "total_chars": 5218,
+    "description_chars": 1517,
+    "subsidiaries_chars": 3701
+  },
+  {
+    "name": "Microsoft",
+    "total_chars": 5031,
+    "description_chars": 3074,
+    "subsidiaries_chars": 1957
+  },
+  {
+    "name": "Vistra Corp",
+    "total_chars": 4889,
+    "description_chars": 326,
+    "subsidiaries_chars": 4563
+  },
+  {
+    "name": "Molson Coors Beverage Company",
+    "total_chars": 4786,
+    "description_chars": 591,
+    "subsidiaries_chars": 4195
+  },
+  {
+    "name": "Franklin Resources",
+    "total_chars": 4677,
+    "description_chars": 516,
+    "subsidiaries_chars": 4161
+  },
+  {
+    "name": "Tesla, Inc.",
+    "total_chars": 4554,
+    "description_chars": 2032,
+    "subsidiaries_chars": 2522
+  },
+  {
+    "name": "JPMorgan Chase",
+    "total_chars": 4498,
+    "description_chars": 2190,
+    "subsidiaries_chars": 2308
+  },
+  {
+    "name": "Nasdaq, Inc.",
+    "total_chars": 4401,
+    "description_chars": 970,
+    "subsidiaries_chars": 3431
+  },
+  {
+    "name": "Philip Morris International",
+    "total_chars": 4277,
+    "description_chars": 1774,
+    "subsidiaries_chars": 2503
+  },
+  {
+    "name": "Caterpillar Inc.",
+    "total_chars": 4208,
+    "description_chars": 1390,
+    "subsidiaries_chars": 2818
+  },
+  {
+    "name": "Live Nation Entertainment",
+    "total_chars": 4188,
+    "description_chars": 1228,
+    "subsidiaries_chars": 2960
+  },
+  {
+    "name": "Take-Two Interactive",
+    "total_chars": 4181,
+    "description_chars": 0,
+    "subsidiaries_chars": 4181
+  },
+  {
+    "name": "Jacobs Solutions",
+    "total_chars": 4167,
+    "description_chars": 690,
+    "subsidiaries_chars": 3477
+  },
+  {
+    "name": "Exelon",
+    "total_chars": 4073,
+    "description_chars": 600,
+    "subsidiaries_chars": 3473
+  },
+  {
+    "name": "Qualcomm",
+    "total_chars": 3880,
+    "description_chars": 1054,
+    "subsidiaries_chars": 2826
+  },
+  {
+    "name": "Morgan Stanley",
+    "total_chars": 3851,
+    "description_chars": 1446,
+    "subsidiaries_chars": 2405
+  },
+  {
+    "name": "Chevron Corporation",
+    "total_chars": 3659,
+    "description_chars": 2153,
+    "subsidiaries_chars": 1506
+  },
+  {
+    "name": "CoStar Group",
+    "total_chars": 3604,
+    "description_chars": 357,
+    "subsidiaries_chars": 3247
+  },
+  {
+    "name": "Salesforce",
+    "total_chars": 3557,
+    "description_chars": 765,
+    "subsidiaries_chars": 2792
+  },
+  {
+    "name": "Home Depot (The)",
+    "total_chars": 3509,
+    "description_chars": 950,
+    "subsidiaries_chars": 2559
+  },
+  {
+    "name": "Hewlett Packard Enterprise",
+    "total_chars": 3461,
+    "description_chars": 1384,
+    "subsidiaries_chars": 2077
+  },
+  {
+    "name": "Procter & Gamble",
+    "total_chars": 3396,
+    "description_chars": 1223,
+    "subsidiaries_chars": 2173
+  },
+  {
+    "name": "RTX Corporation",
+    "total_chars": 3393,
+    "description_chars": 1270,
+    "subsidiaries_chars": 2123
+  },
+  {
+    "name": "Uber",
+    "total_chars": 3237,
+    "description_chars": 682,
+    "subsidiaries_chars": 2555
+  },
+  {
+    "name": "Cummins",
+    "total_chars": 3213,
+    "description_chars": 566,
+    "subsidiaries_chars": 2647
+  },
+  {
+    "name": "AT&T",
+    "total_chars": 3139,
+    "description_chars": 3139,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "NextEra Energy",
+    "total_chars": 3135,
+    "description_chars": 1270,
+    "subsidiaries_chars": 1865
+  },
+  {
+    "name": "Campbell's Company (The)",
+    "total_chars": 3094,
+    "description_chars": 827,
+    "subsidiaries_chars": 2267
+  },
+  {
+    "name": "Best Buy",
+    "total_chars": 3081,
+    "description_chars": 1404,
+    "subsidiaries_chars": 1677
+  },
+  {
+    "name": "Teledyne Technologies",
+    "total_chars": 3069,
+    "description_chars": 1100,
+    "subsidiaries_chars": 1969
+  },
+  {
+    "name": "Yum! Brands",
+    "total_chars": 3056,
+    "description_chars": 1204,
+    "subsidiaries_chars": 1852
+  },
+  {
+    "name": "Walt Disney Company (The)",
+    "total_chars": 3047,
+    "description_chars": 3047,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "American Express",
+    "total_chars": 2962,
+    "description_chars": 2317,
+    "subsidiaries_chars": 645
+  },
+  {
+    "name": "CSX Corporation",
+    "total_chars": 2953,
+    "description_chars": 685,
+    "subsidiaries_chars": 2268
+  },
+  {
+    "name": "Hasbro",
+    "total_chars": 2938,
+    "description_chars": 1319,
+    "subsidiaries_chars": 1619
+  },
+  {
+    "name": "Dow Inc.",
+    "total_chars": 2838,
+    "description_chars": 992,
+    "subsidiaries_chars": 1846
+  },
+  {
+    "name": "Hormel Foods",
+    "total_chars": 2837,
+    "description_chars": 730,
+    "subsidiaries_chars": 2107
+  },
+  {
+    "name": "BlackRock",
+    "total_chars": 2761,
+    "description_chars": 1331,
+    "subsidiaries_chars": 1430
+  },
+  {
+    "name": "Marsh McLennan",
+    "total_chars": 2702,
+    "description_chars": 618,
+    "subsidiaries_chars": 2084
+  },
+  {
+    "name": "U.S. Bancorp",
+    "total_chars": 2672,
+    "description_chars": 1697,
+    "subsidiaries_chars": 975
+  },
+  {
+    "name": "IBM",
+    "total_chars": 2638,
+    "description_chars": 2638,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "UnitedHealth Group",
+    "total_chars": 2555,
+    "description_chars": 624,
+    "subsidiaries_chars": 1931
+  },
+  {
+    "name": "Loews Corporation",
+    "total_chars": 2492,
+    "description_chars": 582,
+    "subsidiaries_chars": 1910
+  },
+  {
+    "name": "Moody's Corporation",
+    "total_chars": 2470,
+    "description_chars": 836,
+    "subsidiaries_chars": 1634
+  },
+  {
+    "name": "Adobe Inc.",
+    "total_chars": 2458,
+    "description_chars": 2458,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Newmont",
+    "total_chars": 2444,
+    "description_chars": 656,
+    "subsidiaries_chars": 1788
+  },
+  {
+    "name": "GE Vernova",
+    "total_chars": 2428,
+    "description_chars": 303,
+    "subsidiaries_chars": 2125
+  },
+  {
+    "name": "Marriott International",
+    "total_chars": 2395,
+    "description_chars": 542,
+    "subsidiaries_chars": 1853
+  },
+  {
+    "name": "Keurig Dr Pepper",
+    "total_chars": 2346,
+    "description_chars": 2346,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Target Corporation",
+    "total_chars": 2327,
+    "description_chars": 2327,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Xcel Energy",
+    "total_chars": 2316,
+    "description_chars": 756,
+    "subsidiaries_chars": 1560
+  },
+  {
+    "name": "S&P Global",
+    "total_chars": 2280,
+    "description_chars": 547,
+    "subsidiaries_chars": 1733
+  },
+  {
+    "name": "Royal Caribbean Group",
+    "total_chars": 2265,
+    "description_chars": 527,
+    "subsidiaries_chars": 1738
+  },
+  {
+    "name": "Altria",
+    "total_chars": 2230,
+    "description_chars": 814,
+    "subsidiaries_chars": 1416
+  },
+  {
+    "name": "Lilly (Eli)",
+    "total_chars": 2223,
+    "description_chars": 2223,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Marathon Petroleum",
+    "total_chars": 2195,
+    "description_chars": 2195,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Visa Inc.",
+    "total_chars": 2190,
+    "description_chars": 2190,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Advanced Micro Devices",
+    "total_chars": 2184,
+    "description_chars": 2184,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Paramount Global",
+    "total_chars": 2093,
+    "description_chars": 2093,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Lockheed Martin",
+    "total_chars": 2087,
+    "description_chars": 2087,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Norfolk Southern",
+    "total_chars": 2068,
+    "description_chars": 2068,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "NRG Energy",
+    "total_chars": 2050,
+    "description_chars": 1361,
+    "subsidiaries_chars": 689
+  },
+  {
+    "name": "Allstate",
+    "total_chars": 2018,
+    "description_chars": 712,
+    "subsidiaries_chars": 1306
+  },
+  {
+    "name": "Halliburton",
+    "total_chars": 2004,
+    "description_chars": 2004,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Hilton Worldwide",
+    "total_chars": 1983,
+    "description_chars": 1983,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Verizon",
+    "total_chars": 1940,
+    "description_chars": 1940,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Texas Instruments",
+    "total_chars": 1930,
+    "description_chars": 1930,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "McKesson Corporation",
+    "total_chars": 1904,
+    "description_chars": 1208,
+    "subsidiaries_chars": 696
+  },
+  {
+    "name": "Walmart",
+    "total_chars": 1902,
+    "description_chars": 1902,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Apollo Global Management",
+    "total_chars": 1900,
+    "description_chars": 1900,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "F5, Inc.",
+    "total_chars": 1871,
+    "description_chars": 1871,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "MGM Resorts",
+    "total_chars": 1870,
+    "description_chars": 1870,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Simon Property Group",
+    "total_chars": 1858,
+    "description_chars": 321,
+    "subsidiaries_chars": 1537
+  },
+  {
+    "name": "Autodesk",
+    "total_chars": 1855,
+    "description_chars": 1855,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "United Parcel Service",
+    "total_chars": 1850,
+    "description_chars": 1031,
+    "subsidiaries_chars": 819
+  },
+  {
+    "name": "General Motors",
+    "total_chars": 1826,
+    "description_chars": 0,
+    "subsidiaries_chars": 1826
+  },
+  {
+    "name": "Verisk Analytics",
+    "total_chars": 1826,
+    "description_chars": 502,
+    "subsidiaries_chars": 1324
+  },
+  {
+    "name": "Labcorp",
+    "total_chars": 1824,
+    "description_chars": 1824,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "PG&E Corporation",
+    "total_chars": 1784,
+    "description_chars": 1784,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Walgreens Boots Alliance",
+    "total_chars": 1763,
+    "description_chars": 1763,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "AbbVie",
+    "total_chars": 1754,
+    "description_chars": 1754,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Corning Inc.",
+    "total_chars": 1744,
+    "description_chars": 1744,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Chubb Limited",
+    "total_chars": 1741,
+    "description_chars": 1741,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Berkshire Hathaway",
+    "total_chars": 1733,
+    "description_chars": 1733,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Albemarle Corporation",
+    "total_chars": 1729,
+    "description_chars": 1729,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Norwegian Cruise Line Holdings",
+    "total_chars": 1723,
+    "description_chars": 401,
+    "subsidiaries_chars": 1322
+  },
+  {
+    "name": "Juniper Networks",
+    "total_chars": 1719,
+    "description_chars": 1719,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "ConocoPhillips",
+    "total_chars": 1693,
+    "description_chars": 1693,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "J.M. Smucker Company (The)",
+    "total_chars": 1659,
+    "description_chars": 1050,
+    "subsidiaries_chars": 609
+  },
+  {
+    "name": "MetLife",
+    "total_chars": 1645,
+    "description_chars": 1645,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Motorola Solutions",
+    "total_chars": 1645,
+    "description_chars": 510,
+    "subsidiaries_chars": 1135
+  },
+  {
+    "name": "Pfizer",
+    "total_chars": 1642,
+    "description_chars": 1642,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "American Electric Power",
+    "total_chars": 1632,
+    "description_chars": 1632,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Kellanova",
+    "total_chars": 1625,
+    "description_chars": 1625,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "PNC Financial Services",
+    "total_chars": 1625,
+    "description_chars": 1625,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Global Payments",
+    "total_chars": 1623,
+    "description_chars": 326,
+    "subsidiaries_chars": 1297
+  },
+  {
+    "name": "BNY Mellon",
+    "total_chars": 1613,
+    "description_chars": 1613,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "FirstEnergy",
+    "total_chars": 1609,
+    "description_chars": 1609,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Goldman Sachs",
+    "total_chars": 1573,
+    "description_chars": 1314,
+    "subsidiaries_chars": 259
+  },
+  {
+    "name": "United Rentals",
+    "total_chars": 1542,
+    "description_chars": 1542,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Starbucks",
+    "total_chars": 1527,
+    "description_chars": 1527,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "3M",
+    "total_chars": 1523,
+    "description_chars": 1523,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "M&T Bank",
+    "total_chars": 1511,
+    "description_chars": 1117,
+    "subsidiaries_chars": 394
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "total_chars": 1504,
+    "description_chars": 0,
+    "subsidiaries_chars": 1504
+  },
+  {
+    "name": "American International Group",
+    "total_chars": 1497,
+    "description_chars": 1497,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Dell Technologies",
+    "total_chars": 1483,
+    "description_chars": 474,
+    "subsidiaries_chars": 1009
+  },
+  {
+    "name": "DuPont",
+    "total_chars": 1481,
+    "description_chars": 1481,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Hershey Company (The)",
+    "total_chars": 1479,
+    "description_chars": 1479,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Dollar Tree",
+    "total_chars": 1476,
+    "description_chars": 1476,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Kroger",
+    "total_chars": 1443,
+    "description_chars": 1443,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Broadcom",
+    "total_chars": 1441,
+    "description_chars": 1441,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Charles Schwab Corporation",
+    "total_chars": 1434,
+    "description_chars": 1434,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "State Street Corporation",
+    "total_chars": 1413,
+    "description_chars": 1413,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Accenture",
+    "total_chars": 1408,
+    "description_chars": 321,
+    "subsidiaries_chars": 1087
+  },
+  {
+    "name": "Ball Corporation",
+    "total_chars": 1405,
+    "description_chars": 1405,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Verisign",
+    "total_chars": 1376,
+    "description_chars": 1376,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "News Corp",
+    "total_chars": 1349,
+    "description_chars": 1349,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "News Corp",
+    "total_chars": 1349,
+    "description_chars": 1349,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Ametek",
+    "total_chars": 1344,
+    "description_chars": 1344,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Costco",
+    "total_chars": 1326,
+    "description_chars": 1326,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Coca-Cola Company (The)",
+    "total_chars": 1319,
+    "description_chars": 1319,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "McDonald's",
+    "total_chars": 1315,
+    "description_chars": 1315,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Revvity",
+    "total_chars": 1313,
+    "description_chars": 367,
+    "subsidiaries_chars": 946
+  },
+  {
+    "name": "Public Storage",
+    "total_chars": 1302,
+    "description_chars": 1302,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Intuit",
+    "total_chars": 1301,
+    "description_chars": 1301,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Capital One",
+    "total_chars": 1297,
+    "description_chars": 1297,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Phillips 66",
+    "total_chars": 1293,
+    "description_chars": 1293,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Tyson Foods",
+    "total_chars": 1288,
+    "description_chars": 1288,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "eBay Inc.",
+    "total_chars": 1280,
+    "description_chars": 1280,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Garmin",
+    "total_chars": 1260,
+    "description_chars": 1260,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "GE HealthCare",
+    "total_chars": 1256,
+    "description_chars": 1256,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Palantir Technologies",
+    "total_chars": 1250,
+    "description_chars": 1250,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Cisco",
+    "total_chars": 1243,
+    "description_chars": 1243,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "KKR & Co.",
+    "total_chars": 1233,
+    "description_chars": 1233,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Electronic Arts",
+    "total_chars": 1217,
+    "description_chars": 1217,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "T-Mobile US",
+    "total_chars": 1203,
+    "description_chars": 1203,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Omnicom Group",
+    "total_chars": 1202,
+    "description_chars": 1202,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Northrop Grumman",
+    "total_chars": 1198,
+    "description_chars": 1198,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Gilead Sciences",
+    "total_chars": 1197,
+    "description_chars": 1197,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Emerson Electric",
+    "total_chars": 1195,
+    "description_chars": 1195,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "T. Rowe Price",
+    "total_chars": 1193,
+    "description_chars": 1193,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Regions Financial Corporation",
+    "total_chars": 1191,
+    "description_chars": 1191,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Fox Corporation",
+    "total_chars": 1184,
+    "description_chars": 1184,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Fox Corporation",
+    "total_chars": 1184,
+    "description_chars": 1184,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Sempra",
+    "total_chars": 1180,
+    "description_chars": 1180,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Kinder Morgan",
+    "total_chars": 1179,
+    "description_chars": 1179,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Charter Communications",
+    "total_chars": 1136,
+    "description_chars": 1136,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Constellation Energy",
+    "total_chars": 1129,
+    "description_chars": 1129,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Hubbell Incorporated",
+    "total_chars": 1128,
+    "description_chars": 1128,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "CDW Corporation",
+    "total_chars": 1118,
+    "description_chars": 1118,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "DaVita",
+    "total_chars": 1114,
+    "description_chars": 1114,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Baxter International",
+    "total_chars": 1111,
+    "description_chars": 1111,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Gen Digital",
+    "total_chars": 1111,
+    "description_chars": 1111,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Oneok",
+    "total_chars": 1109,
+    "description_chars": 403,
+    "subsidiaries_chars": 706
+  },
+  {
+    "name": "First Solar",
+    "total_chars": 1094,
+    "description_chars": 1094,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Meta Platforms",
+    "total_chars": 1094,
+    "description_chars": 1094,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Idexx Laboratories",
+    "total_chars": 1082,
+    "description_chars": 1082,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Fortive",
+    "total_chars": 1072,
+    "description_chars": 1072,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Bristol Myers Squibb",
+    "total_chars": 1053,
+    "description_chars": 1053,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Intercontinental Exchange",
+    "total_chars": 1045,
+    "description_chars": 1045,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Charles River Laboratories",
+    "total_chars": 1039,
+    "description_chars": 1039,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Linde plc",
+    "total_chars": 1036,
+    "description_chars": 1036,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Delta Air Lines",
+    "total_chars": 1029,
+    "description_chars": 1029,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Kraft Heinz",
+    "total_chars": 1028,
+    "description_chars": 1028,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Carrier Global",
+    "total_chars": 1023,
+    "description_chars": 730,
+    "subsidiaries_chars": 293
+  },
+  {
+    "name": "Airbnb",
+    "total_chars": 1020,
+    "description_chars": 0,
+    "subsidiaries_chars": 1020
+  },
+  {
+    "name": "Mastercard",
+    "total_chars": 1011,
+    "description_chars": 1011,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Southwest Airlines",
+    "total_chars": 1010,
+    "description_chars": 1010,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Copart",
+    "total_chars": 1008,
+    "description_chars": 1008,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Moderna",
+    "total_chars": 990,
+    "description_chars": 990,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Ameriprise Financial",
+    "total_chars": 984,
+    "description_chars": 984,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Willis Towers Watson",
+    "total_chars": 976,
+    "description_chars": 976,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "ResMed",
+    "total_chars": 973,
+    "description_chars": 973,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Dollar General",
+    "total_chars": 967,
+    "description_chars": 967,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Masco",
+    "total_chars": 965,
+    "description_chars": 965,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "DoorDash",
+    "total_chars": 956,
+    "description_chars": 956,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Hess Corporation",
+    "total_chars": 951,
+    "description_chars": 951,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "FedEx",
+    "total_chars": 945,
+    "description_chars": 945,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Boston Scientific",
+    "total_chars": 931,
+    "description_chars": 931,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "General Dynamics",
+    "total_chars": 929,
+    "description_chars": 929,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Lowe's",
+    "total_chars": 924,
+    "description_chars": 924,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Sherwin-Williams",
+    "total_chars": 920,
+    "description_chars": 320,
+    "subsidiaries_chars": 600
+  },
+  {
+    "name": "Deckers Brands",
+    "total_chars": 918,
+    "description_chars": 293,
+    "subsidiaries_chars": 625
+  },
+  {
+    "name": "Prologis",
+    "total_chars": 918,
+    "description_chars": 918,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Medtronic",
+    "total_chars": 912,
+    "description_chars": 912,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "NVR, Inc.",
+    "total_chars": 906,
+    "description_chars": 906,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Constellation Brands",
+    "total_chars": 901,
+    "description_chars": 901,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Clorox",
+    "total_chars": 890,
+    "description_chars": 890,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "TJX Companies",
+    "total_chars": 886,
+    "description_chars": 886,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "PayPal",
+    "total_chars": 884,
+    "description_chars": 884,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Brown\u2013Forman",
+    "total_chars": 883,
+    "description_chars": 883,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Sysco",
+    "total_chars": 872,
+    "description_chars": 872,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Aflac",
+    "total_chars": 864,
+    "description_chars": 864,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Merck & Co.",
+    "total_chars": 864,
+    "description_chars": 864,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Kimberly-Clark",
+    "total_chars": 855,
+    "description_chars": 855,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Union Pacific Corporation",
+    "total_chars": 853,
+    "description_chars": 853,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Seagate Technology",
+    "total_chars": 849,
+    "description_chars": 849,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Mohawk Industries",
+    "total_chars": 847,
+    "description_chars": 847,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Zimmer Biomet",
+    "total_chars": 843,
+    "description_chars": 843,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Archer Daniels Midland",
+    "total_chars": 838,
+    "description_chars": 838,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Waste Management",
+    "total_chars": 827,
+    "description_chars": 827,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "United Airlines Holdings",
+    "total_chars": 824,
+    "description_chars": 824,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Ameren",
+    "total_chars": 819,
+    "description_chars": 819,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Deere & Company",
+    "total_chars": 818,
+    "description_chars": 818,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Otis Worldwide",
+    "total_chars": 816,
+    "description_chars": 816,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Quanta Services",
+    "total_chars": 815,
+    "description_chars": 815,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Lennar",
+    "total_chars": 813,
+    "description_chars": 813,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Booking Holdings",
+    "total_chars": 804,
+    "description_chars": 804,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Thermo Fisher Scientific",
+    "total_chars": 804,
+    "description_chars": 804,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Assurant",
+    "total_chars": 803,
+    "description_chars": 803,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Xylem Inc.",
+    "total_chars": 802,
+    "description_chars": 802,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Leidos",
+    "total_chars": 800,
+    "description_chars": 800,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Oracle Corporation",
+    "total_chars": 799,
+    "description_chars": 799,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Citizens Financial Group",
+    "total_chars": 792,
+    "description_chars": 792,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Equifax",
+    "total_chars": 791,
+    "description_chars": 791,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "HP Inc.",
+    "total_chars": 791,
+    "description_chars": 791,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "HCA Healthcare",
+    "total_chars": 785,
+    "description_chars": 785,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Kenvue",
+    "total_chars": 783,
+    "description_chars": 783,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Vulcan Materials Company",
+    "total_chars": 781,
+    "description_chars": 781,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Baker Hughes",
+    "total_chars": 770,
+    "description_chars": 770,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Cigna",
+    "total_chars": 767,
+    "description_chars": 767,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Evergy",
+    "total_chars": 760,
+    "description_chars": 760,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Travelers Companies (The)",
+    "total_chars": 758,
+    "description_chars": 758,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Williams-Sonoma, Inc.",
+    "total_chars": 757,
+    "description_chars": 757,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Parker Hannifin",
+    "total_chars": 753,
+    "description_chars": 753,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Stryker Corporation",
+    "total_chars": 751,
+    "description_chars": 751,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Valero Energy",
+    "total_chars": 750,
+    "description_chars": 750,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Johnson Controls",
+    "total_chars": 742,
+    "description_chars": 742,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Analog Devices",
+    "total_chars": 739,
+    "description_chars": 739,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Las Vegas Sands",
+    "total_chars": 739,
+    "description_chars": 739,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Paccar",
+    "total_chars": 739,
+    "description_chars": 739,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Amcor",
+    "total_chars": 734,
+    "description_chars": 734,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Darden Restaurants",
+    "total_chars": 729,
+    "description_chars": 729,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Viatris",
+    "total_chars": 729,
+    "description_chars": 657,
+    "subsidiaries_chars": 72
+  },
+  {
+    "name": "A. O. Smith",
+    "total_chars": 724,
+    "description_chars": 724,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "DTE Energy",
+    "total_chars": 722,
+    "description_chars": 722,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Eversource Energy",
+    "total_chars": 721,
+    "description_chars": 721,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Blackstone Inc.",
+    "total_chars": 718,
+    "description_chars": 718,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Erie Indemnity",
+    "total_chars": 718,
+    "description_chars": 718,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "W. W. Grainger",
+    "total_chars": 718,
+    "description_chars": 718,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Elevance Health",
+    "total_chars": 714,
+    "description_chars": 714,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Broadridge Financial Solutions",
+    "total_chars": 713,
+    "description_chars": 713,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "General Mills",
+    "total_chars": 712,
+    "description_chars": 712,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "MSCI Inc.",
+    "total_chars": 711,
+    "description_chars": 711,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Pool Corporation",
+    "total_chars": 711,
+    "description_chars": 711,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "IDEX Corporation",
+    "total_chars": 710,
+    "description_chars": 397,
+    "subsidiaries_chars": 313
+  },
+  {
+    "name": "Ralph Lauren Corporation",
+    "total_chars": 710,
+    "description_chars": 710,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Pentair",
+    "total_chars": 709,
+    "description_chars": 709,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "IQVIA",
+    "total_chars": 707,
+    "description_chars": 707,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Workday, Inc.",
+    "total_chars": 705,
+    "description_chars": 705,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "J.B. Hunt",
+    "total_chars": 702,
+    "description_chars": 702,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Coinbase",
+    "total_chars": 700,
+    "description_chars": 700,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Amgen",
+    "total_chars": 697,
+    "description_chars": 697,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Fiserv",
+    "total_chars": 697,
+    "description_chars": 697,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Lam Research",
+    "total_chars": 693,
+    "description_chars": 693,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "L3Harris",
+    "total_chars": 691,
+    "description_chars": 691,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "ON Semiconductor",
+    "total_chars": 685,
+    "description_chars": 685,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Northern Trust",
+    "total_chars": 684,
+    "description_chars": 684,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Zoetis",
+    "total_chars": 676,
+    "description_chars": 676,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Expand Energy",
+    "total_chars": 674,
+    "description_chars": 674,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Agilent Technologies",
+    "total_chars": 670,
+    "description_chars": 670,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "CarMax",
+    "total_chars": 670,
+    "description_chars": 670,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Extra Space Storage",
+    "total_chars": 668,
+    "description_chars": 668,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Paycom",
+    "total_chars": 657,
+    "description_chars": 657,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Schlumberger",
+    "total_chars": 654,
+    "description_chars": 654,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Expeditors International",
+    "total_chars": 647,
+    "description_chars": 647,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Aon plc",
+    "total_chars": 642,
+    "description_chars": 642,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "CBRE Group",
+    "total_chars": 641,
+    "description_chars": 641,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Dominion Energy",
+    "total_chars": 641,
+    "description_chars": 641,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "NXP Semiconductors",
+    "total_chars": 638,
+    "description_chars": 638,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Hartford (The)",
+    "total_chars": 635,
+    "description_chars": 635,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Devon Energy",
+    "total_chars": 633,
+    "description_chars": 633,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "LKQ Corporation",
+    "total_chars": 630,
+    "description_chars": 630,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Cadence Design Systems",
+    "total_chars": 628,
+    "description_chars": 628,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Palo Alto Networks",
+    "total_chars": 621,
+    "description_chars": 621,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "ServiceNow",
+    "total_chars": 613,
+    "description_chars": 613,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Waters Corporation",
+    "total_chars": 611,
+    "description_chars": 611,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Old Dominion",
+    "total_chars": 609,
+    "description_chars": 609,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Cardinal Health",
+    "total_chars": 608,
+    "description_chars": 608,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "D. R. Horton",
+    "total_chars": 607,
+    "description_chars": 607,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Mettler Toledo",
+    "total_chars": 606,
+    "description_chars": 606,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Truist Financial",
+    "total_chars": 606,
+    "description_chars": 606,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "FactSet",
+    "total_chars": 605,
+    "description_chars": 605,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Cognizant",
+    "total_chars": 604,
+    "description_chars": 604,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Axon Enterprise",
+    "total_chars": 602,
+    "description_chars": 602,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Expedia Group",
+    "total_chars": 602,
+    "description_chars": 602,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "CrowdStrike",
+    "total_chars": 600,
+    "description_chars": 600,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Fidelity National Information Services",
+    "total_chars": 600,
+    "description_chars": 600,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Dayforce",
+    "total_chars": 599,
+    "description_chars": 599,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Enphase Energy",
+    "total_chars": 597,
+    "description_chars": 597,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Cintas",
+    "total_chars": 596,
+    "description_chars": 596,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Intuitive Surgical",
+    "total_chars": 595,
+    "description_chars": 595,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Invesco",
+    "total_chars": 595,
+    "description_chars": 310,
+    "subsidiaries_chars": 285
+  },
+  {
+    "name": "Fifth Third Bancorp",
+    "total_chars": 592,
+    "description_chars": 592,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Consolidated Edison",
+    "total_chars": 590,
+    "description_chars": 590,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Dover Corporation",
+    "total_chars": 589,
+    "description_chars": 589,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Progressive Corporation",
+    "total_chars": 585,
+    "description_chars": 585,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Supermicro",
+    "total_chars": 585,
+    "description_chars": 585,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Microchip Technology",
+    "total_chars": 583,
+    "description_chars": 583,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Huntington Bancshares",
+    "total_chars": 580,
+    "description_chars": 580,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "PulteGroup",
+    "total_chars": 572,
+    "description_chars": 572,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Quest Diagnostics",
+    "total_chars": 571,
+    "description_chars": 571,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "McCormick & Company",
+    "total_chars": 569,
+    "description_chars": 569,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Match Group",
+    "total_chars": 567,
+    "description_chars": 567,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Nordson Corporation",
+    "total_chars": 564,
+    "description_chars": 564,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "LyondellBasell",
+    "total_chars": 563,
+    "description_chars": 563,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "American Water Works",
+    "total_chars": 558,
+    "description_chars": 558,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Church & Dwight",
+    "total_chars": 556,
+    "description_chars": 556,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "AES Corporation",
+    "total_chars": 554,
+    "description_chars": 554,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Ross Stores",
+    "total_chars": 552,
+    "description_chars": 552,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Edwards Lifesciences",
+    "total_chars": 551,
+    "description_chars": 551,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Applied Materials",
+    "total_chars": 550,
+    "description_chars": 550,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Fair Isaac",
+    "total_chars": 550,
+    "description_chars": 550,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Illinois Tool Works",
+    "total_chars": 549,
+    "description_chars": 549,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Southern Company",
+    "total_chars": 548,
+    "description_chars": 548,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "KeyCorp",
+    "total_chars": 547,
+    "description_chars": 547,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Abbott Laboratories",
+    "total_chars": 546,
+    "description_chars": 546,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "CMS Energy",
+    "total_chars": 546,
+    "description_chars": 546,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Eastman Chemical Company",
+    "total_chars": 545,
+    "description_chars": 545,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Equinix",
+    "total_chars": 543,
+    "description_chars": 543,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Generac",
+    "total_chars": 542,
+    "description_chars": 542,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Arista Networks",
+    "total_chars": 531,
+    "description_chars": 531,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Builders FirstSource",
+    "total_chars": 527,
+    "description_chars": 527,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Est\u00e9e Lauder Companies (The)",
+    "total_chars": 527,
+    "description_chars": 527,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Ingersoll Rand",
+    "total_chars": 520,
+    "description_chars": 520,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Micron Technology",
+    "total_chars": 518,
+    "description_chars": 518,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Interpublic Group of Companies (The)",
+    "total_chars": 517,
+    "description_chars": 517,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "CVS Health",
+    "total_chars": 516,
+    "description_chars": 516,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Genuine Parts Company",
+    "total_chars": 515,
+    "description_chars": 515,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Huntington Ingalls Industries",
+    "total_chars": 513,
+    "description_chars": 513,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Synopsys",
+    "total_chars": 513,
+    "description_chars": 513,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "PTC Inc.",
+    "total_chars": 512,
+    "description_chars": 512,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Allegion",
+    "total_chars": 511,
+    "description_chars": 511,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Domino's",
+    "total_chars": 511,
+    "description_chars": 511,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Realty Income",
+    "total_chars": 510,
+    "description_chars": 510,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Zebra Technologies",
+    "total_chars": 510,
+    "description_chars": 510,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Lululemon Athletica",
+    "total_chars": 507,
+    "description_chars": 507,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Fortinet",
+    "total_chars": 503,
+    "description_chars": 503,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Texas Pacific Land Corporation",
+    "total_chars": 497,
+    "description_chars": 497,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "TransDigm Group",
+    "total_chars": 497,
+    "description_chars": 497,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Public Service Enterprise Group",
+    "total_chars": 493,
+    "description_chars": 493,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Equity Residential",
+    "total_chars": 492,
+    "description_chars": 492,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Atmos Energy",
+    "total_chars": 490,
+    "description_chars": 490,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "American Tower",
+    "total_chars": 486,
+    "description_chars": 486,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Trane Technologies",
+    "total_chars": 482,
+    "description_chars": 482,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Danaher Corporation",
+    "total_chars": 481,
+    "description_chars": 481,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Veralto",
+    "total_chars": 481,
+    "description_chars": 481,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Iron Mountain",
+    "total_chars": 478,
+    "description_chars": 478,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Entergy",
+    "total_chars": 476,
+    "description_chars": 476,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "PPG Industries",
+    "total_chars": 475,
+    "description_chars": 475,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Wabtec",
+    "total_chars": 474,
+    "description_chars": 474,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Occidental Petroleum",
+    "total_chars": 473,
+    "description_chars": 473,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Becton Dickinson",
+    "total_chars": 460,
+    "description_chars": 460,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "CenterPoint Energy",
+    "total_chars": 460,
+    "description_chars": 460,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Corteva",
+    "total_chars": 458,
+    "description_chars": 458,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Prudential Financial",
+    "total_chars": 457,
+    "description_chars": 457,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Corpay",
+    "total_chars": 441,
+    "description_chars": 441,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "NetApp",
+    "total_chars": 440,
+    "description_chars": 440,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Snap-on",
+    "total_chars": 439,
+    "description_chars": 439,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Invitation Homes",
+    "total_chars": 438,
+    "description_chars": 438,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Nucor",
+    "total_chars": 437,
+    "description_chars": 437,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Steel Dynamics",
+    "total_chars": 433,
+    "description_chars": 433,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "CF Industries",
+    "total_chars": 431,
+    "description_chars": 431,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Tractor Supply",
+    "total_chars": 429,
+    "description_chars": 429,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Diamondback Energy",
+    "total_chars": 428,
+    "description_chars": 428,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Arch Capital Group",
+    "total_chars": 424,
+    "description_chars": 424,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Monster Beverage",
+    "total_chars": 424,
+    "description_chars": 424,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Alexandria Real Estate Equities",
+    "total_chars": 418,
+    "description_chars": 418,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Jack Henry & Associates",
+    "total_chars": 418,
+    "description_chars": 418,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Keysight Technologies",
+    "total_chars": 418,
+    "description_chars": 418,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Regeneron Pharmaceuticals",
+    "total_chars": 418,
+    "description_chars": 418,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Lennox International",
+    "total_chars": 417,
+    "description_chars": 417,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Steris",
+    "total_chars": 416,
+    "description_chars": 416,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "KLA Corporation",
+    "total_chars": 415,
+    "description_chars": 415,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Fastenal",
+    "total_chars": 414,
+    "description_chars": 414,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Weyerhaeuser",
+    "total_chars": 413,
+    "description_chars": 413,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Align Technology",
+    "total_chars": 412,
+    "description_chars": 412,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Coterra",
+    "total_chars": 411,
+    "description_chars": 411,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Targa Resources",
+    "total_chars": 410,
+    "description_chars": 410,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "GoDaddy",
+    "total_chars": 406,
+    "description_chars": 406,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Paychex",
+    "total_chars": 406,
+    "description_chars": 406,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Bunge Global",
+    "total_chars": 404,
+    "description_chars": 404,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Cencora",
+    "total_chars": 395,
+    "description_chars": 395,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Incyte",
+    "total_chars": 393,
+    "description_chars": 393,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Raymond James Financial",
+    "total_chars": 391,
+    "description_chars": 391,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "TE Connectivity",
+    "total_chars": 388,
+    "description_chars": 388,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Synchrony Financial",
+    "total_chars": 387,
+    "description_chars": 387,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Regency Centers",
+    "total_chars": 386,
+    "description_chars": 386,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Healthpeak Properties",
+    "total_chars": 385,
+    "description_chars": 385,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Henry Schein",
+    "total_chars": 385,
+    "description_chars": 385,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Jabil",
+    "total_chars": 383,
+    "description_chars": 383,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Biogen",
+    "total_chars": 381,
+    "description_chars": 381,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "NiSource",
+    "total_chars": 380,
+    "description_chars": 380,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Vici Properties",
+    "total_chars": 377,
+    "description_chars": 377,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Vertex Pharmaceuticals",
+    "total_chars": 375,
+    "description_chars": 375,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "O\u2019Reilly Automotive",
+    "total_chars": 372,
+    "description_chars": 372,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "International Flavors & Fragrances",
+    "total_chars": 371,
+    "description_chars": 371,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Ulta Beauty",
+    "total_chars": 369,
+    "description_chars": 369,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Cincinnati Financial",
+    "total_chars": 361,
+    "description_chars": 361,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Stanley Black & Decker",
+    "total_chars": 361,
+    "description_chars": 361,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Cooper Companies (The)",
+    "total_chars": 360,
+    "description_chars": 360,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Howmet Aerospace",
+    "total_chars": 359,
+    "description_chars": 359,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Warner Bros. Discovery",
+    "total_chars": 358,
+    "description_chars": 358,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "PPL Corporation",
+    "total_chars": 356,
+    "description_chars": 356,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Ecolab",
+    "total_chars": 353,
+    "description_chars": 353,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "EOG Resources",
+    "total_chars": 347,
+    "description_chars": 347,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Monolithic Power Systems",
+    "total_chars": 346,
+    "description_chars": 346,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Conagra Brands",
+    "total_chars": 344,
+    "description_chars": 344,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Brown & Brown",
+    "total_chars": 339,
+    "description_chars": 339,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Dexcom",
+    "total_chars": 339,
+    "description_chars": 339,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Rockwell Automation",
+    "total_chars": 339,
+    "description_chars": 339,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Everest Group",
+    "total_chars": 338,
+    "description_chars": 338,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Air Products",
+    "total_chars": 332,
+    "description_chars": 332,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Wynn Resorts",
+    "total_chars": 331,
+    "description_chars": 331,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Camden Property Trust",
+    "total_chars": 323,
+    "description_chars": 323,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Crown Castle",
+    "total_chars": 321,
+    "description_chars": 321,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "UDR, Inc.",
+    "total_chars": 321,
+    "description_chars": 321,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Colgate-Palmolive",
+    "total_chars": 320,
+    "description_chars": 320,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Pinnacle West Capital",
+    "total_chars": 319,
+    "description_chars": 319,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Caesars Entertainment",
+    "total_chars": 311,
+    "description_chars": 311,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Republic Services",
+    "total_chars": 311,
+    "description_chars": 311,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Avery Dennison",
+    "total_chars": 308,
+    "description_chars": 308,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Trimble Inc.",
+    "total_chars": 304,
+    "description_chars": 304,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Gartner",
+    "total_chars": 301,
+    "description_chars": 301,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "C.H. Robinson",
+    "total_chars": 300,
+    "description_chars": 300,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Humana",
+    "total_chars": 299,
+    "description_chars": 299,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Freeport-McMoRan",
+    "total_chars": 290,
+    "description_chars": 290,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Tapestry, Inc.",
+    "total_chars": 289,
+    "description_chars": 289,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Martin Marietta Materials",
+    "total_chars": 288,
+    "description_chars": 288,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Mosaic Company (The)",
+    "total_chars": 288,
+    "description_chars": 288,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "AutoZone",
+    "total_chars": 286,
+    "description_chars": 286,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Ansys",
+    "total_chars": 275,
+    "description_chars": 275,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Globe Life",
+    "total_chars": 275,
+    "description_chars": 275,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Williams Companies",
+    "total_chars": 273,
+    "description_chars": 273,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Host Hotels & Resorts",
+    "total_chars": 263,
+    "description_chars": 263,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "SBA Communications",
+    "total_chars": 261,
+    "description_chars": 261,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Lamb Weston",
+    "total_chars": 259,
+    "description_chars": 259,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Duke Energy",
+    "total_chars": 257,
+    "description_chars": 257,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Arthur J. Gallagher & Co.",
+    "total_chars": 254,
+    "description_chars": 254,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Eaton Corporation",
+    "total_chars": 251,
+    "description_chars": 251,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Welltower",
+    "total_chars": 251,
+    "description_chars": 251,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Aptiv",
+    "total_chars": 250,
+    "description_chars": 250,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Skyworks Solutions",
+    "total_chars": 241,
+    "description_chars": 241,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "EPAM Systems",
+    "total_chars": 235,
+    "description_chars": 235,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Centene Corporation",
+    "total_chars": 231,
+    "description_chars": 231,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Amphenol",
+    "total_chars": 228,
+    "description_chars": 228,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "APA Corporation",
+    "total_chars": 223,
+    "description_chars": 223,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Teradyne",
+    "total_chars": 221,
+    "description_chars": 221,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Packaging Corporation of America",
+    "total_chars": 220,
+    "description_chars": 220,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Mid-America Apartment Communities",
+    "total_chars": 213,
+    "description_chars": 213,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Molina Healthcare",
+    "total_chars": 208,
+    "description_chars": 208,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Universal Health Services",
+    "total_chars": 208,
+    "description_chars": 208,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Smurfit Westrock",
+    "total_chars": 207,
+    "description_chars": 207,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Western Digital",
+    "total_chars": 203,
+    "description_chars": 203,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Tyler Technologies",
+    "total_chars": 201,
+    "description_chars": 201,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Akamai Technologies",
+    "total_chars": 197,
+    "description_chars": 197,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "International Paper",
+    "total_chars": 197,
+    "description_chars": 197,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Digital Realty",
+    "total_chars": 196,
+    "description_chars": 196,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Ventas",
+    "total_chars": 185,
+    "description_chars": 185,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Federal Realty Investment Trust",
+    "total_chars": 183,
+    "description_chars": 183,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Intel",
+    "total_chars": 163,
+    "description_chars": 0,
+    "subsidiaries_chars": 163
+  },
+  {
+    "name": "EQT Corporation",
+    "total_chars": 159,
+    "description_chars": 159,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "W. R. Berkley Corporation",
+    "total_chars": 159,
+    "description_chars": 159,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Hologic",
+    "total_chars": 158,
+    "description_chars": 158,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Principal Financial Group",
+    "total_chars": 156,
+    "description_chars": 156,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "WEC Energy Group",
+    "total_chars": 156,
+    "description_chars": 156,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Automatic Data Processing",
+    "total_chars": 149,
+    "description_chars": 149,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Cboe Global Markets",
+    "total_chars": 144,
+    "description_chars": 144,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Essex Property Trust",
+    "total_chars": 144,
+    "description_chars": 144,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Alliant Energy",
+    "total_chars": 131,
+    "description_chars": 131,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Roper Technologies",
+    "total_chars": 120,
+    "description_chars": 120,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Kimco Realty",
+    "total_chars": 111,
+    "description_chars": 111,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "AvalonBay Communities",
+    "total_chars": 101,
+    "description_chars": 101,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Solventum",
+    "total_chars": 95,
+    "description_chars": 95,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "West Pharmaceutical Services",
+    "total_chars": 3,
+    "description_chars": 3,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Bank of America",
+    "total_chars": 0,
+    "description_chars": 0,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Bio-Techne",
+    "total_chars": 0,
+    "description_chars": 0,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "BXP, Inc.",
+    "total_chars": 0,
+    "description_chars": 0,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Carnival",
+    "total_chars": 0,
+    "description_chars": 0,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Edison International",
+    "total_chars": 0,
+    "description_chars": 0,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Insulet Corporation",
+    "total_chars": 0,
+    "description_chars": 0,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "MarketAxess",
+    "total_chars": 0,
+    "description_chars": 0,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Nike, Inc.",
+    "total_chars": 0,
+    "description_chars": 0,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "PepsiCo",
+    "total_chars": 0,
+    "description_chars": 0,
+    "subsidiaries_chars": 0
+  },
+  {
+    "name": "Rollins, Inc.",
+    "total_chars": 0,
+    "description_chars": 0,
+    "subsidiaries_chars": 0
+  }
+]
