@@ -1,5 +1,5 @@
-import Link from "next/link";
 import { createClient } from "@supabase/supabase-js";
+import CompanyRow from "./CompanyRow";
 
 type CompanySummary = {
   id: string;
@@ -30,19 +30,10 @@ export default async function Page() {
           </tr>
         </thead>
         <tbody>
-          {rows?.map((r, idx) => (
-            <tr key={r.id}>
-              <td style={{ textAlign: "right", paddingRight: 12 }}>{idx + 1}</td>
-              <td>
-                <Link href={`/${r.id}`}>
-                  {r.company}
-                  {r.market_cap ? ` (${r.market_cap})` : ""}
-                </Link>
-              </td>
-              <td style={{ textAlign: "right" }}>{r.overall?.toFixed(2)}</td>
-            </tr>
-          ))}
-        </tbody>
+  {rows?.map((r, idx) => (
+    <CompanyRow key={r.id} company={r} />
+  ))}
+</tbody>
       </table>
     </main>
   );

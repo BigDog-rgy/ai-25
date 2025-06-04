@@ -1,49 +1,48 @@
-// app/CompanyRow.tsx
 "use client";
 import { useState } from "react";
 
 type CompanySummary = {
   id: string;
   company: string;
+  market_cap: string | null;
   overall: number;
 };
 
 type CompanyDetail = {
-  sector: string | null;
-  industry: string | null;
-  dim1: number | null;
-  dim2: number | null;
-  dim3: number | null;
-  dim4: number | null;
-  dim5: number | null;
-  evidence: string | null;
-  strategic: string | null;
-  context: string | null;
-  confidence: string | null;
-  // Add more fields if your API returns them
+  sector?: string | null;
+  industry?: string | null;
+  dim1?: number | null;
+  dim2?: number | null;
+  dim3?: number | null;
+  dim4?: number | null;
+  dim5?: number | null;
+  evidence?: string | null;
+  strategic?: string | null;
+  context?: string | null;
+  confidence?: string | null;
+  // add more fields as needed
 };
-
 
 export default function CompanyRow({ company }: { company: CompanySummary }) {
   const [open, setOpen] = useState(false);
-  const [detail, setDetail] = useState<CompanyDetail | null>(null);
   const [loading, setLoading] = useState(false);
+  const [detail, setDetail] = useState<CompanyDetail | null>(null);
 
   const handleToggle = async () => {
     setOpen(o => !o);
     if (!detail && !loading && !open) {
-        setLoading(true);
-        const res = await fetch(`/api/company/${company.id}`);
-        const data = await res.json();
-        setDetail(data);
-        setLoading(false);
+      setLoading(true);
+      const res = await fetch(`/api/company/${company.id}`);
+      const data = await res.json();
+      setDetail(data);
+      setLoading(false);
     }
   };
 
   return (
     <>
-      <tr onClick={handleToggle} style={{ cursor: "pointer", background: open ? "#eee" : undefined }}>
-        <td>{company.company}</td>
+      <tr onClick={handleToggle} style={{ cursor: "pointer", background: open ? "#f0f0f0" : undefined }}>
+        <td>{company.company}{company.market_cap ? ` (${company.market_cap})` : ""}</td>
         <td style={{ textAlign: "right" }}>{company.overall?.toFixed(2)}</td>
       </tr>
       {open && (
