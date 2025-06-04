@@ -1,8 +1,8 @@
 import { NextResponse } from "next/server";
 import { createClient } from "@supabase/supabase-js";
 
-export async function GET(request: Request, context: { params: { id: string } }) {
-  const { id } = context.params; // Now, we'll use this
+export async function GET(request: Request, context: any) {
+  const id = context.params.id;
 
   const supabase = createClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
@@ -11,7 +11,7 @@ export async function GET(request: Request, context: { params: { id: string } })
   const { data } = await supabase
     .from("company_ai_readiness")
     .select("*")
-    .eq("id", id) // Use the destructured id
+    .eq("id", id)
     .single();
 
   if (!data) {
