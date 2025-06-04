@@ -1,5 +1,11 @@
 "use client";
 import { useState } from "react";
+import { createClient } from "@supabase/supabase-js";
+
+const supabase = createClient(
+  process.env.NEXT_PUBLIC_SUPABASE_URL!,
+  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+);
 
 type CompanySummary = {
   id: string;
@@ -20,7 +26,7 @@ type CompanyDetail = {
   strategic?: string | null;
   context?: string | null;
   confidence?: string | null;
-  // add more fields as needed
+  // Add more fields as needed
 };
 
 export default function CompanyRow({ company }: { company: CompanySummary }) {
@@ -32,17 +38,25 @@ export default function CompanyRow({ company }: { company: CompanySummary }) {
     setOpen(o => !o);
     if (!detail && !loading && !open) {
       setLoading(true);
-      const res = await fetch(`/api/company/${company.id}`);
-      const data = await res.json();
+      const { data, error } = await supabase
+        .from("company_ai_readiness")
+        .select("*")
+        .eq("id", company.id)
+        .single();
       setDetail(data);
       setLoading(false);
+      if (error) {
+        console.error("Supabase fetch error:", error);
+      }
     }
   };
 
   return (
     <>
-      <tr onClick={handleToggle} style={{ cursor: "pointer", background: open ? "#f0f0f0" : undefined }}>
-        <td>{company.company}{company.market_cap ? ` (${company.market_cap})` : ""}</td>
+      <tr onClick={handleToggle} style={{ cursor: "pointer", background: open ? "#eee" : undefined }}>
+        <td>
+          {company.company}{company.market_cap ? ` (${company.market_cap})` : ""}
+        </td>
         <td style={{ textAlign: "right" }}>{company.overall?.toFixed(2)}</td>
       </tr>
       {open && (
