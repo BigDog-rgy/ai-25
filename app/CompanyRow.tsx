@@ -67,13 +67,14 @@ export default function CompanyRow({
       <tr
         onClick={handleToggle}
         style={{
-            background: isTopIndex ? "#fffbec" : undefined,
-            fontWeight: isTopIndex ? "bold" : undefined,
             cursor: "pointer",
         }}
         >
         <td style={{ textAlign: "right" }}>{rank}</td>
         <td>
+            {isTopIndex && (
+            <span title="AI-25 Index" style={{ marginRight: 6 }}>🏅</span>
+            )}
             {company.company}
             {company.market_cap ? ` (${company.market_cap})` : ""}
         </td>
