@@ -1,11 +1,7 @@
 import { NextResponse } from "next/server";
 import { createClient } from "@supabase/supabase-js";
 
-export async function GET(
-  request: Request,
-  // @ts-expect-error - Next.js route handler context type is not exported yet
-  context: { params: { id: string } }
-) {
+export async function GET(request: Request, context) {
   const { id } = context.params;
 
   const supabase = createClient(
