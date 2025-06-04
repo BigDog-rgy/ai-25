@@ -70,7 +70,9 @@ export default function CompanyRow({
             cursor: "pointer",
         }}
         >
-        <td style={{ textAlign: "right" }}>{rank}</td>
+        <td style={{ textAlign: "right", paddingRight: 10 }}>
+        {rank}.
+        </td>
         <td>
             {isTopIndex && (
             <span title="AI-25 Index" style={{ marginRight: 6 }}>🏅</span>

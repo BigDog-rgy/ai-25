@@ -74,8 +74,8 @@ export default async function Page() {
       <table style={{ width: "100%", borderCollapse: "collapse", marginTop: 24 }}>
         <thead>
           <tr>
-            <th style={{ textAlign: "right" }}>#</th>
-            <th style={{ textAlign: "left" }}>Company</th>
+            <th style={{ textAlign: "right", paddingRight: 10 }}>#</th>
+            <th style={{ textAlign: "left", paddingLeft: 10 }}>Company</th>
             <th style={{ textAlign: "right" }}>Overall Score</th>
             <th style={{ textAlign: "right" }}>Index Weight</th>
           </tr>
