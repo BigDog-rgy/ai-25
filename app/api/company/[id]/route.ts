@@ -1,7 +1,13 @@
 import { NextResponse } from "next/server";
 import { createClient } from "@supabase/supabase-js";
 
-export async function GET(request: Request, context: any) {
+type RouteContext = {
+  params: {
+    id: string;
+  };
+};
+
+export async function GET(request: Request, context: RouteContext) {
   const id = context.params.id;
 
   const supabase = createClient(
