@@ -17,7 +17,6 @@ function calculateTopIndexWithWeights(companies: CompanySummary[]) {
   const topN = Math.min(9, companies.length);
   // Top 4 by MC, rest get 20%
   const topMC = Math.min(4, topN);
-  const rest = topN - topMC;
 
   // Sort by overall score (desc)
   const topCompanies = companies
