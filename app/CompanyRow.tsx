@@ -34,7 +34,7 @@ export default function CompanyRow({ company }: { company: CompanySummary }) {
     if (!detail && !loading && !open) {
         setLoading(true);
         const res = await fetch(`/api/company/${company.id}`);
-        const data: CompanyDetail = await res.json();
+        const data = await res.json();
         setDetail(data);
         setLoading(false);
     }
