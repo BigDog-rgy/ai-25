@@ -8,19 +8,35 @@ type CompanySummary = {
   overall: number;
 };
 
+type CompanyDetail = {
+  sector: string | null;
+  industry: string | null;
+  dim1: number | null;
+  dim2: number | null;
+  dim3: number | null;
+  dim4: number | null;
+  dim5: number | null;
+  evidence: string | null;
+  strategic: string | null;
+  context: string | null;
+  confidence: string | null;
+  // Add more fields if your API returns them
+};
+
+
 export default function CompanyRow({ company }: { company: CompanySummary }) {
   const [open, setOpen] = useState(false);
-  const [detail, setDetail] = useState<any | null>(null);
+  const [detail, setDetail] = useState<CompanyDetail | null>(null);
   const [loading, setLoading] = useState(false);
 
   const handleToggle = async () => {
     setOpen(o => !o);
     if (!detail && !loading && !open) {
-      setLoading(true);
-      const res = await fetch(`/api/company/${company.id}`);
-      const data = await res.json();
-      setDetail(data);
-      setLoading(false);
+        setLoading(true);
+        const res = await fetch(`/api/company/${company.id}`);
+        const data: CompanyDetail = await res.json();
+        setDetail(data);
+        setLoading(false);
     }
   };
 
