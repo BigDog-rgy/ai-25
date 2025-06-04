@@ -29,7 +29,18 @@ type CompanyDetail = {
   // Add more fields as needed
 };
 
-export default function CompanyRow({ company }: { company: CompanySummary }) {
+export default function CompanyRow({
+  company,
+  indexWeight,
+  isTopIndex,
+  rank,
+}: {
+  company: CompanySummary;
+  indexWeight?: number;
+  isTopIndex?: boolean;
+  rank: number;
+}) {
+  // This is what you were missing!
   const [open, setOpen] = useState(false);
   const [loading, setLoading] = useState(false);
   const [detail, setDetail] = useState<CompanyDetail | null>(null);
@@ -53,20 +64,36 @@ export default function CompanyRow({ company }: { company: CompanySummary }) {
 
   return (
     <>
-      <tr onClick={handleToggle} style={{ cursor: "pointer", background: open ? "#eee" : undefined }}>
+      <tr
+        onClick={handleToggle}
+        style={{
+          background: isTopIndex ? "#fffbec" : undefined,
+          fontWeight: isTopIndex ? "bold" : undefined,
+          cursor: "pointer",
+        }}
+      >
+        <td style={{ textAlign: "right" }}>{rank}</td>
         <td>
-          {company.company}{company.market_cap ? ` (${company.market_cap})` : ""}
+          {company.company}
+          {company.market_cap ? ` (${company.market_cap})` : ""}
         </td>
-        <td style={{ textAlign: "right" }}>{company.overall?.toFixed(2)}</td>
+        <td style={{ textAlign: "right" }}>
+          {company.overall?.toFixed(2)}
+        </td>
+        <td style={{ textAlign: "right" }}>
+          {indexWeight ? indexWeight.toFixed(2) + "%" : ""}
+        </td>
       </tr>
       {open && (
         <tr>
-          <td colSpan={2}>
+          <td colSpan={4}>
             {loading && "Loading..."}
             {detail && (
               <div>
-                <b>Sector:</b> {detail.sector}<br />
-                <b>Industry:</b> {detail.industry}<br />
+                <b>Sector:</b> {detail.sector}
+                <br />
+                <b>Industry:</b> {detail.industry}
+                <br />
                 <b>Dimension Scores:</b>
                 <ul>
                   <li>D1: {detail.dim1}</li>
@@ -75,9 +102,14 @@ export default function CompanyRow({ company }: { company: CompanySummary }) {
                   <li>D4: {detail.dim4}</li>
                   <li>D5: {detail.dim5}</li>
                 </ul>
-                <b>Evidence:</b> <pre style={{ whiteSpace: "pre-wrap" }}>{detail.evidence}</pre>
-                <b>Strategic:</b> {detail.strategic}<br />
-                <b>Context:</b> {detail.context}<br />
+                <b>Evidence:</b>{" "}
+                <pre style={{ whiteSpace: "pre-wrap" }}>
+                  {detail.evidence}
+                </pre>
+                <b>Strategic:</b> {detail.strategic}
+                <br />
+                <b>Context:</b> {detail.context}
+                <br />
                 <b>Confidence:</b> {detail.confidence}
               </div>
             )}
