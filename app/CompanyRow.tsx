@@ -67,23 +67,23 @@ export default function CompanyRow({
       <tr
         onClick={handleToggle}
         style={{
-          background: isTopIndex ? "#fffbec" : undefined,
-          fontWeight: isTopIndex ? "bold" : undefined,
-          cursor: "pointer",
+            background: isTopIndex ? "#fffbec" : undefined,
+            fontWeight: isTopIndex ? "bold" : undefined,
+            cursor: "pointer",
         }}
-      >
+        >
         <td style={{ textAlign: "right" }}>{rank}</td>
         <td>
-          {company.company}
-          {company.market_cap ? ` (${company.market_cap})` : ""}
+            {company.company}
+            {company.market_cap ? ` (${company.market_cap})` : ""}
         </td>
         <td style={{ textAlign: "right" }}>
-          {company.overall?.toFixed(2)}
+            {company.overall?.toFixed(2)}
         </td>
         <td style={{ textAlign: "right" }}>
-          {indexWeight ? indexWeight.toFixed(2) + "%" : ""}
+            {isTopIndex && indexWeight ? indexWeight.toFixed(2) + "%" : ""}
         </td>
-      </tr>
+        </tr>
       {open && (
         <tr>
           <td colSpan={4}>
