@@ -30,7 +30,7 @@ export default async function Page() {
           </tr>
         </thead>
         <tbody>
-  {rows?.map((r, idx) => (
+  {rows?.map((r) => (
     <CompanyRow key={r.id} company={r} />
   ))}
 </tbody>
