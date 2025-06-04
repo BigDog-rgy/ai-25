@@ -11,45 +11,47 @@ type CompanySummary = {
   isTopIndex?: boolean;
 };
 
-function calculateTopIndexWithWeights(companies: CompanySummary[], n: number) {
+function calculateTopIndexWithWeights(companies: CompanySummary[], indexN = 5, bucketTop = 2) {
   if (!companies || companies.length === 0) return {};
 
-  // Top N by overall
-  const topN = Math.min(n, companies.length);
-
-  // Sort and select topN by overall
+  // 1. Get top N by overall (AI-25)
+  const topN = Math.min(indexN, companies.length);
   const topCompanies = companies
     .slice()
     .sort((a, b) => b.overall - a.overall)
     .slice(0, topN);
 
-  // Now, within topN, find top X by MC
-  const TOP_MC = Math.min(10, topN); // or 4 for demo, etc.
-  const sortedByMC = topCompanies.slice().sort((a, b) => {
-    const mca = Number(String(a.market_cap).replace(/[^\d.]/g, "")) || 0;
-    const mcb = Number(String(b.market_cap).replace(/[^\d.]/g, "")) || 0;
-    return mcb - mca;
-  });
-  const topMCPool = sortedByMC.slice(0, TOP_MC);
-  const restPool = sortedByMC.slice(TOP_MC);
+  // 2. Sort topN by market cap (parse to number!)
+  const topCompaniesWithMC = topCompanies.map(c => ({
+    ...c,
+    mc: c.market_cap ? Number(String(c.market_cap).replace(/[^\d.]/g, "")) : 0,
+  }));
+  const bucketN = Math.min(bucketTop, topN);
 
-  const topMCTotal = topMCPool.reduce(
-    (sum, c) => sum + (Number(String(c.market_cap).replace(/[^\d.]/g, "")) || 0), 0);
-  const restTotal = restPool.reduce(
-    (sum, c) => sum + (Number(String(c.market_cap).replace(/[^\d.]/g, "")) || 0), 0);
+  const sortedByMC = topCompaniesWithMC.slice().sort((a, b) => b.mc - a.mc);
+  const topMCPool = sortedByMC.slice(0, bucketN);
+  const bottomMCPool = sortedByMC.slice(bucketN);
 
-  // Build result as { [id]: { index_weight, isTopIndex } }
+  const topMCsum = topMCPool.reduce((sum, c) => sum + c.mc, 0);
+  const bottomMCsum = bottomMCPool.reduce((sum, c) => sum + c.mc, 0);
+
+  // 3. Assign weights to AI-25
   const out: Record<string, { index_weight: number; isTopIndex: boolean }> = {};
-  topCompanies.forEach((c) => {
-    const mc = Number(String(c.market_cap).replace(/[^\d.]/g, "")) || 0;
+  topCompaniesWithMC.forEach((c) => {
     let w = 0;
     if (topMCPool.find(tc => tc.id === c.id)) {
-      w = topMCTotal > 0 ? (mc / topMCTotal) * 0.8 : 0;
+      w = topMCsum > 0 ? (c.mc / topMCsum) * 0.8 : 0;
     } else {
-      w = restTotal > 0 ? (mc / restTotal) * 0.2 : 0;
+      w = bottomMCsum > 0 ? (c.mc / bottomMCsum) * 0.2 : 0;
     }
     out[c.id] = { index_weight: w * 100, isTopIndex: true };
   });
+
+  // 4. For companies NOT in the AI-25, isTopIndex false, weight 0
+  companies.forEach(c => {
+    if (!out[c.id]) out[c.id] = { index_weight: 0, isTopIndex: false };
+  });
+
   return out;
 }
 
@@ -84,8 +86,8 @@ export default async function Page() {
               key={r.id}
               company={r}
               rank={idx + 1}
-              isTopIndex={!!topIndexMap[r.id]}
-              indexWeight={topIndexMap[r.id]?.index_weight ?? undefined}
+              isTopIndex={!!topIndexMap[r.id]?.isTopIndex}
+              indexWeight={topIndexMap[r.id]?.isTopIndex ? topIndexMap[r.id].index_weight : undefined}
             />
           ))}
         </tbody>
