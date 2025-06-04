@@ -1,0 +1,2517 @@
+[
+  {
+    "name": "3M",
+    "ticker": "MMM",
+    "market_cap": "82.96B"
+  },
+  {
+    "name": "A. O. Smith",
+    "ticker": "AOS",
+    "market_cap": "10.02B"
+  },
+  {
+    "name": "Abbott Laboratories",
+    "ticker": "ABT",
+    "market_cap": "235.83B"
+  },
+  {
+    "name": "AbbVie",
+    "ticker": "ABBV",
+    "market_cap": "328.04B"
+  },
+  {
+    "name": "Accenture",
+    "ticker": "ACN",
+    "market_cap": "199.95B"
+  },
+  {
+    "name": "Adobe Inc.",
+    "ticker": "ADBE",
+    "market_cap": "179.29B"
+  },
+  {
+    "name": "Advanced Micro Devices",
+    "ticker": "AMD",
+    "market_cap": "186.04B"
+  },
+  {
+    "name": "AES Corporation",
+    "ticker": "AES",
+    "market_cap": "8.34B"
+  },
+  {
+    "name": "Aflac",
+    "ticker": "AFL",
+    "market_cap": "57.54B"
+  },
+  {
+    "name": "Agilent Technologies",
+    "ticker": "A",
+    "market_cap": "32.34B"
+  },
+  {
+    "name": "Air Products",
+    "ticker": "APD",
+    "market_cap": "61.72B"
+  },
+  {
+    "name": "Airbnb",
+    "ticker": "ABNB",
+    "market_cap": "85.57B"
+  },
+  {
+    "name": "Akamai Technologies",
+    "ticker": "AKAM",
+    "market_cap": "11.39B"
+  },
+  {
+    "name": "Albemarle Corporation",
+    "ticker": "ALB",
+    "market_cap": "6.97B"
+  },
+  {
+    "name": "Alexandria Real Estate Equities",
+    "ticker": "ARE",
+    "market_cap": "12.81B"
+  },
+  {
+    "name": "Align Technology",
+    "ticker": "ALGN",
+    "market_cap": "13.40B"
+  },
+  {
+    "name": "Allegion",
+    "ticker": "ALLE",
+    "market_cap": "12.43B"
+  },
+  {
+    "name": "Alliant Energy",
+    "ticker": "LNT",
+    "market_cap": "16.21B"
+  },
+  {
+    "name": "Allstate",
+    "ticker": "ALL",
+    "market_cap": "55.60B"
+  },
+  {
+    "name": "Alphabet Inc.",
+    "ticker": "GOOGL",
+    "market_cap": "2027.75B"
+  },
+  {
+    "name": "Alphabet Inc.",
+    "ticker": "GOOG",
+    "market_cap": "2028.22B"
+  },
+  {
+    "name": "Altria",
+    "ticker": "MO",
+    "market_cap": "100.17B"
+  },
+  {
+    "name": "Amazon",
+    "ticker": "AMZN",
+    "market_cap": "2188.67B"
+  },
+  {
+    "name": "Amcor",
+    "ticker": "AMCR",
+    "market_cap": "21.76B"
+  },
+  {
+    "name": "Ameren",
+    "ticker": "AEE",
+    "market_cap": "27.38B"
+  },
+  {
+    "name": "American Electric Power",
+    "ticker": "AEP",
+    "market_cap": "55.44B"
+  },
+  {
+    "name": "American Express",
+    "ticker": "AXP",
+    "market_cap": "209.69B"
+  },
+  {
+    "name": "American International Group",
+    "ticker": "AIG",
+    "market_cap": "48.61B"
+  },
+  {
+    "name": "American Tower",
+    "ticker": "AMT",
+    "market_cap": "100.71B"
+  },
+  {
+    "name": "American Water Works",
+    "ticker": "AWK",
+    "market_cap": "28.03B"
+  },
+  {
+    "name": "Ameriprise Financial",
+    "ticker": "AMP",
+    "market_cap": "49.73B"
+  },
+  {
+    "name": "Ametek",
+    "ticker": "AME",
+    "market_cap": "41.99B"
+  },
+  {
+    "name": "Amgen",
+    "ticker": "AMGN",
+    "market_cap": "148.33B"
+  },
+  {
+    "name": "Amphenol",
+    "ticker": "APH",
+    "market_cap": "104.52B"
+  },
+  {
+    "name": "Analog Devices",
+    "ticker": "ADI",
+    "market_cap": "111.37B"
+  },
+  {
+    "name": "Ansys",
+    "ticker": "ANSS",
+    "market_cap": "30.24B"
+  },
+  {
+    "name": "Aon plc",
+    "ticker": "AON",
+    "market_cap": "78.81B"
+  },
+  {
+    "name": "APA Corporation",
+    "ticker": "APA",
+    "market_cap": "6.25B"
+  },
+  {
+    "name": "Apollo Global Management",
+    "ticker": "APO",
+    "market_cap": "81.50B"
+  },
+  {
+    "name": "Apple Inc.",
+    "ticker": "AAPL",
+    "market_cap": "3118.30B"
+  },
+  {
+    "name": "Applied Materials",
+    "ticker": "AMAT",
+    "market_cap": "134.82B"
+  },
+  {
+    "name": "Aptiv",
+    "ticker": "APTV",
+    "market_cap": "14.66B"
+  },
+  {
+    "name": "Arch Capital Group",
+    "ticker": "ACGL",
+    "market_cap": "35.66B"
+  },
+  {
+    "name": "Archer Daniels Midland",
+    "ticker": "ADM",
+    "market_cap": "24.03B"
+  },
+  {
+    "name": "Arista Networks",
+    "ticker": "ANET",
+    "market_cap": "121.45B"
+  },
+  {
+    "name": "Arthur J. Gallagher & Co.",
+    "ticker": "AJG",
+    "market_cap": "88.05B"
+  },
+  {
+    "name": "Assurant",
+    "ticker": "AIZ",
+    "market_cap": "10.31B"
+  },
+  {
+    "name": "AT&T",
+    "ticker": "T",
+    "market_cap": "201.62B"
+  },
+  {
+    "name": "Atmos Energy",
+    "ticker": "ATO",
+    "market_cap": "25.41B"
+  },
+  {
+    "name": "Autodesk",
+    "ticker": "ADSK",
+    "market_cap": "63.31B"
+  },
+  {
+    "name": "Automatic Data Processing",
+    "ticker": "ADP",
+    "market_cap": "131.10B"
+  },
+  {
+    "name": "AutoZone",
+    "ticker": "AZO",
+    "market_cap": "64.91B"
+  },
+  {
+    "name": "AvalonBay Communities",
+    "ticker": "AVB",
+    "market_cap": "29.70B"
+  },
+  {
+    "name": "Avery Dennison",
+    "ticker": "AVY",
+    "market_cap": "14.35B"
+  },
+  {
+    "name": "Axon Enterprise",
+    "ticker": "AXON",
+    "market_cap": "57.79B"
+  },
+  {
+    "name": "Baker Hughes",
+    "ticker": "BKR",
+    "market_cap": "37.56B"
+  },
+  {
+    "name": "Ball Corporation",
+    "ticker": "BALL",
+    "market_cap": "15.07B"
+  },
+  {
+    "name": "Bank of America",
+    "ticker": "BAC",
+    "market_cap": "337.20B"
+  },
+  {
+    "name": "Baxter International",
+    "ticker": "BAX",
+    "market_cap": "16.15B"
+  },
+  {
+    "name": "Becton Dickinson",
+    "ticker": "BDX",
+    "market_cap": "50.74B"
+  },
+  {
+    "name": "Berkshire Hathaway",
+    "ticker": "BRK.B",
+    "market_cap": "1104.64B"
+  },
+  {
+    "name": "Best Buy",
+    "ticker": "BBY",
+    "market_cap": "15.16B"
+  },
+  {
+    "name": "Bio-Techne",
+    "ticker": "TECH",
+    "market_cap": "7.73B"
+  },
+  {
+    "name": "Biogen",
+    "ticker": "BIIB",
+    "market_cap": "18.97B"
+  },
+  {
+    "name": "BlackRock",
+    "ticker": "BLK",
+    "market_cap": "153.94B"
+  },
+  {
+    "name": "Blackstone Inc.",
+    "ticker": "BX",
+    "market_cap": "176.46B"
+  },
+  {
+    "name": "BNY Mellon",
+    "ticker": "BK",
+    "market_cap": "64.63B"
+  },
+  {
+    "name": "Boeing",
+    "ticker": "BA",
+    "market_cap": "154.76B"
+  },
+  {
+    "name": "Booking Holdings",
+    "ticker": "BKNG",
+    "market_cap": "175.00B"
+  },
+  {
+    "name": "Boston Scientific",
+    "ticker": "BSX",
+    "market_cap": "157.80B"
+  },
+  {
+    "name": "Bristol Myers Squibb",
+    "ticker": "BMY",
+    "market_cap": "96.10B"
+  },
+  {
+    "name": "Broadcom",
+    "ticker": "AVGO",
+    "market_cap": "1084.41B"
+  },
+  {
+    "name": "Broadridge Financial Solutions",
+    "ticker": "BR",
+    "market_cap": "28.52B"
+  },
+  {
+    "name": "Brown & Brown",
+    "ticker": "BRO",
+    "market_cap": "32.10B"
+  },
+  {
+    "name": "Brown\u2013Forman",
+    "ticker": "BF.B",
+    "market_cap": "16.81B"
+  },
+  {
+    "name": "Builders FirstSource",
+    "ticker": "BLDR",
+    "market_cap": "13.00B"
+  },
+  {
+    "name": "Bunge Global",
+    "ticker": "BG",
+    "market_cap": "10.79B"
+  },
+  {
+    "name": "BXP, Inc.",
+    "ticker": "BXP",
+    "market_cap": "11.81B"
+  },
+  {
+    "name": "C.H. Robinson",
+    "ticker": "CHRW",
+    "market_cap": "11.88B"
+  },
+  {
+    "name": "Cadence Design Systems",
+    "ticker": "CDNS",
+    "market_cap": "87.46B"
+  },
+  {
+    "name": "Caesars Entertainment",
+    "ticker": "CZR",
+    "market_cap": "6.15B"
+  },
+  {
+    "name": "Camden Property Trust",
+    "ticker": "CPT",
+    "market_cap": "16.85B"
+  },
+  {
+    "name": "Campbell's Company (The)",
+    "ticker": "CPB",
+    "market_cap": "10.58B"
+  },
+  {
+    "name": "Capital One",
+    "ticker": "COF",
+    "market_cap": "126.37B"
+  },
+  {
+    "name": "Cardinal Health",
+    "ticker": "CAH",
+    "market_cap": "36.72B"
+  },
+  {
+    "name": "CarMax",
+    "ticker": "KMX",
+    "market_cap": "10.35B"
+  },
+  {
+    "name": "Carnival",
+    "ticker": "CCL",
+    "market_cap": "30.35B"
+  },
+  {
+    "name": "Carrier Global",
+    "ticker": "CARR",
+    "market_cap": "65.01B"
+  },
+  {
+    "name": "Caterpillar Inc.",
+    "ticker": "CAT",
+    "market_cap": "165.82B"
+  },
+  {
+    "name": "Cboe Global Markets",
+    "ticker": "CBOE",
+    "market_cap": "23.50B"
+  },
+  {
+    "name": "CBRE Group",
+    "ticker": "CBRE",
+    "market_cap": "38.90B"
+  },
+  {
+    "name": "CDW Corporation",
+    "ticker": "CDW",
+    "market_cap": "24.76B"
+  },
+  {
+    "name": "Cencora",
+    "ticker": "COR",
+    "market_cap": "56.72B"
+  },
+  {
+    "name": "Centene Corporation",
+    "ticker": "CNC",
+    "market_cap": "30.63B"
+  },
+  {
+    "name": "CenterPoint Energy",
+    "ticker": "CNP",
+    "market_cap": "24.58B"
+  },
+  {
+    "name": "CF Industries",
+    "ticker": "CF",
+    "market_cap": "14.19B"
+  },
+  {
+    "name": "Charles River Laboratories",
+    "ticker": "CRL",
+    "market_cap": "6.94B"
+  },
+  {
+    "name": "Charles Schwab Corporation",
+    "ticker": "SCHW",
+    "market_cap": "162.13B"
+  },
+  {
+    "name": "Charter Communications",
+    "ticker": "CHTR",
+    "market_cap": "117.52B"
+  },
+  {
+    "name": "Chevron Corporation",
+    "ticker": "CVX",
+    "market_cap": "241.86B"
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "ticker": "CMG",
+    "market_cap": "70.43B"
+  },
+  {
+    "name": "Chubb Limited",
+    "ticker": "CB",
+    "market_cap": "118.05B"
+  },
+  {
+    "name": "Church & Dwight",
+    "ticker": "CHD",
+    "market_cap": "23.64B"
+  },
+  {
+    "name": "Cigna",
+    "ticker": "CI",
+    "market_cap": "86.01B"
+  },
+  {
+    "name": "Cincinnati Financial",
+    "ticker": "CINF",
+    "market_cap": "23.59B"
+  },
+  {
+    "name": "Cintas",
+    "ticker": "CTAS",
+    "market_cap": "90.06B"
+  },
+  {
+    "name": "Cisco",
+    "ticker": "CSCO",
+    "market_cap": "254.29B"
+  },
+  {
+    "name": "Citigroup",
+    "ticker": "C",
+    "market_cap": "142.19B"
+  },
+  {
+    "name": "Citizens Financial Group",
+    "ticker": "CFG",
+    "market_cap": "18.03B"
+  },
+  {
+    "name": "Clorox",
+    "ticker": "CLX",
+    "market_cap": "16.62B"
+  },
+  {
+    "name": "CME Group",
+    "ticker": "CME",
+    "market_cap": "100.16B"
+  },
+  {
+    "name": "CMS Energy",
+    "ticker": "CMS",
+    "market_cap": "21.53B"
+  },
+  {
+    "name": "Coca-Cola Company (The)",
+    "ticker": "KO",
+    "market_cap": "309.61B"
+  },
+  {
+    "name": "Cognizant",
+    "ticker": "CTSH",
+    "market_cap": "40.21B"
+  },
+  {
+    "name": "Coinbase",
+    "ticker": "COIN",
+    "market_cap": "67.24B"
+  },
+  {
+    "name": "Colgate-Palmolive",
+    "ticker": "CL",
+    "market_cap": "74.35B"
+  },
+  {
+    "name": "Comcast",
+    "ticker": "CMCSA",
+    "market_cap": "132.32B"
+  },
+  {
+    "name": "Conagra Brands",
+    "ticker": "CAG",
+    "market_cap": "10.98B"
+  },
+  {
+    "name": "ConocoPhillips",
+    "ticker": "COP",
+    "market_cap": "114.13B"
+  },
+  {
+    "name": "Consolidated Edison",
+    "ticker": "ED",
+    "market_cap": "37.97B"
+  },
+  {
+    "name": "Constellation Brands",
+    "ticker": "STZ",
+    "market_cap": "34.34B"
+  },
+  {
+    "name": "Constellation Energy",
+    "ticker": "CEG",
+    "market_cap": "92.15B"
+  },
+  {
+    "name": "Cooper Companies (The)",
+    "ticker": "COO",
+    "market_cap": "16.38B"
+  },
+  {
+    "name": "Copart",
+    "ticker": "CPRT",
+    "market_cap": "61.28B"
+  },
+  {
+    "name": "Corning Inc.",
+    "ticker": "GLW",
+    "market_cap": "41.22B"
+  },
+  {
+    "name": "Corpay",
+    "ticker": "CPAY",
+    "market_cap": "24.59B"
+  },
+  {
+    "name": "Corteva",
+    "ticker": "CTVA",
+    "market_cap": "46.94B"
+  },
+  {
+    "name": "CoStar Group",
+    "ticker": "CSGP",
+    "market_cap": "32.45B"
+  },
+  {
+    "name": "Costco",
+    "ticker": "COST",
+    "market_cap": "458.92B"
+  },
+  {
+    "name": "Coterra",
+    "ticker": "CTRA",
+    "market_cap": "18.70B"
+  },
+  {
+    "name": "CrowdStrike",
+    "ticker": "CRWD",
+    "market_cap": "110.68B"
+  },
+  {
+    "name": "Crown Castle",
+    "ticker": "CCI",
+    "market_cap": "44.84B"
+  },
+  {
+    "name": "CSX Corporation",
+    "ticker": "CSX",
+    "market_cap": "58.63B"
+  },
+  {
+    "name": "Cummins",
+    "ticker": "CMI",
+    "market_cap": "46.38B"
+  },
+  {
+    "name": "CVS Health",
+    "ticker": "CVS",
+    "market_cap": "79.42B"
+  },
+  {
+    "name": "Danaher Corporation",
+    "ticker": "DHR",
+    "market_cap": "140.56B"
+  },
+  {
+    "name": "Darden Restaurants",
+    "ticker": "DRI",
+    "market_cap": "24.43B"
+  },
+  {
+    "name": "DaVita",
+    "ticker": "DVA",
+    "market_cap": "10.94B"
+  },
+  {
+    "name": "Dayforce",
+    "ticker": "DAY",
+    "market_cap": "9.52B"
+  },
+  {
+    "name": "Deckers Brands",
+    "ticker": "DECK",
+    "market_cap": "19.34B"
+  },
+  {
+    "name": "Deere & Company",
+    "ticker": "DE",
+    "market_cap": "143.80B"
+  },
+  {
+    "name": "Dell Technologies",
+    "ticker": "DELL",
+    "market_cap": "79.75B"
+  },
+  {
+    "name": "Delta Air Lines",
+    "ticker": "DAL",
+    "market_cap": "33.42B"
+  },
+  {
+    "name": "Devon Energy",
+    "ticker": "DVN",
+    "market_cap": "20.99B"
+  },
+  {
+    "name": "Dexcom",
+    "ticker": "DXCM",
+    "market_cap": "34.10B"
+  },
+  {
+    "name": "Diamondback Energy",
+    "ticker": "FANG",
+    "market_cap": "40.71B"
+  },
+  {
+    "name": "Digital Realty",
+    "ticker": "DLR",
+    "market_cap": "57.52B"
+  },
+  {
+    "name": "Dollar General",
+    "ticker": "DG",
+    "market_cap": "21.59B"
+  },
+  {
+    "name": "Dollar Tree",
+    "ticker": "DLTR",
+    "market_cap": "18.20B"
+  },
+  {
+    "name": "Dominion Energy",
+    "ticker": "D",
+    "market_cap": "47.93B"
+  },
+  {
+    "name": "Domino's",
+    "ticker": "DPZ",
+    "market_cap": "17.04B"
+  },
+  {
+    "name": "DoorDash",
+    "ticker": "DASH",
+    "market_cap": "85.67B"
+  },
+  {
+    "name": "Dover Corporation",
+    "ticker": "DOV",
+    "market_cap": "25.56B"
+  },
+  {
+    "name": "Dow Inc.",
+    "ticker": "DOW",
+    "market_cap": "21.28B"
+  },
+  {
+    "name": "D. R. Horton",
+    "ticker": "DHI",
+    "market_cap": "38.38B"
+  },
+  {
+    "name": "DTE Energy",
+    "ticker": "DTE",
+    "market_cap": "28.76B"
+  },
+  {
+    "name": "Duke Energy",
+    "ticker": "DUK",
+    "market_cap": "90.93B"
+  },
+  {
+    "name": "DuPont",
+    "ticker": "DD",
+    "market_cap": "28.84B"
+  },
+  {
+    "name": "Eastman Chemical Company",
+    "ticker": "EMN",
+    "market_cap": "9.49B"
+  },
+  {
+    "name": "Eaton Corporation",
+    "ticker": "ETN",
+    "market_cap": "128.85B"
+  },
+  {
+    "name": "eBay Inc.",
+    "ticker": "EBAY",
+    "market_cap": "33.38B"
+  },
+  {
+    "name": "Ecolab",
+    "ticker": "ECL",
+    "market_cap": "74.10B"
+  },
+  {
+    "name": "Edison International",
+    "ticker": "EIX",
+    "market_cap": "22.32B"
+  },
+  {
+    "name": "Edwards Lifesciences",
+    "ticker": "EW",
+    "market_cap": "45.78B"
+  },
+  {
+    "name": "Electronic Arts",
+    "ticker": "EA",
+    "market_cap": "37.74B"
+  },
+  {
+    "name": "Elevance Health",
+    "ticker": "ELV",
+    "market_cap": "91.23B"
+  },
+  {
+    "name": "Emerson Electric",
+    "ticker": "EMR",
+    "market_cap": "67.26B"
+  },
+  {
+    "name": "Enphase Energy",
+    "ticker": "ENPH",
+    "market_cap": "6.40B"
+  },
+  {
+    "name": "Entergy",
+    "ticker": "ETR",
+    "market_cap": "35.76B"
+  },
+  {
+    "name": "EOG Resources",
+    "ticker": "EOG",
+    "market_cap": "62.19B"
+  },
+  {
+    "name": "EPAM Systems",
+    "ticker": "EPAM",
+    "market_cap": "10.41B"
+  },
+  {
+    "name": "EQT Corporation",
+    "ticker": "EQT",
+    "market_cap": "33.26B"
+  },
+  {
+    "name": "Equifax",
+    "ticker": "EFX",
+    "market_cap": "34.84B"
+  },
+  {
+    "name": "Equinix",
+    "ticker": "EQIX",
+    "market_cap": "85.84B"
+  },
+  {
+    "name": "Equity Residential",
+    "ticker": "EQR",
+    "market_cap": "27.95B"
+  },
+  {
+    "name": "Erie Indemnity",
+    "ticker": "ERIE",
+    "market_cap": "17.36B"
+  },
+  {
+    "name": "Essex Property Trust",
+    "ticker": "ESS",
+    "market_cap": "19.10B"
+  },
+  {
+    "name": "Est\u00e9e Lauder Companies (The)",
+    "ticker": "EL",
+    "market_cap": "23.51B"
+  },
+  {
+    "name": "Everest Group",
+    "ticker": "EG",
+    "market_cap": "14.78B"
+  },
+  {
+    "name": "Evergy",
+    "ticker": "EVRG",
+    "market_cap": "15.44B"
+  },
+  {
+    "name": "Eversource Energy",
+    "ticker": "ES",
+    "market_cap": "23.34B"
+  },
+  {
+    "name": "Exelon",
+    "ticker": "EXC",
+    "market_cap": "44.81B"
+  },
+  {
+    "name": "Expand Energy",
+    "ticker": "EXE",
+    "market_cap": "27.01B"
+  },
+  {
+    "name": "Expedia Group",
+    "ticker": "EXPE",
+    "market_cap": "21.04B"
+  },
+  {
+    "name": "Expeditors International",
+    "ticker": "EXPD",
+    "market_cap": "16.18B"
+  },
+  {
+    "name": "Extra Space Storage",
+    "ticker": "EXR",
+    "market_cap": "33.81B"
+  },
+  {
+    "name": "ExxonMobil",
+    "ticker": "XOM",
+    "market_cap": "458.85B"
+  },
+  {
+    "name": "F5, Inc.",
+    "ticker": "FFIV",
+    "market_cap": "16.41B"
+  },
+  {
+    "name": "FactSet",
+    "ticker": "FDS",
+    "market_cap": "17.85B"
+  },
+  {
+    "name": "Fair Isaac",
+    "ticker": "FICO",
+    "market_cap": "53.70B"
+  },
+  {
+    "name": "Fastenal",
+    "ticker": "FAST",
+    "market_cap": "47.70B"
+  },
+  {
+    "name": "Federal Realty Investment Trust",
+    "ticker": "FRT",
+    "market_cap": "8.49B"
+  },
+  {
+    "name": "FedEx",
+    "ticker": "FDX",
+    "market_cap": "54.18B"
+  },
+  {
+    "name": "Fidelity National Information Services",
+    "ticker": "FIS",
+    "market_cap": "42.55B"
+  },
+  {
+    "name": "Fifth Third Bancorp",
+    "ticker": "FITB",
+    "market_cap": "26.37B"
+  },
+  {
+    "name": "First Solar",
+    "ticker": "FSLR",
+    "market_cap": "17.69B"
+  },
+  {
+    "name": "FirstEnergy",
+    "ticker": "FE",
+    "market_cap": "24.73B"
+  },
+  {
+    "name": "Fiserv",
+    "ticker": "FI",
+    "market_cap": "93.78B"
+  },
+  {
+    "name": "Ford Motor Company",
+    "ticker": "F",
+    "market_cap": "42.75B"
+  },
+  {
+    "name": "Fortinet",
+    "ticker": "FTNT",
+    "market_cap": "80.18B"
+  },
+  {
+    "name": "Fortive",
+    "ticker": "FTV",
+    "market_cap": "24.68B"
+  },
+  {
+    "name": "Fox Corporation",
+    "ticker": "FOXA",
+    "market_cap": "24.12B"
+  },
+  {
+    "name": "Fox Corporation",
+    "ticker": "FOX",
+    "market_cap": "24.12B"
+  },
+  {
+    "name": "Franklin Resources",
+    "ticker": "BEN",
+    "market_cap": "11.67B"
+  },
+  {
+    "name": "Freeport-McMoRan",
+    "ticker": "FCX",
+    "market_cap": "55.72B"
+  },
+  {
+    "name": "Garmin",
+    "ticker": "GRMN",
+    "market_cap": "39.45B"
+  },
+  {
+    "name": "Gartner",
+    "ticker": "IT",
+    "market_cap": "34.60B"
+  },
+  {
+    "name": "GE Aerospace",
+    "ticker": "GE",
+    "market_cap": "250.91B"
+  },
+  {
+    "name": "GE HealthCare",
+    "ticker": "GEHC",
+    "market_cap": "33.47B"
+  },
+  {
+    "name": "GE Vernova",
+    "ticker": "GEV",
+    "market_cap": "121.89B"
+  },
+  {
+    "name": "Gen Digital",
+    "ticker": "GEN",
+    "market_cap": "17.67B"
+  },
+  {
+    "name": "Generac",
+    "ticker": "GNRC",
+    "market_cap": "7.62B"
+  },
+  {
+    "name": "General Dynamics",
+    "ticker": "GD",
+    "market_cap": "75.52B"
+  },
+  {
+    "name": "General Mills",
+    "ticker": "GIS",
+    "market_cap": "30.02B"
+  },
+  {
+    "name": "General Motors",
+    "ticker": "GM",
+    "market_cap": "48.10B"
+  },
+  {
+    "name": "Genuine Parts Company",
+    "ticker": "GPC",
+    "market_cap": "17.92B"
+  },
+  {
+    "name": "Gilead Sciences",
+    "ticker": "GILD",
+    "market_cap": "132.06B"
+  },
+  {
+    "name": "Global Payments",
+    "ticker": "GPN",
+    "market_cap": "19.72B"
+  },
+  {
+    "name": "Globe Life",
+    "ticker": "GL",
+    "market_cap": "10.09B"
+  },
+  {
+    "name": "GoDaddy",
+    "ticker": "GDDY",
+    "market_cap": "27.06B"
+  },
+  {
+    "name": "Goldman Sachs",
+    "ticker": "GS",
+    "market_cap": "187.88B"
+  },
+  {
+    "name": "Halliburton",
+    "ticker": "HAL",
+    "market_cap": "17.94B"
+  },
+  {
+    "name": "Hartford (The)",
+    "ticker": "HIG",
+    "market_cap": "37.41B"
+  },
+  {
+    "name": "Hasbro",
+    "ticker": "HAS",
+    "market_cap": "9.55B"
+  },
+  {
+    "name": "HCA Healthcare",
+    "ticker": "HCA",
+    "market_cap": "93.08B"
+  },
+  {
+    "name": "Healthpeak Properties",
+    "ticker": "DOC",
+    "market_cap": "12.59B"
+  },
+  {
+    "name": "Henry Schein",
+    "ticker": "HSIC",
+    "market_cap": "8.74B"
+  },
+  {
+    "name": "Hershey Company (The)",
+    "ticker": "HSY",
+    "market_cap": "31.72B"
+  },
+  {
+    "name": "Hess Corporation",
+    "ticker": "HES",
+    "market_cap": "41.07B"
+  },
+  {
+    "name": "Hewlett Packard Enterprise",
+    "ticker": "HPE",
+    "market_cap": "22.94B"
+  },
+  {
+    "name": "Hilton Worldwide",
+    "ticker": "HLT",
+    "market_cap": "60.96B"
+  },
+  {
+    "name": "Hologic",
+    "ticker": "HOLX",
+    "market_cap": "12.58B"
+  },
+  {
+    "name": "Home Depot (The)",
+    "ticker": "HD",
+    "market_cap": "377.08B"
+  },
+  {
+    "name": "Honeywell",
+    "ticker": "HON",
+    "market_cap": "144.57B"
+  },
+  {
+    "name": "Hormel Foods",
+    "ticker": "HRL",
+    "market_cap": "16.56B"
+  },
+  {
+    "name": "Host Hotels & Resorts",
+    "ticker": "HST",
+    "market_cap": "10.70B"
+  },
+  {
+    "name": "Howmet Aerospace",
+    "ticker": "HWM",
+    "market_cap": "67.11B"
+  },
+  {
+    "name": "HP Inc.",
+    "ticker": "HPQ",
+    "market_cap": "27.43B"
+  },
+  {
+    "name": "Hubbell Incorporated",
+    "ticker": "HUBB",
+    "market_cap": "20.86B"
+  },
+  {
+    "name": "Humana",
+    "ticker": "HUM",
+    "market_cap": "29.85B"
+  },
+  {
+    "name": "Huntington Bancshares",
+    "ticker": "HBAN",
+    "market_cap": "23.48B"
+  },
+  {
+    "name": "Huntington Ingalls Industries",
+    "ticker": "HII",
+    "market_cap": "9.00B"
+  },
+  {
+    "name": "IBM",
+    "ticker": "IBM",
+    "market_cap": "249.46B"
+  },
+  {
+    "name": "IDEX Corporation",
+    "ticker": "IEX",
+    "market_cap": "14.35B"
+  },
+  {
+    "name": "Idexx Laboratories",
+    "ticker": "IDXX",
+    "market_cap": "41.95B"
+  },
+  {
+    "name": "Illinois Tool Works",
+    "ticker": "ITW",
+    "market_cap": "73.75B"
+  },
+  {
+    "name": "Incyte",
+    "ticker": "INCY",
+    "market_cap": "12.35B"
+  },
+  {
+    "name": "Ingersoll Rand",
+    "ticker": "IR",
+    "market_cap": "33.71B"
+  },
+  {
+    "name": "Insulet Corporation",
+    "ticker": "PODD",
+    "market_cap": "22.93B"
+  },
+  {
+    "name": "Intel",
+    "ticker": "INTC",
+    "market_cap": "93.26B"
+  },
+  {
+    "name": "Intercontinental Exchange",
+    "ticker": "ICE",
+    "market_cap": "101.39B"
+  },
+  {
+    "name": "International Flavors & Fragrances",
+    "ticker": "IFF",
+    "market_cap": "19.78B"
+  },
+  {
+    "name": "International Paper",
+    "ticker": "IP",
+    "market_cap": "26.65B"
+  },
+  {
+    "name": "Interpublic Group of Companies (The)",
+    "ticker": "IPG",
+    "market_cap": "9.41B"
+  },
+  {
+    "name": "Intuit",
+    "ticker": "INTU",
+    "market_cap": "187.55B"
+  },
+  {
+    "name": "Intuitive Surgical",
+    "ticker": "ISRG",
+    "market_cap": "201.30B"
+  },
+  {
+    "name": "Invesco",
+    "ticker": "IVZ",
+    "market_cap": "6.86B"
+  },
+  {
+    "name": "Invitation Homes",
+    "ticker": "INVH",
+    "market_cap": "21.09B"
+  },
+  {
+    "name": "IQVIA",
+    "ticker": "IQV",
+    "market_cap": "24.83B"
+  },
+  {
+    "name": "Iron Mountain",
+    "ticker": "IRM",
+    "market_cap": "29.82B"
+  },
+  {
+    "name": "J.B. Hunt",
+    "ticker": "JBHT",
+    "market_cap": "14.51B"
+  },
+  {
+    "name": "Jabil",
+    "ticker": "JBL",
+    "market_cap": "17.97B"
+  },
+  {
+    "name": "Jack Henry & Associates",
+    "ticker": "JKHY",
+    "market_cap": "13.42B"
+  },
+  {
+    "name": "Jacobs Solutions",
+    "ticker": "J",
+    "market_cap": "15.48B"
+  },
+  {
+    "name": "Johnson & Johnson",
+    "ticker": "JNJ",
+    "market_cap": "366.90B"
+  },
+  {
+    "name": "Johnson Controls",
+    "ticker": "JCI",
+    "market_cap": "64.40B"
+  },
+  {
+    "name": "JPMorgan Chase",
+    "ticker": "JPM",
+    "market_cap": "736.13B"
+  },
+  {
+    "name": "Juniper Networks",
+    "ticker": "JNPR",
+    "market_cap": "12.08B"
+  },
+  {
+    "name": "Kellanova",
+    "ticker": "K",
+    "market_cap": "28.59B"
+  },
+  {
+    "name": "Kenvue",
+    "ticker": "KVUE",
+    "market_cap": "46.08B"
+  },
+  {
+    "name": "Keurig Dr Pepper",
+    "ticker": "KDP",
+    "market_cap": "45.95B"
+  },
+  {
+    "name": "KeyCorp",
+    "ticker": "KEY",
+    "market_cap": "18.07B"
+  },
+  {
+    "name": "Keysight Technologies",
+    "ticker": "KEYS",
+    "market_cap": "28.13B"
+  },
+  {
+    "name": "Kimberly-Clark",
+    "ticker": "KMB",
+    "market_cap": "46.72B"
+  },
+  {
+    "name": "Kimco Realty",
+    "ticker": "KIM",
+    "market_cap": "14.66B"
+  },
+  {
+    "name": "Kinder Morgan",
+    "ticker": "KMI",
+    "market_cap": "62.22B"
+  },
+  {
+    "name": "KKR & Co.",
+    "ticker": "KKR",
+    "market_cap": "111.77B"
+  },
+  {
+    "name": "KLA Corporation",
+    "ticker": "KLAC",
+    "market_cap": "104.08B"
+  },
+  {
+    "name": "Kraft Heinz",
+    "ticker": "KHC",
+    "market_cap": "33.00B"
+  },
+  {
+    "name": "Kroger",
+    "ticker": "KR",
+    "market_cap": "45.92B"
+  },
+  {
+    "name": "L3Harris",
+    "ticker": "LHX",
+    "market_cap": "43.18B"
+  },
+  {
+    "name": "Labcorp",
+    "ticker": "LH",
+    "market_cap": "20.90B"
+  },
+  {
+    "name": "Lam Research",
+    "ticker": "LRCX",
+    "market_cap": "107.22B"
+  },
+  {
+    "name": "Lamb Weston",
+    "ticker": "LW",
+    "market_cap": "7.56B"
+  },
+  {
+    "name": "Las Vegas Sands",
+    "ticker": "LVS",
+    "market_cap": "29.90B"
+  },
+  {
+    "name": "Leidos",
+    "ticker": "LDOS",
+    "market_cap": "20.53B"
+  },
+  {
+    "name": "Lennar",
+    "ticker": "LEN",
+    "market_cap": "29.20B"
+  },
+  {
+    "name": "Lennox International",
+    "ticker": "LII",
+    "market_cap": "21.45B"
+  },
+  {
+    "name": "Lilly (Eli)",
+    "ticker": "LLY",
+    "market_cap": "715.64B"
+  },
+  {
+    "name": "Linde plc",
+    "ticker": "LIN",
+    "market_cap": "216.69B"
+  },
+  {
+    "name": "Live Nation Entertainment",
+    "ticker": "LYV",
+    "market_cap": "34.37B"
+  },
+  {
+    "name": "LKQ Corporation",
+    "ticker": "LKQ",
+    "market_cap": "10.92B"
+  },
+  {
+    "name": "Lockheed Martin",
+    "ticker": "LMT",
+    "market_cap": "110.84B"
+  },
+  {
+    "name": "Loews Corporation",
+    "ticker": "L",
+    "market_cap": "18.75B"
+  },
+  {
+    "name": "Lowe's",
+    "ticker": "LOW",
+    "market_cap": "131.21B"
+  },
+  {
+    "name": "Lululemon Athletica",
+    "ticker": "LULU",
+    "market_cap": "40.55B"
+  },
+  {
+    "name": "LyondellBasell",
+    "ticker": "LYB",
+    "market_cap": "19.02B"
+  },
+  {
+    "name": "M&T Bank",
+    "ticker": "MTB",
+    "market_cap": "30.07B"
+  },
+  {
+    "name": "Marathon Petroleum",
+    "ticker": "MPC",
+    "market_cap": "49.85B"
+  },
+  {
+    "name": "MarketAxess",
+    "ticker": "MKTX",
+    "market_cap": "8.23B"
+  },
+  {
+    "name": "Marriott International",
+    "ticker": "MAR",
+    "market_cap": "74.83B"
+  },
+  {
+    "name": "Marsh McLennan",
+    "ticker": "MMC",
+    "market_cap": "114.23B"
+  },
+  {
+    "name": "Martin Marietta Materials",
+    "ticker": "MLM",
+    "market_cap": "34.25B"
+  },
+  {
+    "name": "Masco",
+    "ticker": "MAS",
+    "market_cap": "14.08B"
+  },
+  {
+    "name": "Mastercard",
+    "ticker": "MA",
+    "market_cap": "532.49B"
+  },
+  {
+    "name": "Match Group",
+    "ticker": "MTCH",
+    "market_cap": "7.34B"
+  },
+  {
+    "name": "McCormick & Company",
+    "ticker": "MKC",
+    "market_cap": "19.96B"
+  },
+  {
+    "name": "McDonald's",
+    "ticker": "MCD",
+    "market_cap": "229.69B"
+  },
+  {
+    "name": "McKesson Corporation",
+    "ticker": "MCK",
+    "market_cap": "90.88B"
+  },
+  {
+    "name": "Medtronic",
+    "ticker": "MDT",
+    "market_cap": "111.54B"
+  },
+  {
+    "name": "Merck & Co.",
+    "ticker": "MRK",
+    "market_cap": "193.93B"
+  },
+  {
+    "name": "Meta Platforms",
+    "ticker": "META",
+    "market_cap": "1610.14B"
+  },
+  {
+    "name": "MetLife",
+    "ticker": "MET",
+    "market_cap": "54.29B"
+  },
+  {
+    "name": "Mettler Toledo",
+    "ticker": "MTD",
+    "market_cap": "24.09B"
+  },
+  {
+    "name": "MGM Resorts",
+    "ticker": "MGM",
+    "market_cap": "9.16B"
+  },
+  {
+    "name": "Microchip Technology",
+    "ticker": "MCHP",
+    "market_cap": "32.58B"
+  },
+  {
+    "name": "Micron Technology",
+    "ticker": "MU",
+    "market_cap": "110.25B"
+  },
+  {
+    "name": "Microsoft",
+    "ticker": "MSFT",
+    "market_cap": "3410.57B"
+  },
+  {
+    "name": "Mid-America Apartment Communities",
+    "ticker": "MAA",
+    "market_cap": "19.38B"
+  },
+  {
+    "name": "Moderna",
+    "ticker": "MRNA",
+    "market_cap": "10.21B"
+  },
+  {
+    "name": "Mohawk Industries",
+    "ticker": "MHK",
+    "market_cap": "6.73B"
+  },
+  {
+    "name": "Molina Healthcare",
+    "ticker": "MOH",
+    "market_cap": "17.63B"
+  },
+  {
+    "name": "Molson Coors Beverage Company",
+    "ticker": "TAP",
+    "market_cap": "11.44B"
+  },
+  {
+    "name": "Mondelez International",
+    "ticker": "MDLZ",
+    "market_cap": "85.10B"
+  },
+  {
+    "name": "Monolithic Power Systems",
+    "ticker": "MPWR",
+    "market_cap": "33.63B"
+  },
+  {
+    "name": "Monster Beverage",
+    "ticker": "MNST",
+    "market_cap": "61.34B"
+  },
+  {
+    "name": "Moody's Corporation",
+    "ticker": "MCO",
+    "market_cap": "88.53B"
+  },
+  {
+    "name": "Morgan Stanley",
+    "ticker": "MS",
+    "market_cap": "209.91B"
+  },
+  {
+    "name": "Mosaic Company (The)",
+    "ticker": "MOS",
+    "market_cap": "11.21B"
+  },
+  {
+    "name": "Motorola Solutions",
+    "ticker": "MSI",
+    "market_cap": "70.99B"
+  },
+  {
+    "name": "MSCI Inc.",
+    "ticker": "MSCI",
+    "market_cap": "44.31B"
+  },
+  {
+    "name": "Nasdaq, Inc.",
+    "ticker": "NDAQ",
+    "market_cap": "47.06B"
+  },
+  {
+    "name": "NetApp",
+    "ticker": "NTAP",
+    "market_cap": "20.95B"
+  },
+  {
+    "name": "Netflix",
+    "ticker": "NFLX",
+    "market_cap": "507.13B"
+  },
+  {
+    "name": "Newmont",
+    "ticker": "NEM",
+    "market_cap": "56.68B"
+  },
+  {
+    "name": "News Corp",
+    "ticker": "NWSA",
+    "market_cap": "16.87B"
+  },
+  {
+    "name": "News Corp",
+    "ticker": "NWS",
+    "market_cap": "16.87B"
+  },
+  {
+    "name": "NextEra Energy",
+    "ticker": "NEE",
+    "market_cap": "152.05B"
+  },
+  {
+    "name": "Nike, Inc.",
+    "ticker": "NKE",
+    "market_cap": "91.63B"
+  },
+  {
+    "name": "NiSource",
+    "ticker": "NI",
+    "market_cap": "18.79B"
+  },
+  {
+    "name": "Nordson Corporation",
+    "ticker": "NDSN",
+    "market_cap": "11.64B"
+  },
+  {
+    "name": "Norfolk Southern",
+    "ticker": "NSC",
+    "market_cap": "54.96B"
+  },
+  {
+    "name": "Northern Trust",
+    "ticker": "NTRS",
+    "market_cap": "21.01B"
+  },
+  {
+    "name": "Northrop Grumman",
+    "ticker": "NOC",
+    "market_cap": "67.81B"
+  },
+  {
+    "name": "Norwegian Cruise Line Holdings",
+    "ticker": "NCLH",
+    "market_cap": "8.45B"
+  },
+  {
+    "name": "NRG Energy",
+    "ticker": "NRG",
+    "market_cap": "31.52B"
+  },
+  {
+    "name": "Nucor",
+    "ticker": "NUE",
+    "market_cap": "26.73B"
+  },
+  {
+    "name": "Nvidia",
+    "ticker": "NVDA",
+    "market_cap": "3306.22B"
+  },
+  {
+    "name": "NVR, Inc.",
+    "ticker": "NVR",
+    "market_cap": "21.38B"
+  },
+  {
+    "name": "NXP Semiconductors",
+    "ticker": "NXPI",
+    "market_cap": "53.14B"
+  },
+  {
+    "name": "O\u2019Reilly Automotive",
+    "ticker": "ORLY",
+    "market_cap": "79.44B"
+  },
+  {
+    "name": "Occidental Petroleum",
+    "ticker": "OXY",
+    "market_cap": "41.64B"
+  },
+  {
+    "name": "Old Dominion",
+    "ticker": "ODFL",
+    "market_cap": "36.27B"
+  },
+  {
+    "name": "Omnicom Group",
+    "ticker": "OMC",
+    "market_cap": "15.02B"
+  },
+  {
+    "name": "ON Semiconductor",
+    "ticker": "ON",
+    "market_cap": "18.32B"
+  },
+  {
+    "name": "Oneok",
+    "ticker": "OKE",
+    "market_cap": "52.93B"
+  },
+  {
+    "name": "Oracle Corporation",
+    "ticker": "ORCL",
+    "market_cap": "447.67B"
+  },
+  {
+    "name": "Otis Worldwide",
+    "ticker": "OTIS",
+    "market_cap": "38.89B"
+  },
+  {
+    "name": "Paccar",
+    "ticker": "PCAR",
+    "market_cap": "50.93B"
+  },
+  {
+    "name": "Packaging Corporation of America",
+    "ticker": "PKG",
+    "market_cap": "17.50B"
+  },
+  {
+    "name": "Palantir Technologies",
+    "ticker": "PLTR",
+    "market_cap": "298.13B"
+  },
+  {
+    "name": "Palo Alto Networks",
+    "ticker": "PANW",
+    "market_cap": "128.65B"
+  },
+  {
+    "name": "Paramount Global",
+    "ticker": "PARA",
+    "market_cap": "8.39B"
+  },
+  {
+    "name": "Parker Hannifin",
+    "ticker": "PH",
+    "market_cap": "86.80B"
+  },
+  {
+    "name": "Paychex",
+    "ticker": "PAYX",
+    "market_cap": "56.98B"
+  },
+  {
+    "name": "Paycom",
+    "ticker": "PAYC",
+    "market_cap": "15.03B"
+  },
+  {
+    "name": "PayPal",
+    "ticker": "PYPL",
+    "market_cap": "70.33B"
+  },
+  {
+    "name": "Pentair",
+    "ticker": "PNR",
+    "market_cap": "16.59B"
+  },
+  {
+    "name": "PepsiCo",
+    "ticker": "PEP",
+    "market_cap": "180.69B"
+  },
+  {
+    "name": "Pfizer",
+    "ticker": "PFE",
+    "market_cap": "130.76B"
+  },
+  {
+    "name": "PG&E Corporation",
+    "ticker": "PCG",
+    "market_cap": "94.86M"
+  },
+  {
+    "name": "Philip Morris International",
+    "ticker": "PM",
+    "market_cap": "269.54B"
+  },
+  {
+    "name": "Phillips 66",
+    "ticker": "PSX",
+    "market_cap": "49.78B"
+  },
+  {
+    "name": "Pinnacle West Capital",
+    "ticker": "PNW",
+    "market_cap": "11.04B"
+  },
+  {
+    "name": "PNC Financial Services",
+    "ticker": "PNC",
+    "market_cap": "70.66B"
+  },
+  {
+    "name": "Pool Corporation",
+    "ticker": "POOL",
+    "market_cap": "12.12B"
+  },
+  {
+    "name": "PPG Industries",
+    "ticker": "PPG",
+    "market_cap": "25.94B"
+  },
+  {
+    "name": "PPL Corporation",
+    "ticker": "PPL",
+    "market_cap": "25.89B"
+  },
+  {
+    "name": "Principal Financial Group",
+    "ticker": "PFG",
+    "market_cap": "18.23B"
+  },
+  {
+    "name": "Procter & Gamble",
+    "ticker": "PG",
+    "market_cap": "386.31B"
+  },
+  {
+    "name": "Progressive Corporation",
+    "ticker": "PGR",
+    "market_cap": "168.97B"
+  },
+  {
+    "name": "Prologis",
+    "ticker": "PLD",
+    "market_cap": "105.17B"
+  },
+  {
+    "name": "Prudential Financial",
+    "ticker": "PRU",
+    "market_cap": "38.22B"
+  },
+  {
+    "name": "Public Service Enterprise Group",
+    "ticker": "PEG",
+    "market_cap": "39.81B"
+  },
+  {
+    "name": "PTC Inc.",
+    "ticker": "PTC",
+    "market_cap": "20.68B"
+  },
+  {
+    "name": "Public Storage",
+    "ticker": "PSA",
+    "market_cap": "54.29B"
+  },
+  {
+    "name": "PulteGroup",
+    "ticker": "PHM",
+    "market_cap": "20.66B"
+  },
+  {
+    "name": "Quanta Services",
+    "ticker": "PWR",
+    "market_cap": "51.09B"
+  },
+  {
+    "name": "Qualcomm",
+    "ticker": "QCOM",
+    "market_cap": "168.76B"
+  },
+  {
+    "name": "Quest Diagnostics",
+    "ticker": "DGX",
+    "market_cap": "19.88B"
+  },
+  {
+    "name": "Ralph Lauren Corporation",
+    "ticker": "RL",
+    "market_cap": "17.15B"
+  },
+  {
+    "name": "Raymond James Financial",
+    "ticker": "RJF",
+    "market_cap": "31.03B"
+  },
+  {
+    "name": "RTX Corporation",
+    "ticker": "RTX",
+    "market_cap": "183.29B"
+  },
+  {
+    "name": "Realty Income",
+    "ticker": "O",
+    "market_cap": "50.80B"
+  },
+  {
+    "name": "Regency Centers",
+    "ticker": "REG",
+    "market_cap": "13.52B"
+  },
+  {
+    "name": "Regeneron Pharmaceuticals",
+    "ticker": "REGN",
+    "market_cap": "64.41B"
+  },
+  {
+    "name": "Regions Financial Corporation",
+    "ticker": "RF",
+    "market_cap": "20.26B"
+  },
+  {
+    "name": "Republic Services",
+    "ticker": "RSG",
+    "market_cap": "78.24B"
+  },
+  {
+    "name": "ResMed",
+    "ticker": "RMD",
+    "market_cap": "37.15B"
+  },
+  {
+    "name": "Revvity",
+    "ticker": "RVTY",
+    "market_cap": "11.12B"
+  },
+  {
+    "name": "Rockwell Automation",
+    "ticker": "ROK",
+    "market_cap": "34.74B"
+  },
+  {
+    "name": "Rollins, Inc.",
+    "ticker": "ROL",
+    "market_cap": "27.83B"
+  },
+  {
+    "name": "Roper Technologies",
+    "ticker": "ROP",
+    "market_cap": "62.41B"
+  },
+  {
+    "name": "Ross Stores",
+    "ticker": "ROST",
+    "market_cap": "50.73B"
+  },
+  {
+    "name": "Royal Caribbean Group",
+    "ticker": "RCL",
+    "market_cap": "68.98B"
+  },
+  {
+    "name": "S&P Global",
+    "ticker": "SPGI",
+    "market_cap": "160.80B"
+  },
+  {
+    "name": "Salesforce",
+    "ticker": "CRM",
+    "market_cap": "275.97B"
+  },
+  {
+    "name": "SBA Communications",
+    "ticker": "SBAC",
+    "market_cap": "25.31B"
+  },
+  {
+    "name": "Schlumberger",
+    "ticker": "SLB",
+    "market_cap": "47.76B"
+  },
+  {
+    "name": "Seagate Technology",
+    "ticker": "STX",
+    "market_cap": "23.14B"
+  },
+  {
+    "name": "Sempra",
+    "ticker": "SRE",
+    "market_cap": "51.15B"
+  },
+  {
+    "name": "ServiceNow",
+    "ticker": "NOW",
+    "market_cap": "212.33B"
+  },
+  {
+    "name": "Sherwin-Williams",
+    "ticker": "SHW",
+    "market_cap": "90.72B"
+  },
+  {
+    "name": "Simon Property Group",
+    "ticker": "SPG",
+    "market_cap": "62.04B"
+  },
+  {
+    "name": "Skyworks Solutions",
+    "ticker": "SWKS",
+    "market_cap": "10.95B"
+  },
+  {
+    "name": "J.M. Smucker Company (The)",
+    "ticker": "SJM",
+    "market_cap": "12.07B"
+  },
+  {
+    "name": "Smurfit Westrock",
+    "ticker": "SW",
+    "market_cap": "24.14B"
+  },
+  {
+    "name": "Snap-on",
+    "ticker": "SNA",
+    "market_cap": "17.36B"
+  },
+  {
+    "name": "Solventum",
+    "ticker": "SOLV",
+    "market_cap": "13.11B"
+  },
+  {
+    "name": "Southern Company",
+    "ticker": "SO",
+    "market_cap": "98.34B"
+  },
+  {
+    "name": "Southwest Airlines",
+    "ticker": "LUV",
+    "market_cap": "18.57B"
+  },
+  {
+    "name": "Stanley Black & Decker",
+    "ticker": "SWK",
+    "market_cap": "10.93B"
+  },
+  {
+    "name": "Starbucks",
+    "ticker": "SBUX",
+    "market_cap": "96.15B"
+  },
+  {
+    "name": "State Street Corporation",
+    "ticker": "STT",
+    "market_cap": "28.03B"
+  },
+  {
+    "name": "Steel Dynamics",
+    "ticker": "STLD",
+    "market_cap": "20.20B"
+  },
+  {
+    "name": "Steris",
+    "ticker": "STE",
+    "market_cap": "24.81B"
+  },
+  {
+    "name": "Stryker Corporation",
+    "ticker": "SYK",
+    "market_cap": "150.84B"
+  },
+  {
+    "name": "Supermicro",
+    "ticker": "SMCI",
+    "market_cap": "26.73B"
+  },
+  {
+    "name": "Synchrony Financial",
+    "ticker": "SYF",
+    "market_cap": "22.86B"
+  },
+  {
+    "name": "Synopsys",
+    "ticker": "SNPS",
+    "market_cap": "79.79B"
+  },
+  {
+    "name": "Sysco",
+    "ticker": "SYY",
+    "market_cap": "35.39B"
+  },
+  {
+    "name": "T-Mobile US",
+    "ticker": "TMUS",
+    "market_cap": "277.33B"
+  },
+  {
+    "name": "T. Rowe Price",
+    "ticker": "TROW",
+    "market_cap": "21.58B"
+  },
+  {
+    "name": "Take-Two Interactive",
+    "ticker": "TTWO",
+    "market_cap": "41.42B"
+  },
+  {
+    "name": "Tapestry, Inc.",
+    "ticker": "TPR",
+    "market_cap": "17.11B"
+  },
+  {
+    "name": "Targa Resources",
+    "ticker": "TRGP",
+    "market_cap": "35.71B"
+  },
+  {
+    "name": "Target Corporation",
+    "ticker": "TGT",
+    "market_cap": "44.52B"
+  },
+  {
+    "name": "TE Connectivity",
+    "ticker": "TEL",
+    "market_cap": "48.30B"
+  },
+  {
+    "name": "Teledyne Technologies",
+    "ticker": "TDY",
+    "market_cap": "23.29B"
+  },
+  {
+    "name": "Teradyne",
+    "ticker": "TER",
+    "market_cap": "13.07B"
+  },
+  {
+    "name": "Tesla, Inc.",
+    "ticker": "TSLA",
+    "market_cap": "1100.34B"
+  },
+  {
+    "name": "Texas Instruments",
+    "ticker": "TXN",
+    "market_cap": "171.10B"
+  },
+  {
+    "name": "Texas Pacific Land Corporation",
+    "ticker": "TPL",
+    "market_cap": "32.65B"
+  },
+  {
+    "name": "Textron",
+    "ticker": "TXT",
+    "market_cap": "13.80B"
+  },
+  {
+    "name": "Thermo Fisher Scientific",
+    "ticker": "TMO",
+    "market_cap": "156.25B"
+  },
+  {
+    "name": "TJX Companies",
+    "ticker": "TJX",
+    "market_cap": "150.76B"
+  },
+  {
+    "name": "TKO Group Holdings",
+    "ticker": "TKO",
+    "market_cap": "32.45B"
+  },
+  {
+    "name": "Tractor Supply",
+    "ticker": "TSCO",
+    "market_cap": "28.05B"
+  },
+  {
+    "name": "Trane Technologies",
+    "ticker": "TT",
+    "market_cap": "96.08B"
+  },
+  {
+    "name": "TransDigm Group",
+    "ticker": "TDG",
+    "market_cap": "80.88B"
+  },
+  {
+    "name": "Travelers Companies (The)",
+    "ticker": "TRV",
+    "market_cap": "62.20B"
+  },
+  {
+    "name": "Trimble Inc.",
+    "ticker": "TRMB",
+    "market_cap": "17.10B"
+  },
+  {
+    "name": "Truist Financial",
+    "ticker": "TFC",
+    "market_cap": "54.21B"
+  },
+  {
+    "name": "Tyler Technologies",
+    "ticker": "TYL",
+    "market_cap": "24.76B"
+  },
+  {
+    "name": "Tyson Foods",
+    "ticker": "TSN",
+    "market_cap": "19.57B"
+  },
+  {
+    "name": "U.S. Bancorp",
+    "ticker": "USB",
+    "market_cap": "69.78B"
+  },
+  {
+    "name": "Uber",
+    "ticker": "UBER",
+    "market_cap": "193.35B"
+  },
+  {
+    "name": "UDR, Inc.",
+    "ticker": "UDR",
+    "market_cap": "13.99B"
+  },
+  {
+    "name": "Ulta Beauty",
+    "ticker": "ULTA",
+    "market_cap": "18.51B"
+  },
+  {
+    "name": "Union Pacific Corporation",
+    "ticker": "UNP",
+    "market_cap": "137.12B"
+  },
+  {
+    "name": "United Airlines Holdings",
+    "ticker": "UAL",
+    "market_cap": "25.68B"
+  },
+  {
+    "name": "United Parcel Service",
+    "ticker": "UPS",
+    "market_cap": "83.93B"
+  },
+  {
+    "name": "United Rentals",
+    "ticker": "URI",
+    "market_cap": "47.06B"
+  },
+  {
+    "name": "UnitedHealth Group",
+    "ticker": "UNH",
+    "market_cap": "286.56B"
+  },
+  {
+    "name": "Universal Health Services",
+    "ticker": "UHS",
+    "market_cap": "12.68B"
+  },
+  {
+    "name": "Valero Energy",
+    "ticker": "VLO",
+    "market_cap": "42.07B"
+  },
+  {
+    "name": "Ventas",
+    "ticker": "VTR",
+    "market_cap": "88.66B"
+  },
+  {
+    "name": "Veralto",
+    "ticker": "VLTO",
+    "market_cap": "25.33B"
+  },
+  {
+    "name": "Verisign",
+    "ticker": "VRSN",
+    "market_cap": "26.53B"
+  },
+  {
+    "name": "Verisk Analytics",
+    "ticker": "VRSK",
+    "market_cap": "43.97B"
+  },
+  {
+    "name": "Verizon",
+    "ticker": "VZ",
+    "market_cap": "186.82B"
+  },
+  {
+    "name": "Vertex Pharmaceuticals",
+    "ticker": "VRTX",
+    "market_cap": "113.16B"
+  },
+  {
+    "name": "Viatris",
+    "ticker": "VTRS",
+    "market_cap": "10.28B"
+  },
+  {
+    "name": "Vici Properties",
+    "ticker": "VICI",
+    "market_cap": "33.97B"
+  },
+  {
+    "name": "Visa Inc.",
+    "ticker": "V",
+    "market_cap": "713.42B"
+  },
+  {
+    "name": "Vistra Corp",
+    "ticker": "VST",
+    "market_cap": "53.38B"
+  },
+  {
+    "name": "Vulcan Materials Company",
+    "ticker": "VMC",
+    "market_cap": "36.46B"
+  },
+  {
+    "name": "W. R. Berkley Corporation",
+    "ticker": "WRB",
+    "market_cap": "28.00B"
+  },
+  {
+    "name": "W. W. Grainger",
+    "ticker": "GWW",
+    "market_cap": "52.86B"
+  },
+  {
+    "name": "Wabtec",
+    "ticker": "WAB",
+    "market_cap": "35.45B"
+  },
+  {
+    "name": "Walgreens Boots Alliance",
+    "ticker": "WBA",
+    "market_cap": "9.73B"
+  },
+  {
+    "name": "Walmart",
+    "ticker": "WMT",
+    "market_cap": "785.05B"
+  },
+  {
+    "name": "Walt Disney Company (The)",
+    "ticker": "DIS",
+    "market_cap": "202.53B"
+  },
+  {
+    "name": "Warner Bros. Discovery",
+    "ticker": "WBD",
+    "market_cap": "22.39B"
+  },
+  {
+    "name": "Waste Management",
+    "ticker": "WM",
+    "market_cap": "93.34B"
+  },
+  {
+    "name": "Waters Corporation",
+    "ticker": "WAT",
+    "market_cap": "21.34B"
+  },
+  {
+    "name": "WEC Energy Group",
+    "ticker": "WEC",
+    "market_cap": "34.23B"
+  },
+  {
+    "name": "Wells Fargo",
+    "ticker": "WFC",
+    "market_cap": "247.51B"
+  },
+  {
+    "name": "Welltower",
+    "ticker": "WELL",
+    "market_cap": "98.52B"
+  },
+  {
+    "name": "West Pharmaceutical Services",
+    "ticker": "WST",
+    "market_cap": "15.61B"
+  },
+  {
+    "name": "Western Digital",
+    "ticker": "WDC",
+    "market_cap": "17.70B"
+  },
+  {
+    "name": "Weyerhaeuser",
+    "ticker": "WY",
+    "market_cap": "19.22B"
+  },
+  {
+    "name": "Williams-Sonoma, Inc.",
+    "ticker": "WSM",
+    "market_cap": "21.43B"
+  },
+  {
+    "name": "Williams Companies",
+    "ticker": "WMB",
+    "market_cap": "71.48B"
+  },
+  {
+    "name": "Willis Towers Watson",
+    "ticker": "WTW",
+    "market_cap": "31.13B"
+  },
+  {
+    "name": "Workday, Inc.",
+    "ticker": "WDAY",
+    "market_cap": "73.14B"
+  },
+  {
+    "name": "Wynn Resorts",
+    "ticker": "WYNN",
+    "market_cap": "10.09B"
+  },
+  {
+    "name": "Xcel Energy",
+    "ticker": "XEL",
+    "market_cap": "41.65B"
+  },
+  {
+    "name": "Xylem Inc.",
+    "ticker": "XYL",
+    "market_cap": "31.15B"
+  },
+  {
+    "name": "Yum! Brands",
+    "ticker": "YUM",
+    "market_cap": "41.60B"
+  },
+  {
+    "name": "Zebra Technologies",
+    "ticker": "ZBRA",
+    "market_cap": "15.15B"
+  },
+  {
+    "name": "Zimmer Biomet",
+    "ticker": "ZBH",
+    "market_cap": "18.95B"
+  },
+  {
+    "name": "Zoetis",
+    "ticker": "ZTS",
+    "market_cap": "72.99B"
+  }
+]
