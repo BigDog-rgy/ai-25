@@ -1,14 +1,12 @@
 import { NextResponse } from "next/server";
 import { createClient } from "@supabase/supabase-js";
 
-type RouteContext = {
-  params: {
-    id: string;
-  };
-};
-
-export async function GET(request: Request, context: RouteContext) {
-  const id = context.params.id;
+export async function GET(
+  request: Request,
+  // @ts-expect-error - Next.js route handler context type is not exported yet
+  context: { params: { id: string } }
+) {
+  const { id } = context.params;
 
   const supabase = createClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
