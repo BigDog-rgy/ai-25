@@ -60,10 +60,12 @@ export default async function Page() {
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
     process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
   );
-  const { data: rows } = await supabase
+  const { data } = await supabase
     .from("company_ai_readiness")
     .select("id, company, market_cap, overall")
     .order("overall", { ascending: false }) as { data: CompanySummary[] | null };
+
+  const rows = (data || []).slice().sort((a, b) => b.overall - a.overall);
 
   // 1. Calculate "top index" weights for top N (use 25 for real, or 5/9 for test)
   const topIndexMap = calculateTopIndexWithWeights(rows || [], 25);
