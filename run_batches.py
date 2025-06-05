@@ -1,65 +1,75 @@
-import os
-import json
+import os, json, time
+from pathlib import Path   
 from openai import OpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-BATCH_SIZE   = 10   # we want 25 companies per chunk
-MAX_BATCHES  = 2    
+# -------- CONFIG ---------
+BATCH_SIZE     = 4      # or 25 when ready
+MAX_BATCHES    = 126
+PAUSE_AFTER    = 2      # send 2 batches, then pause
+SLEEP_SECONDS  = 60     # 60-second cooldown
+# -------------------------
 
-# Load data
-with open("batch_input.json", "r", encoding="utf-8") as f:
-    companies = json.load(f)
-with open("rubric.txt", "r", encoding="utf-8") as f:
-    instructions = f.read()
+# ----- load data ----------
+companies    = json.load(open("batch_input.json", "r", encoding="utf-8"))
+instructions = open("rubric.txt", "r", encoding="utf-8").read()
 
-def build_batch_prompt(instructions, companies):
-    prompt = (
-        instructions
-        + f"\n\n## Companies to Evaluate ({len(companies)} companies):\n"
-        + "For EACH company, respond with a SEPARATE, clearly labeled report, following the required format below.\n"
-        + "Do NOT skip or combine companies. Each section must begin with 'Company: [Company Name]'.\n"
-    )
-    for idx, company in enumerate(companies, 1):
-        prompt += f"\n### Company {idx}: {company['name']}\n"
-        prompt += f"10-K Report Excerpts:\n{company['combined_10k']}\n"
-        prompt += f"Supplementary Company Information:\n{company['wiki_context']}\n"
-    prompt += (
+def build_batch_prompt(instr, comps, first_batch=False):
+    header = instr if first_batch else "Same rubric as previous batch."
+    body   = ""
+    for idx, c in enumerate(comps, 1):
+        body += (
+            f"\n### Company {idx}: {c['name']}\n"
+            f"10-K Report Excerpts:\n{c['combined_10k']}\n"
+            f"Supplementary Company Information:\n{c['wiki_context']}\n"
+        )
+    body += (
         "\nPlease respond for each company separately, labeling each response clearly with the company name."
     )
-    return prompt
+    return f"{header}\n\n## Companies to Evaluate ({len(comps)}):\n{body}"
 
-def batch_companies(companies, batch_size=BATCH_SIZE):
-    for i in range(0, len(companies), batch_size):
-        yield companies[i:i + batch_size]
+def batch_companies(items, size):
+    for i in range(0, len(items), size):
+        yield items[i : i + size]
 
 for batch_num, batch in enumerate(batch_companies(companies, BATCH_SIZE), 1):
     if batch_num > MAX_BATCHES:
         break
-    print(f"Processing batch {batch_num} with {len(batch)} companies...")
-    user_prompt = build_batch_prompt(instructions, batch)
+
+    # ------------- build prompt -------------
+    prompt = build_batch_prompt(
+        instructions, batch, first_batch=(batch_num == 1)
+    )
+
     messages = [
         {
             "role": "system",
-            "content": "You are a helpful assistant expert in analyzing AI readiness of companies based on annual reports and supplementary company information."
+            "content": (
+                "You are a helpful assistant expert in analyzing AI readiness of "
+                "companies based on annual reports and supplementary information."
+            ),
         },
-        {
-            "role": "user",
-            "content": user_prompt
-        }
+        {"role": "user", "content": prompt},
     ]
+
+    # ------------- API call -----------------
     response = client.chat.completions.create(
-        model="gpt-4o",  # or "gpt-4-turbo"
+        model="gpt-4o",
         messages=messages,
-        max_tokens=750 * len(batch),  # room for output; tune as needed
+        max_tokens=750 * len(batch),
         temperature=0.3,
     )
-    result_text = response.choices[0].message.content
 
-    # Save each batch result to its own file for review
-    with open(f"batch_result_{batch_num:03}.txt", "w", encoding="utf-8") as out_f:
-        out_f.write(result_text)
+    # ------------- save ---------------------
+    Path(f"batch_result_{batch_num:03}.txt").write_text(
+        response.choices[0].message.content, encoding="utf-8"
+    )
+    print(f"✅ Batch {batch_num} done ({len(batch)} companies)")
 
-    print(f"Batch {batch_num} complete! Results saved to batch_result_{batch_num:03}.txt")
+    # ------------- cooldown every N batches -
+    if batch_num % PAUSE_AFTER == 0 and batch_num < MAX_BATCHES:
+        print(f"Sleeping {SLEEP_SECONDS}s to avoid throttling…")
+        time.sleep(SLEEP_SECONDS)
