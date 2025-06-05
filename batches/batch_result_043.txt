@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Entergy  
+Sector: Utilities  
+Industry: Electric Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 1/5
+
+**Overall AI-Readiness Score:** 1.25/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic business driver in the provided excerpts.
+- **Dimension 2 Evidence:** No discussion of data infrastructure or analytics capabilities in the provided excerpts.
+- **Dimension 3 Evidence:** Some mention of regulatory and operational challenges, indicating initial steps towards modernization but no specific mention of cloud or digital capabilities.
+- **Dimension 4 Evidence:** No mention of AI-related human capital or skills development.
+- **Dimension 5 Evidence:** No discussion of AI governance or responsible implementation.
+
+**Strategic AI Positioning:** Based on the provided excerpts, AI does not appear to be a strategic focus for Entergy, with no evidence of AI initiatives or investments.
+
+**Contextual Considerations:** Entergy operates in the Utilities sector, which may traditionally have slower adoption of AI technologies compared to other sectors.
+
+**Confidence Level:** Low - due to the lack of AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: EOG Resources  
+Sector: Energy  
+Industry: Oil & Gas Exploration & Production
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.45/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of risks, not as a strategic driver.
+- **Dimension 2 Evidence:** Use of cloud services and data hosting platforms for various business operations indicates intermediate data capabilities.
+- **Dimension 3 Evidence:** Reliance on cloud services and IT systems for business operations suggests a modernizing infrastructure.
+- **Dimension 4 Evidence:** No specific mention of AI skills development, only general technology-related risks.
+- **Dimension 5 Evidence:** General cybersecurity and risk assessment mentions, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is primarily viewed as a risk factor rather than a strategic asset, with some reliance on technology infrastructure for operations.
+
+**Contextual Considerations:** As an oil and gas company, EOG Resources may prioritize operational efficiency and risk management over AI innovation.
+
+**Confidence Level:** Medium - due to some relevant technology infrastructure details but limited AI-specific strategy.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: EPAM Systems  
+Sector: Information Technology  
+Industry: IT Consulting & Other Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 5/5
+- Dimension 2 (Data Infrastructure and Analytics): 5/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 5/5
+- Dimension 4 (Human Capital and AI Skills): 5/5
+- Dimension 5 (AI Governance and Responsible Implementation): 4/5
+
+**Overall AI-Readiness Score:** 4.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is integral to EPAM's services, with significant investments in AI capabilities and products.
+- **Dimension 2 Evidence:** Advanced data and analytics capabilities, including proprietary data accelerators and AI frameworks.
+- **Dimension 3 Evidence:** Comprehensive cloud and digital platform strategies, with AI-driven tools and rapid deployment capabilities.
+- **Dimension 4 Evidence:** Strong focus on AI talent acquisition and development, with hybrid teams and AI training programs.
+- **Dimension 5 Evidence:** Some mention of AI-driven security tools and risk management, but less emphasis on formal governance frameworks.
+
+**Strategic AI Positioning:** AI is a core component of EPAM's business strategy, driving innovation and competitive advantage across its service offerings.
+
+**Contextual Considerations:** EPAM's position in the IT sector and focus on digital transformation naturally align with a strong AI strategy.
+
+**Confidence Level:** High - due to extensive and detailed AI-related disclosures.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: EQT Corporation  
+Sector: Energy  
+Industry: Oil & Gas Exploration & Production
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.55/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic business driver in the provided excerpts.
+- **Dimension 2 Evidence:** Basic data integration and regulatory compliance mentioned, but no advanced analytics capabilities.
+- **Dimension 3 Evidence:** Some mention of cybersecurity and risk assessment, indicating initial steps towards modernization.
+- **Dimension 4 Evidence:** No mention of AI-related human capital or skills development.
+- **Dimension 5 Evidence:** General mentions of cybersecurity, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI does not appear to be a focus for EQT Corporation, with no strategic initiatives or investments highlighted.
+
+**Contextual Considerations:** As an energy company, EQT may prioritize operational stability and regulatory compliance over AI innovation.
+
+**Confidence Level:** Low - due to the lack of AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT

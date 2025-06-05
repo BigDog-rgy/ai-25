@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: J.B. Hunt  
+Sector: Industrials  
+Industry: Cargo Ground Transportation
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.25/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K mentions cloud computing initiatives but does not highlight AI as a strategic business driver.
+- **Dimension 2 Evidence:** The focus on IT operations and compliance suggests foundational data infrastructure without advanced analytics.
+- **Dimension 3 Evidence:** Mention of cloud computing indicates a strategy for modernization, but specifics on cloud adoption are limited.
+- **Dimension 4 Evidence:** No specific mention of AI skills development or hiring initiatives related to AI.
+- **Dimension 5 Evidence:** General governance and compliance are mentioned, but no specific AI governance framework is outlined.
+
+**Strategic AI Positioning:** J.B. Hunt appears to be in the early stages of integrating modern technologies, focusing more on operational enhancements rather than strategic AI deployment.
+
+**Contextual Considerations:** As a logistics company, the focus on operational efficiency and compliance is expected, but the lack of AI-centric strategies limits their AI readiness.
+
+**Confidence Level:** Medium - Based on the limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Jabil  
+Sector: Information Technology  
+Industry: Electronic Manufacturing Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 4.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is integral to Jabil's Intelligent Infrastructure segment, indicating a strategic differentiator.
+- **Dimension 2 Evidence:** The company uses AI and machine learning in R&D, suggesting sophisticated analytics capabilities.
+- **Dimension 3 Evidence:** The use of cloud and digital platforms for automation and robotics indicates advanced technology infrastructure.
+- **Dimension 4 Evidence:** The focus on AI and machine learning in R&D implies investment in AI skills and talent.
+- **Dimension 5 Evidence:** Mentions of AI-related regulations and risk assessments indicate developing governance structures.
+
+**Strategic AI Positioning:** Jabil positions AI as a strategic differentiator, integrating it into core operations and product offerings.
+
+**Contextual Considerations:** As a leader in electronic manufacturing, Jabil's focus on AI and digital infrastructure aligns with industry trends towards automation and smart manufacturing.
+
+**Confidence Level:** High - Due to the comprehensive AI-related disclosures and strategic integration in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Jack Henry & Associates  
+Sector: Financials  
+Industry: Transaction & Payment Processing Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.55/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is used for enhancing payment platforms, indicating it is a business enabler.
+- **Dimension 2 Evidence:** The use of AI for fraud detection and predictive analytics suggests sophisticated data capabilities.
+- **Dimension 3 Evidence:** The provision of cloud services and digital payment solutions indicates a modern technology infrastructure.
+- **Dimension 4 Evidence:** Some mention of AI and machine learning integration, but limited specific talent development initiatives.
+- **Dimension 5 Evidence:** Basic governance structures are in place, with mentions of risk management and cybersecurity.
+
+**Strategic AI Positioning:** AI enhances Jack Henry's payment processing services, improving customer experience and operational efficiency.
+
+**Contextual Considerations:** As a financial technology provider, the focus on AI for fraud detection and payment processing aligns with industry needs for secure and efficient transactions.
+
+**Confidence Level:** Medium - Based on the specific but not comprehensive AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Jacobs Solutions  
+Sector: Industrials  
+Industry: Construction & Engineering
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned as part of technology-enhanced solutions, indicating it is a business enabler.
+- **Dimension 2 Evidence:** Use of data science and machine learning for mobility analytics suggests intermediate analytics capabilities.
+- **Dimension 3 Evidence:** Mentions of upgrading IT infrastructure and cloud services indicate a modernizing technology infrastructure.
+- **Dimension 4 Evidence:** Some focus on AI and data science skills, but no specific programs or partnerships mentioned.
+- **Dimension 5 Evidence:** Awareness of AI risks and challenges, with some governance structures mentioned.
+
+**Strategic AI Positioning:** AI is used to enhance Jacobs' engineering and consulting services, supporting innovation and operational efficiency.
+
+**Contextual Considerations:** As a leader in engineering services, Jacobs' integration of AI aligns with industry trends towards digital transformation and smart infrastructure.
+
+**Confidence Level:** Medium - Based on the breadth of AI-related disclosures but lacking depth in specific initiatives.
+
+### END COMPANY REPORT

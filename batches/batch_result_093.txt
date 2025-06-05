@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: PepsiCo  
+Sector: Consumer Staples  
+Industry: Soft Drinks & Non-alcoholic Beverages
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 3.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** PepsiCo mentions investments in AI and data analytics to enhance consumer insights and research, indicating AI as a business enabler.
+- **Dimension 2 Evidence:** The report discusses investments in data analytics to understand consumer trends, suggesting intermediate analytics capabilities.
+- **Dimension 3 Evidence:** PepsiCo is focusing on digitalization and enhancing omnichannel capabilities, indicating a modernizing technology infrastructure.
+- **Dimension 4 Evidence:** The company highlights the importance of AI and data analytic skills, suggesting ongoing efforts to build AI-related human capital.
+- **Dimension 5 Evidence:** The report mentions compliance with AI-related regulations but lacks a specific governance framework, indicating basic governance.
+
+**Strategic AI Positioning:** AI and data analytics are used to enhance consumer insights and improve operational efficiencies, playing a significant role in PepsiCo's strategy but not yet a core driver.
+
+**Contextual Considerations:** As a large consumer goods company, PepsiCo's focus on AI for consumer insights and operational efficiency is typical for its industry, influencing its AI readiness.
+
+**Confidence Level:** Medium - The report provides some specific AI-related initiatives but lacks depth in governance and strategic integration.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Pfizer  
+Sector: Health Care  
+Industry: Pharmaceuticals
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.65/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** Limited mention of AI in strategic contexts, primarily focused on operational aspects like R&D.
+- **Dimension 2 Evidence:** Pfizer's report implies the use of data analytics for R&D and clinical trials, suggesting intermediate capabilities.
+- **Dimension 3 Evidence:** The company is modernizing its technology infrastructure, as indicated by ongoing digital initiatives.
+- **Dimension 4 Evidence:** General emphasis on employee development without specific focus on AI skills, indicating awareness.
+- **Dimension 5 Evidence:** Basic mention of data privacy and cybersecurity, lacking specific AI governance structures.
+
+**Strategic AI Positioning:** AI is not central to Pfizer's core business strategy but supports operational efficiencies in R&D and clinical trials.
+
+**Contextual Considerations:** As a pharmaceutical company, Pfizer's focus on R&D and regulatory compliance shapes its AI readiness, with less emphasis on AI as a strategic driver.
+
+**Confidence Level:** Medium - The report provides limited AI-specific information, focusing more on general operational improvements.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: PG&E Corporation  
+Sector: Utilities  
+Industry: Multi-Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.40/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of cybersecurity threats, indicating operational enhancement rather than strategic focus.
+- **Dimension 2 Evidence:** Limited discussion on data analytics, primarily focused on cybersecurity and compliance.
+- **Dimension 3 Evidence:** PG&E is modernizing its infrastructure with cybersecurity measures and digital platforms.
+- **Dimension 4 Evidence:** No specific mention of AI skills development, indicating a traditional approach.
+- **Dimension 5 Evidence:** PG&E has a structured cybersecurity governance framework, which includes AI-related risks.
+
+**Strategic AI Positioning:** AI is primarily used for enhancing cybersecurity, with limited strategic integration into core operations.
+
+**Contextual Considerations:** As a utility company, PG&E's focus on infrastructure security and regulatory compliance influences its AI readiness.
+
+**Confidence Level:** Medium - The report provides some insights into AI-related activities but lacks depth in strategic AI initiatives.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Philip Morris International  
+Sector: Consumer Staples  
+Industry: Tobacco
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.15/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of IT systems and cybersecurity risks, indicating operational enhancement.
+- **Dimension 2 Evidence:** Basic mention of data governance and cybersecurity, with no advanced analytics capabilities discussed.
+- **Dimension 3 Evidence:** Limited discussion on technology infrastructure, with focus on cybersecurity measures.
+- **Dimension 4 Evidence:** General statements about employee skills without specific AI focus, indicating awareness.
+- **Dimension 5 Evidence:** PMI has a structured governance framework for cybersecurity, including AI-related risks.
+
+**Strategic AI Positioning:** AI is used to support IT and cybersecurity functions, with limited strategic importance in core business operations.
+
+**Contextual Considerations:** As a tobacco company, PMI's focus on regulatory compliance and cybersecurity shapes its AI readiness.
+
+**Confidence Level:** Medium - The report provides basic AI-related information, primarily focused on cybersecurity and compliance.
+
+### END COMPANY REPORT

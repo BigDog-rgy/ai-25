@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Eversource Energy  
+Sector: Utilities  
+Industry: Electric Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The establishment of an Artificial Intelligence Executive Working Committee suggests AI is used for operational enhancements, not as a core business driver.
+- **Dimension 2 Evidence:** No specific mention of data infrastructure or advanced analytics capabilities in the excerpts.
+- **Dimension 3 Evidence:** Mention of a new substation and transformers, but no evidence of advanced technology infrastructure.
+- **Dimension 4 Evidence:** No specific initiatives related to AI skills development are mentioned.
+- **Dimension 5 Evidence:** The "Secure by Design" approach indicates some level of AI governance and risk management awareness.
+
+**Strategic AI Positioning:** AI is currently positioned as a tool for operational enhancements and security, rather than a strategic differentiator or core business driver.
+
+**Contextual Considerations:** As a utility company, Eversource Energy's focus on AI may be more on operational efficiency and security rather than customer-facing innovations.
+
+**Confidence Level:** Medium - Based on limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Exelon  
+Sector: Utilities  
+Industry: Electric Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of increased data processing facilities, suggesting it is a business enabler.
+- **Dimension 2 Evidence:** References to data management and cybersecurity indicate intermediate data infrastructure maturity.
+- **Dimension 3 Evidence:** Mentions of modernization and risk assessment suggest a strategy for technology infrastructure improvement.
+- **Dimension 4 Evidence:** No specific AI talent development initiatives are mentioned.
+- **Dimension 5 Evidence:** The use of external audits and risk assessments indicates a developing AI governance framework.
+
+**Strategic AI Positioning:** AI is seen as a business enabler, particularly in enhancing data processing capabilities, but not yet a core business driver.
+
+**Contextual Considerations:** As a large utility company, Exelon's AI initiatives may focus on operational efficiency and infrastructure management.
+
+**Confidence Level:** Medium - Based on moderate AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Expand Energy  
+Sector: Energy  
+Industry: Oil & Gas Exploration & Production
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 1.75/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic business driver in the excerpts.
+- **Dimension 2 Evidence:** Basic data security and cybersecurity measures are mentioned, indicating foundational data infrastructure.
+- **Dimension 3 Evidence:** References to cybersecurity and risk management suggest some modernization efforts.
+- **Dimension 4 Evidence:** No mention of AI skills development or hiring initiatives.
+- **Dimension 5 Evidence:** A structured cybersecurity risk management program indicates some level of governance.
+
+**Strategic AI Positioning:** AI is not currently a strategic focus for Expand Energy, with more emphasis on cybersecurity and risk management.
+
+**Contextual Considerations:** As a natural gas producer, the focus may be more on operational security and efficiency rather than AI-driven innovation.
+
+**Confidence Level:** Low - Based on limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Expedia Group  
+Sector: Consumer Discretionary  
+Industry: Hotels, Resorts & Cruise Lines
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.95/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI and machine learning are integral to product improvement and customer service, indicating strategic differentiation.
+- **Dimension 2 Evidence:** Unified data engineering and data science teams suggest sophisticated analytics capabilities.
+- **Dimension 3 Evidence:** Use of cloud platforms and partnerships with cloud providers like AWS indicate advanced digital capabilities.
+- **Dimension 4 Evidence:** Investment in technology and data science teams shows a strong focus on AI skills development.
+- **Dimension 5 Evidence:** Cybersecurity frameworks are mentioned, but specific AI governance is less detailed.
+
+**Strategic AI Positioning:** AI is a strategic differentiator for Expedia Group, enhancing customer experience and operational efficiency.
+
+**Contextual Considerations:** As a travel technology company, Expedia's business model naturally aligns with leveraging AI for competitive advantage.
+
+**Confidence Level:** High - Based on comprehensive AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT

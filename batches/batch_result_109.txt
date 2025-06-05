@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: T. Rowe Price  
+Sector: Financials  
+Industry: Asset Management & Custody Banks
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The use of AI and machine-learning algorithms to support investment decisions and processes indicates AI as a business enabler, but not yet a strategic differentiator.
+- **Dimension 2 Evidence:** Mentions of quantitative models supported by AI suggest intermediate analytics capabilities.
+- **Dimension 3 Evidence:** The report discusses the integration of operations and technology adaptation but lacks specific mentions of cloud adoption or modern digital platforms.
+- **Dimension 4 Evidence:** No specific initiatives for AI talent acquisition or training are mentioned, indicating a general awareness but not a focused strategy.
+- **Dimension 5 Evidence:** The report highlights risks and challenges of AI, indicating awareness of AI governance but lacking a structured framework.
+
+**Strategic AI Positioning:** AI is used to enhance investment processes and client services, but it is not yet central to T. Rowe Price's core business strategy.
+
+**Contextual Considerations:** As a large asset management firm, T. Rowe Price's focus on AI for investment support aligns with industry trends, but the lack of specific AI-driven products or services limits its strategic impact.
+
+**Confidence Level:** Medium - The report provides some detail on AI applications but lacks depth in strategic and governance aspects.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Take-Two Interactive  
+Sector: Communication Services  
+Industry: Interactive Home Entertainment
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.70/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of product development, indicating it enhances product features but is not yet a core driver.
+- **Dimension 2 Evidence:** Limited discussion on data infrastructure; focus is more on product development risks.
+- **Dimension 3 Evidence:** The company relies on complex IT systems, suggesting ongoing modernization efforts.
+- **Dimension 4 Evidence:** Importance of attracting and retaining talent is noted, with some focus on technology roles.
+- **Dimension 5 Evidence:** General risks related to AI are mentioned, but no specific governance framework is outlined.
+
+**Strategic AI Positioning:** AI is used to enhance gaming products, contributing to competitive positioning but not fundamentally altering the business model.
+
+**Contextual Considerations:** As a leading game developer, Take-Two Interactive's use of AI aligns with industry trends for enhancing user experience, though strategic integration is still developing.
+
+**Confidence Level:** Medium - The report provides some insights into AI use but lacks comprehensive details on strategic integration and governance.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Tapestry, Inc.  
+Sector: Consumer Discretionary  
+Industry: Apparel, Accessories & Luxury Goods
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.90/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI and machine learning are used for customer segmentation and supply chain management, indicating a business enabler role.
+- **Dimension 2 Evidence:** Use of data analytics and machine learning for operations management suggests intermediate capabilities.
+- **Dimension 3 Evidence:** Cloud computing implementation is mentioned, indicating modernization efforts.
+- **Dimension 4 Evidence:** References to technology training and talent retention indicate a focus on building digital skills.
+- **Dimension 5 Evidence:** Cybersecurity and risk assessment are discussed, but specific AI governance is not detailed.
+
+**Strategic AI Positioning:** AI supports operational efficiency and customer engagement, enhancing business processes but not yet a strategic differentiator.
+
+**Contextual Considerations:** As a fashion holding company, Tapestry's use of AI for customer insights and supply chain optimization is typical for the industry, with room for strategic growth.
+
+**Confidence Level:** Medium - The report provides a balanced view of AI applications but lacks depth in strategic and governance aspects.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Targa Resources  
+Sector: Energy  
+Industry: Oil & Gas Storage & Transportation
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.05/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of cybersecurity risks, indicating operational enhancement rather than strategic focus.
+- **Dimension 2 Evidence:** Limited discussion on data infrastructure, with a focus on security risks.
+- **Dimension 3 Evidence:** Mentions of cloud computing and cybersecurity suggest initial steps towards modernization.
+- **Dimension 4 Evidence:** No specific initiatives for AI talent acquisition or training are mentioned, indicating general awareness.
+- **Dimension 5 Evidence:** General cybersecurity and regulatory compliance are discussed, but specific AI governance is not detailed.
+
+**Strategic AI Positioning:** AI is primarily seen as a tool for operational efficiency and risk management, with limited strategic impact.
+
+**Contextual Considerations:** As a midstream energy company, Targa Resources' focus on AI for security aligns with industry needs, but strategic integration is limited.
+
+**Confidence Level:** Low - The report provides minimal detail on AI applications and strategic integration.
+
+### END COMPANY REPORT

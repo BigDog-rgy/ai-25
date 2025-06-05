@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: International Paper  
+Sector: Materials  
+Industry: Paper & Plastic Packaging Products & Materials
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.05/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The excerpts mention AI in the context of industry trends and potential impacts on competition, but there is no indication that AI is a strategic driver for International Paper itself.
+- **Dimension 2 Evidence:** The report primarily discusses data security and compliance, with no mention of advanced analytics or data-driven strategies.
+- **Dimension 3 Evidence:** There is a focus on maintaining existing technology systems, with no significant mention of cloud adoption or digital transformation initiatives.
+- **Dimension 4 Evidence:** No evidence of AI-specific talent acquisition or skills development programs was found.
+- **Dimension 5 Evidence:** The company acknowledges the regulatory environment for AI and discusses potential impacts, indicating some awareness of AI governance.
+
+**Strategic AI Positioning:** AI is mentioned as a factor in the industry landscape, but there is no evidence that International Paper is actively leveraging AI as a strategic business driver.
+
+**Contextual Considerations:** As a large, established company in the materials sector, International Paper may face challenges in rapidly adopting AI technologies due to the nature of its industry and existing infrastructure.
+
+**Confidence Level:** Medium - The report provides limited AI-specific information, leading to a moderate confidence level in the assessment.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Interpublic Group of Companies (The)  
+Sector: Communication Services  
+Industry: Advertising
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is integral to IPG's strategy, enhancing client services and driving growth through data-driven marketing solutions.
+- **Dimension 2 Evidence:** The company leverages centralized resources in data and AI, indicating a sophisticated data infrastructure.
+- **Dimension 3 Evidence:** IPG has consolidated cloud services and continues to invest in digital capabilities, demonstrating advanced technology infrastructure.
+- **Dimension 4 Evidence:** The company invests in AI talent and integrates AI technologies across operations, highlighting a strong focus on human capital development.
+- **Dimension 5 Evidence:** While there is some mention of data governance, specific AI governance frameworks are not detailed.
+
+**Strategic AI Positioning:** AI is a strategic differentiator for IPG, enhancing marketing services and client engagement through advanced data and technology capabilities.
+
+**Contextual Considerations:** As a leading advertising company, IPG's focus on AI aligns with industry trends towards data-driven marketing and digital transformation.
+
+**Confidence Level:** High - The report provides detailed information on AI initiatives and strategic integration, supporting a confident assessment.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Intuit  
+Sector: Information Technology  
+Industry: Application Software
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 5/5
+- Dimension 2 (Data Infrastructure and Analytics): 5/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 5/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 4/5
+
+**Overall AI-Readiness Score:** 4.75/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is central to Intuit's value proposition, enhancing customer experiences and driving product innovation.
+- **Dimension 2 Evidence:** Intuit utilizes data and AI to deliver core benefits, indicating a cutting-edge data infrastructure.
+- **Dimension 3 Evidence:** The company invests heavily in IT infrastructure, supporting AI and digital capabilities at scale.
+- **Dimension 4 Evidence:** Intuit offers comprehensive training programs and invests in AI talent, though specific team structures are not detailed.
+- **Dimension 5 Evidence:** The company is aware of AI-related risks and regulations, with some governance frameworks in place.
+
+**Strategic AI Positioning:** AI is a core business driver for Intuit, integral to its products and services, and a key differentiator in the competitive landscape.
+
+**Contextual Considerations:** As a leader in financial software, Intuit's focus on AI aligns with its strategic goals of innovation and customer-centric solutions.
+
+**Confidence Level:** High - The report provides comprehensive evidence of AI integration and strategic importance, supporting a confident assessment.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Intuitive Surgical  
+Sector: Health Care  
+Industry: Health Care Equipment
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 4/5
+
+**Overall AI-Readiness Score:** 4.05/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI technologies are incorporated into products and operations, with potential for significant impact on future innovations.
+- **Dimension 2 Evidence:** The company uses AI for data processing and product development, indicating a sophisticated data infrastructure.
+- **Dimension 3 Evidence:** Intuitive Surgical's technology infrastructure supports AI integration, though specific cloud or platform details are not provided.
+- **Dimension 4 Evidence:** There is some focus on AI talent and skills, but comprehensive strategies are not detailed.
+- **Dimension 5 Evidence:** The company is proactive in addressing AI-related regulatory and ethical considerations, with frameworks in place.
+
+**Strategic AI Positioning:** AI is a strategic differentiator for Intuitive Surgical, enhancing product capabilities and supporting innovation in medical devices.
+
+**Contextual Considerations:** As a leader in surgical robotics, Intuitive Surgical's focus on AI aligns with its mission to improve clinical outcomes through advanced technology.
+
+**Confidence Level:** Medium - The report provides substantial evidence of AI integration, though some areas lack specific details, leading to a moderate confidence level.
+
+### END COMPANY REPORT

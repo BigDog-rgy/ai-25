@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: PTC Inc.  
+Sector: Information Technology  
+Industry: Application Software
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 3.35/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** PTC mentions that AI is used to "unlock productivity" and enhance their principal products and services, indicating AI as a business enabler.
+- **Dimension 2 Evidence:** The company discusses cloud services and data management, suggesting a sophisticated data infrastructure with cloud-based solutions.
+- **Dimension 3 Evidence:** PTC relies on third-party cloud infrastructure services, indicating a modern and advanced technology infrastructure.
+- **Dimension 4 Evidence:** No specific mention of AI talent acquisition or training programs, but the company has a significant focus on technology and software development.
+- **Dimension 5 Evidence:** Only basic mentions of cybersecurity and regulatory compliance, with no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is used to enhance product capabilities and productivity, but it is not yet a core driver of the business model.
+
+**Contextual Considerations:** As a software company in the IT sector, PTC's integration of AI into its products is a natural progression, but the lack of specific AI governance and human capital initiatives limits its readiness.
+
+**Confidence Level:** Medium - based on the specificity and depth of AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Public Storage  
+Sector: Real Estate  
+Industry: Self-Storage REITs
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of potential risks and strategic objectives, but not as a core business driver.
+- **Dimension 2 Evidence:** No specific evidence of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** Minimal discussion of technology infrastructure, with a focus on potential risks rather than capabilities.
+- **Dimension 4 Evidence:** General awareness of the importance of technological capabilities, but no specific AI skills development initiatives.
+- **Dimension 5 Evidence:** Basic mention of data privacy and cybersecurity, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is recognized as a potential area for strategic development, but current integration and impact are minimal.
+
+**Contextual Considerations:** As a REIT, Public Storage's business model does not inherently rely on AI, which may explain the limited focus on AI readiness.
+
+**Confidence Level:** Low - based on the limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: PulteGroup  
+Sector: Consumer Discretionary  
+Industry: Homebuilding
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.15/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is in the early phases of integration, with potential risks and challenges highlighted.
+- **Dimension 2 Evidence:** Limited discussion of data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** No specific mention of advanced technology infrastructure.
+- **Dimension 4 Evidence:** No specific initiatives for AI skills development are mentioned.
+- **Dimension 5 Evidence:** Some awareness of AI risks and ethical considerations, indicating a developing governance structure.
+
+**Strategic AI Positioning:** AI is in the exploratory phase, with more focus on potential risks than strategic integration.
+
+**Contextual Considerations:** As a homebuilder, PulteGroup's business model does not heavily rely on AI, which may account for the limited focus on AI readiness.
+
+**Confidence Level:** Medium - based on the limited but specific AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Quanta Services  
+Sector: Industrials  
+Industry: Construction & Engineering
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.45/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of industry trends, but not as a core strategic driver.
+- **Dimension 2 Evidence:** Some capabilities in data centers and infrastructure suggest intermediate analytics maturity.
+- **Dimension 3 Evidence:** Moderate technology infrastructure with investments in data center capabilities.
+- **Dimension 4 Evidence:** No specific mention of AI skills development or talent acquisition.
+- **Dimension 5 Evidence:** Basic awareness of AI-related risks, but no specific governance framework.
+
+**Strategic AI Positioning:** AI is recognized as part of industry trends, but not yet strategically integrated into the core business model.
+
+**Contextual Considerations:** As a construction and engineering company, Quanta Services' focus on infrastructure may limit the immediate strategic importance of AI.
+
+**Confidence Level:** Medium - based on the specific but limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT

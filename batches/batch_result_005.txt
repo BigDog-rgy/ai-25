@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Allegion  
+Sector: Industrials  
+Industry: Building Products
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.65/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** Allegion Ventures announced a second fund with an additional allocation of $100 million to focus on investing in technologies like artificial intelligence.
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities beyond basic operational reporting.
+- **Dimension 3 Evidence:** Mention of growth in connected security products and solutions, indicating some modernization efforts.
+- **Dimension 4 Evidence:** No specific mention of AI skills development or hiring initiatives related to AI/ML roles.
+- **Dimension 5 Evidence:** Board receives updates on cybersecurity strategy, indicating some governance structure related to technology risks.
+
+**Strategic AI Positioning:** AI is seen as a business enabler, particularly in the context of connected security products, but not yet a core driver of the business model.
+
+**Contextual Considerations:** As a company in the building products sector, Allegion's focus on AI is likely influenced by the need to integrate new technologies into traditional products, which may limit the centrality of AI compared to tech-centric industries.
+
+**Confidence Level:** Medium - The report provides some insights into AI investments but lacks depth in specific AI applications and infrastructure details.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Alliant Energy  
+Sector: Utilities  
+Industry: Electric Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.55/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned only in the context of potential cybersecurity threats, not as a strategic business driver.
+- **Dimension 2 Evidence:** No mention of advanced data analytics capabilities; focus is on operational risks and infrastructure.
+- **Dimension 3 Evidence:** No detailed discussion of modern technology infrastructure or cloud adoption.
+- **Dimension 4 Evidence:** No mention of AI skills development or hiring initiatives.
+- **Dimension 5 Evidence:** General mention of cybersecurity, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is not currently a strategic focus for Alliant Energy, with mentions limited to cybersecurity contexts.
+
+**Contextual Considerations:** As a utility company, the focus on infrastructure and regulatory compliance may overshadow AI initiatives, which are not yet central to their operations.
+
+**Confidence Level:** Low - The excerpts provide minimal information on AI initiatives, limiting the ability to assess readiness comprehensively.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Allstate  
+Sector: Financials  
+Industry: Property & Casualty Insurance
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is used for data analysis to inform decisions, but there are concerns about ethical and regulatory impacts.
+- **Dimension 2 Evidence:** Use of technology and data for business functions, but no specific advanced analytics capabilities mentioned.
+- **Dimension 3 Evidence:** Mention of cloud technology and AI in the context of cybersecurity and business operations.
+- **Dimension 4 Evidence:** Competition for talent in data and analytics is noted, indicating some focus on hiring.
+- **Dimension 5 Evidence:** Ethical and reputational risks of AI are acknowledged, suggesting awareness of governance issues.
+
+**Strategic AI Positioning:** AI is an important enabler for Allstate, particularly in data analysis and decision-making, but not yet a core business driver.
+
+**Contextual Considerations:** As a large insurance company, Allstate's focus on data and analytics is crucial for underwriting and risk management, influencing their AI strategy.
+
+**Confidence Level:** Medium - The report provides a balanced view of AI initiatives and challenges, but lacks detailed evidence of advanced AI applications.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Alphabet Inc.  
+Sector: Communication Services  
+Industry: Interactive Media & Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 5/5
+- Dimension 2 (Data Infrastructure and Analytics): 5/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 5/5
+- Dimension 4 (Human Capital and AI Skills): 5/5
+- Dimension 5 (AI Governance and Responsible Implementation): 4/5
+
+**Overall AI-Readiness Score:** 4.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is described as a profound platform shift and central to Alphabet's products and services, with significant investments in AI technologies.
+- **Dimension 2 Evidence:** Alphabet has a sophisticated data ecosystem, supporting AI/ML-powered analytics at scale.
+- **Dimension 3 Evidence:** Comprehensive cloud infrastructure and AI capabilities are integral to Alphabet's operations, with Google Cloud leading innovation.
+- **Dimension 4 Evidence:** Alphabet has centralized AI-related R&D and is a pioneer in AI development, indicating a strong focus on AI talent and skills.
+- **Dimension 5 Evidence:** AI governance is acknowledged, with a focus on ethical development, though specific frameworks are less detailed.
+
+**Strategic AI Positioning:** AI is fundamental to Alphabet's business model, driving innovation and growth across its products and services.
+
+**Contextual Considerations:** As a leading tech company, Alphabet's extensive resources and focus on AI position it as a leader in AI readiness.
+
+**Confidence Level:** High - The report provides comprehensive and detailed evidence of Alphabet's advanced AI capabilities and strategic focus.
+
+### END COMPANY REPORT

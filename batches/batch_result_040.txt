@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Duke Energy  
+Sector: Utilities  
+Industry: Electric Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 1/5
+
+**Overall AI-Readiness Score:** 1.75/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The mention of "advancements in technology, including artificial intelligence" suggests AI is considered for operational enhancements but not central to the business model.
+- **Dimension 2 Evidence:** No specific evidence of advanced data infrastructure or analytics capabilities beyond basic operational needs.
+- **Dimension 3 Evidence:** No detailed discussion of modern technology infrastructure or cloud adoption.
+- **Dimension 4 Evidence:** No mention of AI-specific hiring or skills development programs.
+- **Dimension 5 Evidence:** No discussion of AI governance or ethical considerations.
+
+**Strategic AI Positioning:** AI is mentioned as part of technological advancements, indicating a focus on operational enhancements rather than strategic differentiation.
+
+**Contextual Considerations:** As a utility company, Duke Energy's focus on AI may be more limited to operational efficiencies rather than core business transformation.
+
+**Confidence Level:** Low - due to limited AI-specific disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: DuPont  
+Sector: Materials  
+Industry: Specialty Chemicals
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.80/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is driving semiconductor demand recovery and is part of the growth in Interconnect Solutions, indicating AI as a business enabler.
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure, but the focus on AI-driven technology ramps suggests some data analytics capabilities.
+- **Dimension 3 Evidence:** No specific mention of cloud or digital platforms, but the focus on technology ramps indicates some modernization efforts.
+- **Dimension 4 Evidence:** No specific AI talent strategies or training programs mentioned.
+- **Dimension 5 Evidence:** No specific AI governance framework mentioned, only general regulatory compliance.
+
+**Strategic AI Positioning:** AI is an important enabler for growth in semiconductor and interconnect solutions, enhancing product offerings.
+
+**Contextual Considerations:** As a specialty chemicals company, DuPont's AI initiatives are likely focused on enhancing product capabilities and market positioning.
+
+**Confidence Level:** Medium - based on moderate AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Eastman Chemical Company  
+Sector: Materials  
+Industry: Specialty Chemicals
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 1/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 1/5
+
+**Overall AI-Readiness Score:** 1.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic business driver.
+- **Dimension 2 Evidence:** No mention of data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** No mention of technology infrastructure or modernization efforts.
+- **Dimension 4 Evidence:** No mention of AI skills development or talent acquisition.
+- **Dimension 5 Evidence:** No mention of AI governance or ethical considerations.
+
+**Strategic AI Positioning:** There is no evidence of AI being a strategic focus for Eastman Chemical Company.
+
+**Contextual Considerations:** As a chemical company, the focus may be more on traditional manufacturing processes rather than digital transformation.
+
+**Confidence Level:** Low - due to the absence of AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Eaton Corporation  
+Sector: Industrials  
+Industry: Electrical Components & Equipment
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.40/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic business driver.
+- **Dimension 2 Evidence:** No mention of data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** Some mention of risk management and cybersecurity, indicating initial steps towards modernization.
+- **Dimension 4 Evidence:** No mention of AI skills development or talent acquisition.
+- **Dimension 5 Evidence:** Mention of an information risk management program, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is not a strategic focus for Eaton Corporation based on the provided excerpts.
+
+**Contextual Considerations:** As a power management company, Eaton's focus may be more on traditional engineering and manufacturing rather than AI-driven innovation.
+
+**Confidence Level:** Low - due to limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT

@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Mohawk Industries  
+Sector: Consumer Discretionary  
+Industry: Home Furnishings
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 1/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 1/5
+
+**Overall AI-Readiness Score:** 1.40/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K mentions "the rapid development of new technologies such as artificial intelligence," but does not indicate AI as a strategic business driver.
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** No evidence of modern technology infrastructure or cloud adoption.
+- **Dimension 4 Evidence:** No discussion about talent acquisition or skills development programs related to AI.
+- **Dimension 5 Evidence:** No mention of AI governance or ethical considerations.
+
+**Strategic AI Positioning:** AI is mentioned in the context of technological developments but is not central to Mohawk Industries' business strategy or operations.
+
+**Contextual Considerations:** As a flooring manufacturer, the company's focus on AI may be less pronounced compared to tech-centric industries, which could explain the minimal AI integration.
+
+**Confidence Level:** Low - The lack of detailed AI-related disclosures limits the confidence in the assessment.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Molina Healthcare  
+Sector: Health Care  
+Industry: Managed Health Care
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.35/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned for operational improvements and efficiencies, not as a core business driver.
+- **Dimension 2 Evidence:** References to managing medical costs and predicting utilization rates suggest some analytics capabilities.
+- **Dimension 3 Evidence:** No specific mention of cloud adoption or modern technology infrastructure.
+- **Dimension 4 Evidence:** General mention of operational improvements through AI, but no specific talent strategies.
+- **Dimension 5 Evidence:** Basic references to data privacy and cybersecurity, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is used to support operational efficiencies rather than being a strategic driver of Molina Healthcare's business model.
+
+**Contextual Considerations:** As a healthcare provider, the focus on regulatory compliance and cost management may overshadow AI initiatives.
+
+**Confidence Level:** Medium - Some evidence of AI use, but limited detail on strategic integration.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Molson Coors Beverage Company  
+Sector: Consumer Staples  
+Industry: Brewers
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.95/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of integration and use, but not as a core business driver.
+- **Dimension 2 Evidence:** No specific mention of advanced data analytics capabilities.
+- **Dimension 3 Evidence:** No specific mention of modern technology infrastructure or cloud adoption.
+- **Dimension 4 Evidence:** No discussion about AI-related talent acquisition or skills development programs.
+- **Dimension 5 Evidence:** Mentions of cybersecurity risks related to AI, but no specific governance framework.
+
+**Strategic AI Positioning:** AI is acknowledged as a potential risk and tool, but not central to Molson Coors' strategic initiatives.
+
+**Contextual Considerations:** As a beverage company, the focus on AI may be more operational than strategic, affecting its readiness score.
+
+**Confidence Level:** Low - Limited AI-related disclosures reduce confidence in the assessment.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Mondelez International  
+Sector: Consumer Staples  
+Industry: Packaged Foods & Meats
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of adapting to market conditions and technological advancements.
+- **Dimension 2 Evidence:** Mentions of data analytics and cloud computing arrangements indicate intermediate capabilities.
+- **Dimension 3 Evidence:** References to cloud computing and data security suggest a modernizing infrastructure.
+- **Dimension 4 Evidence:** Mentions of developing skills in AI and digital commerce.
+- **Dimension 5 Evidence:** Basic mention of data security, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is part of Mondelez's strategy to adapt to changing market conditions and consumer preferences.
+
+**Contextual Considerations:** As a large multinational, Mondelez's scale and market reach may drive its investment in AI to remain competitive.
+
+**Confidence Level:** Medium - The company shows some integration of AI, but lacks detailed governance structures.
+
+### END COMPANY REPORT

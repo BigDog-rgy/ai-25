@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Steel Dynamics  
+Sector: Materials  
+Industry: Steel
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.30/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic business driver in the provided excerpts.
+- **Dimension 2 Evidence:** No mention of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** "Some of which are controlled by our information technology systems" indicates basic technology infrastructure.
+- **Dimension 4 Evidence:** No mention of AI-related human capital or skills development.
+- **Dimension 5 Evidence:** "Our Chief Financial Officer, to oversee the management of the safeguards, cybersecurity risk assessment, and mitigation process" indicates basic governance related to cybersecurity, not specifically AI.
+
+**Strategic AI Positioning:** There is no evidence that AI is a strategic driver for Steel Dynamics. The focus is primarily on traditional steel manufacturing processes.
+
+**Contextual Considerations:** The steel industry may have less immediate integration of AI compared to technology-driven sectors, influencing the low AI readiness score.
+
+**Confidence Level:** Medium - Based on the lack of AI-specific disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Steris  
+Sector: Health Care  
+Industry: Health Care Equipment
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.55/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Including some that employ artificial intelligence" suggests AI is used but not central to the business model.
+- **Dimension 2 Evidence:** Use of "data hosting, electronic payment systems" indicates intermediate data capabilities.
+- **Dimension 3 Evidence:** "Cloud and software-as-a-service solutions" show a modernizing technology infrastructure.
+- **Dimension 4 Evidence:** No specific mention of AI skills development or hiring initiatives.
+- **Dimension 5 Evidence:** Mentions of cybersecurity and risk assessment indicate developing governance structures.
+
+**Strategic AI Positioning:** AI is used in some technical applications, but it is not a core strategic driver for Steris.
+
+**Contextual Considerations:** As a health care equipment company, Steris may focus more on compliance and operational efficiency than AI-driven innovation.
+
+**Confidence Level:** Medium - Based on general mentions of AI and technology infrastructure.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Stryker Corporation  
+Sector: Health Care  
+Industry: Health Care Equipment
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Artificial intelligence-assisted virtual care platform technology" indicates AI as a strategic differentiator.
+- **Dimension 2 Evidence:** "Quantifying blood loss software" suggests sophisticated data analytics capabilities.
+- **Dimension 3 Evidence:** "Integration with the Vocera platform" shows advanced technology infrastructure.
+- **Dimension 4 Evidence:** "Hiring of experts, employee training" indicates investment in AI skills.
+- **Dimension 5 Evidence:** Mentions of AI risks and governance structures show developing governance.
+
+**Strategic AI Positioning:** AI is integral to Stryker's product offerings, particularly in enhancing medical technologies and patient care.
+
+**Contextual Considerations:** Stryker's focus on medical technologies naturally aligns with advanced AI applications, contributing to its high readiness score.
+
+**Confidence Level:** High - Based on detailed AI-related initiatives and strategic integration.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Supermicro  
+Sector: Information Technology  
+Industry: Technology Hardware, Storage & Peripherals
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 5/5
+- Dimension 2 (Data Infrastructure and Analytics): 5/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 5/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 4.70/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Solutions optimized for various workloads, including artificial intelligence" shows AI as a core business driver.
+- **Dimension 2 Evidence:** "AI storage solution optimized for large-scale AI training workloads" indicates cutting-edge data infrastructure.
+- **Dimension 3 Evidence:** "Comprehensive portfolio of solutions designed specifically for AI" demonstrates next-generation technology infrastructure.
+- **Dimension 4 Evidence:** "Substantial resources to developing systems that support emerging applications including AI" shows investment in AI skills.
+- **Dimension 5 Evidence:** No specific mention of comprehensive AI governance, but general risk management is noted.
+
+**Strategic AI Positioning:** AI is fundamental to Supermicro's business model, driving product development and market positioning.
+
+**Contextual Considerations:** As a technology company, Supermicro's focus on AI and high-performance computing naturally leads to a high readiness score.
+
+**Confidence Level:** High - Based on extensive AI-related product offerings and strategic focus.
+
+### END COMPANY REPORT

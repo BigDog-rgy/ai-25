@@ -1,31 +1,49 @@
+#!/usr/bin/env python3
 # scripts/upload_to_supabase.py
+
 import json, os
 from supabase import create_client
 from dotenv import load_dotenv
-load_dotenv()             # pulls key/value lines from .env into os.environ
+from collections import Counter
+import re
+
+load_dotenv()
 
 SUPA_URL = os.environ["NEXT_PUBLIC_SUPABASE_URL"]
 SUPA_KEY = os.environ["NEXT_PUBLIC_SUPABASE_ANON_KEY"]
 supabase = create_client(SUPA_URL, SUPA_KEY)
 
-
+# Load parsed reports
 reports = json.load(open("./parsed/companyReports.json"))
 
-# scrub keys that aren’t in the table, if any
-payload = [
-    {k: v for k, v in r.items()
-        if k in (
-           "company","sector","industry",
-           "dim1","dim2","dim3","dim4","dim5",
-           "overall","evidence","evidence_dim1","evidence_dim2",
-           "evidence_dim3","evidence_dim4","evidence_dim5",
-           "strategic","context","confidence")}
-    for r in reports
-]
+def normalize_company_name(name: str) -> str:
+    return re.sub(r'\W+', '', name).strip().lower()  # remove punctuation and lowercase
 
-# upsert on company name
+latest = {}
+raw_name_map = {}  # maps normalized name → real name
+for r in reports:
+    raw = r.get("company", "")
+    norm = normalize_company_name(raw)
+    if not norm:
+        print("⚠️ Skipping row with empty or bad company name:", r)
+        continue
+    latest[norm] = r
+    raw_name_map[norm] = raw  # save original for logging
+
+deduped = list(latest.values())
+
+# Log what got deduped
+dupes = [raw_name_map[n] for n, count in Counter(
+    normalize_company_name(r.get("company", "")) for r in reports
+).items() if count > 1]
+
+if dupes:
+    print(f"⚠️ Resolved {len(dupes)} company name conflicts: {dupes}")
+
+
+# 🚀 Upload
 resp = supabase.table("company_ai_readiness") \
-        .upsert(payload, on_conflict="company") \
-        .execute()
+    .upsert(deduped, on_conflict="company") \
+    .execute()
 
-print("inserted / updated rows:", len(resp.data))
+print(f"✅ Inserted or updated {len(resp.data)} unique rows.")

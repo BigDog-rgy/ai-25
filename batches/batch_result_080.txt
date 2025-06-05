@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Micron Technology  
+Sector: Information Technology  
+Industry: Semiconductors
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 3.50/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Cloud servers supporting AI and data-centric workloads require significantly increasing quantities of DRAM, including HBM, and NAND as the task of turning data into insight becomes increasingly memory-centric."
+- **Dimension 2 Evidence:** Limited direct mention of advanced analytics capabilities; focus is primarily on hardware solutions for AI applications.
+- **Dimension 3 Evidence:** "Cloud-native workloads are drivers of growth through use-cases like intelligent edge devices capable of AI and augmented reality that store and access data in the cloud."
+- **Dimension 4 Evidence:** No specific mention of AI talent acquisition or training programs in the excerpts.
+- **Dimension 5 Evidence:** General risk factors related to AI but no specific governance framework mentioned.
+
+**Strategic AI Positioning:** Micron Technology positions AI as a strategic differentiator, integral to its memory and storage solutions, which are essential for AI and high-performance computing applications.
+
+**Contextual Considerations:** As a semiconductor company, Micron's focus on hardware solutions for AI applications is expected. The company's scale and industry position support its strategic emphasis on AI.
+
+**Confidence Level:** Medium - The evidence is primarily focused on AI applications in hardware, with limited detail on data and human capital strategies.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Microsoft  
+Sector: Information Technology  
+Industry: Systems Software
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 5/5
+- Dimension 2 (Data Infrastructure and Analytics): 5/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 5/5
+- Dimension 4 (Human Capital and AI Skills): 5/5
+- Dimension 5 (AI Governance and Responsible Implementation): 5/5
+
+**Overall AI-Readiness Score:** 5.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "We are investing in artificial intelligence (“AI”) across the entire company and infusing generative AI capabilities into our consumer and commercial offerings."
+- **Dimension 2 Evidence:** "Azure AI Studio provides a full lifecycle toolchain customers can use to ground these models on their own data, create prompt workflows, and help ensure they are deployed and used safely."
+- **Dimension 3 Evidence:** "We offer supercomputing power for AI at scale to run large workloads, complemented by our rapidly expanding portfolio of AI cloud services and hardware."
+- **Dimension 4 Evidence:** "GitHub Copilot is at the forefront of AI-powered software development, giving developers a tool to write code easier and faster."
+- **Dimension 5 Evidence:** "We believe AI should be as empowering across communities as it is powerful, and we’re committed to ensuring it is responsibly designed and built with safety and security from the outset."
+
+**Strategic AI Positioning:** AI is a core business driver for Microsoft, deeply integrated into its products and services, and essential for its competitive advantage and growth strategy.
+
+**Contextual Considerations:** Microsoft's scale, extensive resources, and industry leadership position it as a global leader in AI development and deployment.
+
+**Confidence Level:** High - Comprehensive and detailed AI-related disclosures across all dimensions.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Mid-America Apartment Communities  
+Sector: Real Estate  
+Industry: Multi-Family Residential REITs
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.15/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "The rapid evolution and increased adoption of artificial intelligence technologies, by us and our third-party service providers, may also heighten our cybersecurity risks."
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** No specific mention of modern technology infrastructure or digital capabilities.
+- **Dimension 4 Evidence:** No specific mention of AI talent acquisition or training programs.
+- **Dimension 5 Evidence:** "At a management level, our cybersecurity risk management program is led by our Chief Technology and Innovation Officer."
+
+**Strategic AI Positioning:** AI is not a core strategic driver for Mid-America Apartment Communities, with limited integration into its business model.
+
+**Contextual Considerations:** As a real estate investment trust, the company's focus on AI is primarily related to risk management rather than strategic growth.
+
+**Confidence Level:** Low - Limited AI-related disclosures and focus primarily on risk management.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Moderna  
+Sector: Health Care  
+Industry: Biotechnology
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 5/5
+- Dimension 2 (Data Infrastructure and Analytics): 5/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 5/5
+- Dimension 4 (Human Capital and AI Skills): 5/5
+- Dimension 5 (AI Governance and Responsible Implementation): 4/5
+
+**Overall AI-Readiness Score:** 4.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "AI helps optimize each aspect of our value chain, from drug design to commercial manufacturing and beyond."
+- **Dimension 2 Evidence:** "We have built a large library of data that, combined with our platform approach and cloud-native infrastructure, positions us well to scale a digital operating model using artificial intelligence (AI)."
+- **Dimension 3 Evidence:** "Our manufacturing facilities incorporate a significant level of automation of equipment with integration of several digital systems, including those that may utilize artificial intelligence (AI), to improve efficiency of operations."
+- **Dimension 4 Evidence:** "In December 2021, we launched our Artificial Intelligence (AI) Academy."
+- **Dimension 5 Evidence:** "The development and use of GenAI and other AI technologies (collectively, AI Technologies), along with an uncertain regulatory landscape, pose risks that could harm our reputation, expose us to liability or otherwise adversely affect our business."
+
+**Strategic AI Positioning:** AI is a core business driver for Moderna, integral to its R&D, manufacturing, and commercialization processes, significantly enhancing its competitive advantage.
+
+**Contextual Considerations:** As a biotechnology company, Moderna's focus on AI is critical for innovation and efficiency in drug development and manufacturing.
+
+**Confidence Level:** High - Detailed and comprehensive AI-related disclosures across all dimensions.
+
+### END COMPANY REPORT

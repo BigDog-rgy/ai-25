@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Marriott International  
+Sector: Consumer Discretionary  
+Industry: Hotels, Resorts & Cruise Lines
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.65/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI technologies are mentioned as becoming increasingly important in operations, but there is no indication that AI is central to Marriott's core value proposition or revenue model.
+- **Dimension 2 Evidence:** The excerpts discuss data security incidents and the establishment of a Technology and Information Security Oversight Committee, indicating some level of data governance.
+- **Dimension 3 Evidence:** The mention of increased reliance on cloud-based services suggests a strategy for modernizing technology infrastructure.
+- **Dimension 4 Evidence:** There is no specific mention of hiring or training for AI skills, only general references to potential misuse of AI by associates.
+- **Dimension 5 Evidence:** The establishment of the Technology and Information Security Oversight Committee indicates some governance structure, but no specific AI ethics policies are mentioned.
+
+**Strategic AI Positioning:** AI is currently used for operational enhancements and risk management, but it is not yet a strategic differentiator for Marriott's business model.
+
+**Contextual Considerations:** As a large hospitality company, Marriott's focus on AI for operational efficiency is typical, but the lack of strategic AI initiatives could limit future competitiveness.
+
+**Confidence Level:** Medium - The report provides some insights into AI use and governance, but lacks depth in strategic AI initiatives.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Marsh McLennan  
+Sector: Financials  
+Industry: Insurance Brokers
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 5/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 4.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is highlighted as a key component of technological change and digital disruption, with specific initiatives like Oliver Wyman's AI Transformation.
+- **Dimension 2 Evidence:** The acquisition of Veritas Total Solutions and the mention of analytics and AI expertise indicate advanced data capabilities.
+- **Dimension 3 Evidence:** The report mentions digital disruption and technological change, but lacks specific details on cloud or API strategies.
+- **Dimension 4 Evidence:** The launch of an AI Academy with 35,000 colleagues receiving credentials shows a strong commitment to developing AI skills.
+- **Dimension 5 Evidence:** General references to AI regulations and risks are made, but specific governance frameworks are not detailed.
+
+**Strategic AI Positioning:** AI is a strategic differentiator for Marsh McLennan, enhancing their competitive edge in professional services and risk management.
+
+**Contextual Considerations:** As a leader in insurance brokerage and risk management, Marsh McLennan's focus on AI and analytics aligns with industry trends towards data-driven decision-making.
+
+**Confidence Level:** High - The report provides detailed evidence of AI initiatives and skills development.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Martin Marietta Materials  
+Sector: Materials  
+Industry: Construction Materials
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.05/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of cybersecurity threats, not as a strategic business driver.
+- **Dimension 2 Evidence:** There is no specific mention of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** No evidence of modern technology infrastructure or digital capabilities is provided.
+- **Dimension 4 Evidence:** The report lacks any mention of AI skills development or hiring.
+- **Dimension 5 Evidence:** General cybersecurity risks are mentioned, but no specific AI governance practices are detailed.
+
+**Strategic AI Positioning:** AI is not currently a strategic focus for Martin Marietta Materials, with mentions limited to cybersecurity contexts.
+
+**Contextual Considerations:** As a construction materials supplier, the company's limited focus on AI is typical, but may hinder future innovation opportunities.
+
+**Confidence Level:** Low - The report provides minimal information on AI initiatives or capabilities.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Masco  
+Sector: Industrials  
+Industry: Building Products
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 1/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 1/5
+
+**Overall AI-Readiness Score:** 1.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic business driver.
+- **Dimension 2 Evidence:** No discussion of data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** No mention of technology infrastructure or digital capabilities.
+- **Dimension 4 Evidence:** No mention of AI skills development or hiring.
+- **Dimension 5 Evidence:** No mention of AI governance or responsible implementation.
+
+**Strategic AI Positioning:** AI is not currently part of Masco's strategy or operations, with no evidence of initiatives or capabilities.
+
+**Contextual Considerations:** As a manufacturer of building products, Masco's lack of AI focus may reflect industry norms, but could limit future competitiveness.
+
+**Confidence Level:** Low - The report provides no information on AI initiatives or capabilities.
+
+### END COMPANY REPORT

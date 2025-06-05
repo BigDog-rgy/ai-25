@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Expeditors International  
+Sector: Industrials  
+Industry: Air Freight & Logistics
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 1/5
+
+**Overall AI-Readiness Score:** 1.75/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K mentions "monitor the evolving features and capabilities of new technologies such as artificial intelligence," indicating AI is not yet a strategic driver.
+- **Dimension 2 Evidence:** No specific evidence of advanced data infrastructure or analytics capabilities beyond basic operational needs.
+- **Dimension 3 Evidence:** No mention of cloud adoption or modern technology infrastructure initiatives in the provided excerpts.
+- **Dimension 4 Evidence:** No discussion of AI-related talent acquisition or skills development programs.
+- **Dimension 5 Evidence:** No mention of AI governance or ethical considerations in the excerpts.
+
+**Strategic AI Positioning:** AI is currently not a strategic priority for Expeditors International, as indicated by the lack of specific initiatives or investments in AI technologies.
+
+**Contextual Considerations:** As a logistics company, Expeditors could benefit from AI in optimizing supply chains, but the current focus seems limited to monitoring rather than active deployment.
+
+**Confidence Level:** Low - due to limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Extra Space Storage  
+Sector: Real Estate  
+Industry: Self-Storage REITs
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.05/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic business driver in the provided excerpts.
+- **Dimension 2 Evidence:** The focus on cybersecurity suggests some foundational data management practices, but no advanced analytics capabilities are mentioned.
+- **Dimension 3 Evidence:** The cybersecurity program indicates a modernizing approach to technology infrastructure.
+- **Dimension 4 Evidence:** General cybersecurity awareness training is mentioned, but no specific AI skills development.
+- **Dimension 5 Evidence:** The cybersecurity risk management program suggests a developing approach to governance, though not specifically AI-focused.
+
+**Strategic AI Positioning:** AI does not appear to be a strategic focus for Extra Space Storage, with more emphasis on cybersecurity and technology modernization.
+
+**Contextual Considerations:** As a REIT, the primary focus is on property management rather than technology innovation, which may explain the limited AI focus.
+
+**Confidence Level:** Medium - due to the detailed cybersecurity program, but lack of AI-specific initiatives.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: ExxonMobil  
+Sector: Energy  
+Industry: Integrated Oil & Gas
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.55/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic business driver in the provided excerpts.
+- **Dimension 2 Evidence:** Mentions of data management suggest foundational data practices, but no advanced analytics capabilities are discussed.
+- **Dimension 3 Evidence:** No specific evidence of modern technology infrastructure initiatives.
+- **Dimension 4 Evidence:** No discussion of AI-related talent acquisition or skills development programs.
+- **Dimension 5 Evidence:** General mentions of cybersecurity, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is not currently a strategic focus for ExxonMobil, with no specific initiatives or investments highlighted.
+
+**Contextual Considerations:** As a large energy company, ExxonMobil's focus is likely more on traditional energy operations rather than AI innovation.
+
+**Confidence Level:** Low - due to limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: F5, Inc.  
+Sector: Information Technology  
+Industry: Communications Equipment
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** F5 leverages AI in its product offerings, indicating AI is a strategic differentiator.
+- **Dimension 2 Evidence:** The use of AI and machine learning for real-time data processing and application telemetry suggests sophisticated data infrastructure.
+- **Dimension 3 Evidence:** Descriptions of cloud services and API integration indicate advanced technology infrastructure.
+- **Dimension 4 Evidence:** References to AI strategy and leadership roles focused on AI adoption suggest strong human capital development.
+- **Dimension 5 Evidence:** Mentions of AI-related risks and governance indicate a developing approach to AI governance.
+
+**Strategic AI Positioning:** AI is integral to F5's product strategy, enhancing application security and performance.
+
+**Contextual Considerations:** As a technology company, F5's focus on AI is aligned with its industry position and product offerings.
+
+**Confidence Level:** High - due to detailed AI-related disclosures and strategic focus.
+
+### END COMPANY REPORT

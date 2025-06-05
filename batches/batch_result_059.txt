@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Home Depot  
+Sector: Consumer Discretionary  
+Industry: Home Improvement Retail
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.15/5.00  
+(Calculated as: 3×0.35 + 4×0.25 + 3×0.20 + 2×0.15 + 3×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of operational enhancements, such as using computer vision for inventory management, but not as a core business driver.
+- **Dimension 2 Evidence:** The company has management-level committees for data governance, indicating a structured approach to data management and analytics.
+- **Dimension 3 Evidence:** Mentions of cloud migration and the use of AI in new technologies suggest a modernizing infrastructure.
+- **Dimension 4 Evidence:** No specific mention of AI talent acquisition or training programs; general employee development is implied.
+- **Dimension 5 Evidence:** Governance over data security and privacy is present, but specific AI governance is not detailed.
+
+**Strategic AI Positioning:** AI is used to enhance operations, particularly in inventory management, but is not yet central to Home Depot's business strategy.
+
+**Contextual Considerations:** As a large retailer, Home Depot's focus on operational efficiency through AI is expected, but the lack of strategic AI initiatives limits its readiness score.
+
+**Confidence Level:** Medium - The report provides some insights into AI initiatives, but lacks depth in strategic AI integration.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Honeywell  
+Sector: Industrials  
+Industry: Industrial Conglomerates
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.85/5.00  
+(Calculated as: 4×0.35 + 4×0.25 + 4×0.20 + 3×0.15 + 3×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI and machine learning are integral to Honeywell's product offerings, particularly in IoT and industrial applications.
+- **Dimension 2 Evidence:** Honeywell Forge uses predictive analytics, indicating advanced data capabilities.
+- **Dimension 3 Evidence:** Cloud computing and IoT platform integration highlight a modern technology infrastructure.
+- **Dimension 4 Evidence:** The need for technical expertise is acknowledged, but specific AI talent strategies are not detailed.
+- **Dimension 5 Evidence:** Some awareness of AI risks and governance is mentioned, but lacks comprehensive frameworks.
+
+**Strategic AI Positioning:** AI is a strategic differentiator, particularly in enhancing Honeywell's industrial IoT solutions and product innovation.
+
+**Contextual Considerations:** Honeywell's position as an industrial leader necessitates advanced AI integration to maintain competitiveness.
+
+**Confidence Level:** High - The report provides detailed insights into AI's strategic role and infrastructure.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Hormel Foods  
+Sector: Consumer Staples  
+Industry: Packaged Foods & Meats
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 1/5
+
+**Overall AI-Readiness Score:** 1.55/5.00  
+(Calculated as: 1×0.35 + 2×0.25 + 2×0.20 + 1×0.15 + 1×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic business driver in the provided excerpts.
+- **Dimension 2 Evidence:** Basic mention of cloud computing services, but no advanced data analytics capabilities are discussed.
+- **Dimension 3 Evidence:** Limited mention of IT infrastructure; focus appears to be on basic operational support.
+- **Dimension 4 Evidence:** No evidence of AI-related skills development or talent acquisition.
+- **Dimension 5 Evidence:** No mention of AI governance or ethical considerations.
+
+**Strategic AI Positioning:** AI does not appear to be a focus for Hormel Foods, with no strategic initiatives or investments mentioned.
+
+**Contextual Considerations:** As a traditional food processing company, Hormel may not prioritize AI, reflected in the minimal AI-related disclosures.
+
+**Confidence Level:** Low - The lack of AI-related content in the report limits the ability to assess readiness accurately.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Host Hotels & Resorts  
+Sector: Real Estate  
+Industry: Hotel & Resort REITs
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.95/5.00  
+(Calculated as: 2×0.35 + 2×0.25 + 2×0.20 + 1×0.15 + 2×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of cybersecurity threats, not as a strategic driver.
+- **Dimension 2 Evidence:** No significant mention of data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** Limited discussion of technology infrastructure; focus on cybersecurity risks.
+- **Dimension 4 Evidence:** No mention of AI skills development or talent acquisition.
+- **Dimension 5 Evidence:** Basic awareness of AI risks, but no structured governance framework.
+
+**Strategic AI Positioning:** AI is primarily viewed as a potential risk rather than an opportunity for strategic growth.
+
+**Contextual Considerations:** As a REIT, Host Hotels may not prioritize AI integration, focusing instead on traditional real estate management.
+
+**Confidence Level:** Medium - The report provides some insights into AI-related risks, but lacks strategic AI initiatives.
+
+### END COMPANY REPORT

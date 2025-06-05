@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Schlumberger  
+Sector: Energy  
+Industry: Oil & Gas Equipment & Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Offerings are founded upon proprietary and open-source data platform technologies... include domain-specific application of innovative digital capabilities, such as artificial intelligence ("AI") and machine learning."
+- **Dimension 2 Evidence:** "Through our Lumi TM data and AI platform, we also enable data-driven decision making for our customers across the energy industry."
+- **Dimension 3 Evidence:** "Accelerated adoption of our digital technologies marked a milestone year, highlighted by strategic collaborations with cross-industry leaders, the launch of the Lumi™ data and AI platform."
+- **Dimension 4 Evidence:** No specific evidence of AI talent strategies or comprehensive training programs was found in the excerpts.
+- **Dimension 5 Evidence:** "Our digital technologies and services, as well as third-party products, services and technologies that we rely on... are subject to the risk of cyberattacks."
+
+**Strategic AI Positioning:** Schlumberger is leveraging AI as a strategic differentiator, embedding AI into its service delivery and operational workflows, which enhances its competitive positioning in the energy sector.
+
+**Contextual Considerations:** As a leading oilfield services company, Schlumberger's integration of AI into its offerings is significant given the industry's reliance on advanced technologies for efficiency and innovation.
+
+**Confidence Level:** High - The 10-K excerpts provide detailed insights into the company's AI initiatives and strategic importance.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Seagate Technology  
+Sector: Information Technology  
+Industry: Technology Hardware, Storage & Peripherals
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "The nearline market includes storage for cloud computing, content delivery, archival, backup services and emerging use cases such as generative AI."
+- **Dimension 2 Evidence:** "We continuously seek to improve our manufacturing efficiency and reduce manufacturing costs by... employing machine learning algorithms and AI."
+- **Dimension 3 Evidence:** "Cloud migration initiatives and the ongoing advancement of the cloud, including the build out of large numbers of cloud data centers."
+- **Dimension 4 Evidence:** No specific evidence of AI talent strategies or comprehensive training programs was found in the excerpts.
+- **Dimension 5 Evidence:** "We risk damage to our reputation if we fail to act responsibly in a number of areas, such as... the usage of AI."
+
+**Strategic AI Positioning:** Seagate is utilizing AI primarily as a business enabler, focusing on enhancing storage solutions and manufacturing processes, with AI playing a supportive role in its strategic initiatives.
+
+**Contextual Considerations:** As a major player in data storage, Seagate's focus on AI for improving storage capacity and efficiency aligns with industry trends towards data-driven growth.
+
+**Confidence Level:** Medium - The excerpts provide some insights into AI initiatives, but lack depth in talent and governance areas.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Sempra  
+Sector: Utilities  
+Industry: Multi-Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.65/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Our significant use of and reliance on complex technologies and information systems... represent large-scale opportunities for attacks on, vulnerabilities in or other failures of our information systems."
+- **Dimension 2 Evidence:** "Our businesses also face challenges related to data governance, including the need to manage and secure large volumes of electronic data."
+- **Dimension 3 Evidence:** "Our cybersecurity risk management processes include... risk assessments performed by internal personnel and third-party advisors."
+- **Dimension 4 Evidence:** No specific evidence of AI talent strategies or comprehensive training programs was found in the excerpts.
+- **Dimension 5 Evidence:** "Cybersecurity incident response plans that include procedures for responding to and reporting, if applicable, certain cybersecurity incidents."
+
+**Strategic AI Positioning:** Sempra's AI initiatives appear to be in the early stages, focusing on operational enhancements and data management, with AI not yet a core strategic driver.
+
+**Contextual Considerations:** As a utility company, Sempra's focus on data governance and cybersecurity is critical, but AI's role in strategic growth is less pronounced.
+
+**Confidence Level:** Medium - The excerpts provide some insights into data and technology infrastructure but lack depth in strategic AI initiatives.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: ServiceNow  
+Sector: Information Technology  
+Industry: Systems Software
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 5/5
+- Dimension 2 (Data Infrastructure and Analytics): 5/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 5/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 4/5
+
+**Overall AI-Readiness Score:** 4.70/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "We are an early leader in applying AI to enterprise workflows and are working to remain at the forefront of AI as we continue to execute our product roadmap."
+- **Dimension 2 Evidence:** "With a single data model and integrated data layer, the Now Platform enables customers to operationalize their AI strategy and transform their business with speed, scale and security."
+- **Dimension 3 Evidence:** "The Now Platform is uniquely positioned to bring the full potential of GenAI and agentic AI to the enterprise."
+- **Dimension 4 Evidence:** "We provide AI governance tools, including built-in monitoring and guardrails, dataset creation management and benchmarking capabilities."
+- **Dimension 5 Evidence:** "We also provide AI governance tools, including built-in monitoring and guardrails, dataset creation management and benchmarking capabilities."
+
+**Strategic AI Positioning:** ServiceNow positions AI as a core business driver, deeply integrated into its Now Platform, enabling enterprise digital transformation and workflow automation.
+
+**Contextual Considerations:** As a leading cloud computing platform provider, ServiceNow's extensive AI capabilities and strategic focus on AI-driven transformation align with its industry leadership.
+
+**Confidence Level:** High - The excerpts provide comprehensive insights into ServiceNow's advanced AI strategy and capabilities.
+
+### END COMPANY REPORT

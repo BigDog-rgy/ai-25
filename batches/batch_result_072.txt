@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Las Vegas Sands  
+Sector: Consumer Discretionary  
+Industry: Casinos & Gaming
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.55/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The excerpts primarily mention AI in the context of risks related to cyber-attacks and data breaches, with no evidence of AI being a strategic business driver.
+- **Dimension 2 Evidence:** References to data security and potential regulatory impacts on operations, but no mention of advanced analytics capabilities.
+- **Dimension 3 Evidence:** Discussion of cybersecurity programs, but no evidence of modern technology infrastructure or cloud adoption.
+- **Dimension 4 Evidence:** No mention of AI-related talent acquisition or skills development.
+- **Dimension 5 Evidence:** General mention of data security obligations and cybersecurity, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is currently not a strategic driver for Las Vegas Sands, with mentions limited to risk management contexts.
+
+**Contextual Considerations:** The company's focus on casinos and gaming might limit the immediate applicability of AI as a core business driver, impacting its AI readiness.
+
+**Confidence Level:** Medium - Based on limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Leidos  
+Sector: Industrials  
+Industry: Diversified Support Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 4.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is used for coordinating multi-domain solutions, indicating it's integral to their offerings and competitive advantage.
+- **Dimension 2 Evidence:** Utilization of AI and machine learning for mission-critical solutions suggests advanced data capabilities.
+- **Dimension 3 Evidence:** Mention of digital modernization and integration of AI into mission software systems.
+- **Dimension 4 Evidence:** References to attracting skilled employees and leveraging technical core capabilities, including AI.
+- **Dimension 5 Evidence:** Some awareness of AI-related risks, but no detailed governance framework mentioned.
+
+**Strategic AI Positioning:** AI is a strategic differentiator for Leidos, enhancing their defense and technology services.
+
+**Contextual Considerations:** The company's focus on defense and technology sectors naturally aligns with advanced AI applications, supporting its readiness.
+
+**Confidence Level:** High - Strong evidence of AI integration and strategic importance.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Lennar  
+Sector: Consumer Discretionary  
+Industry: Homebuilding
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.55/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned only in the context of cyber threats, not as a strategic business driver.
+- **Dimension 2 Evidence:** References to data security, but no mention of advanced analytics or data infrastructure.
+- **Dimension 3 Evidence:** No evidence of modern technology infrastructure or cloud adoption.
+- **Dimension 4 Evidence:** No mention of AI-related talent acquisition or skills development.
+- **Dimension 5 Evidence:** General mention of cybersecurity, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is not currently a strategic focus for Lennar, with mentions limited to cybersecurity contexts.
+
+**Contextual Considerations:** The homebuilding industry may not prioritize AI as a core business driver, affecting its readiness.
+
+**Confidence Level:** Medium - Based on limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Lennox International  
+Sector: Industrials  
+Industry: Building Products
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned as a factor in product development and competitive positioning.
+- **Dimension 2 Evidence:** References to data management and security, suggesting some level of analytics capability.
+- **Dimension 3 Evidence:** Mentions of digital capabilities and technological developments in AI.
+- **Dimension 4 Evidence:** Discussion of AI-related risks and opportunities, indicating awareness of AI skills needs.
+- **Dimension 5 Evidence:** Some mention of AI-related risks, but no detailed governance framework.
+
+**Strategic AI Positioning:** AI is a business enabler for Lennox, impacting product development and competitive positioning.
+
+**Contextual Considerations:** The building products industry is increasingly integrating AI for product innovation, supporting readiness.
+
+**Confidence Level:** Medium - Based on moderate AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT

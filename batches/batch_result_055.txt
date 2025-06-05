@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Gilead Sciences  
+Sector: Health Care  
+Industry: Biotechnology
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.00/5.00  
+(Calculated as: 2×0.35 + 2×0.25 + 2×0.20 + 1×0.15 + 2×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K mentions AI primarily in the context of cybersecurity threats, indicating its use for operational enhancement rather than as a core business driver.
+- **Dimension 2 Evidence:** The excerpts focus on data privacy and cybersecurity, with no mention of advanced analytics capabilities or a data-driven culture.
+- **Dimension 3 Evidence:** The discussion is centered on cybersecurity risk management, with no specific mention of modern technology infrastructure or cloud adoption.
+- **Dimension 4 Evidence:** There is no mention of hiring or developing AI-related skills, indicating a lack of focus on human capital in AI.
+- **Dimension 5 Evidence:** The mention of AI is related to cybersecurity threats, with basic references to data privacy but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is currently used more as a tool for managing cybersecurity risks rather than as a strategic business driver in Gilead's core operations or product offerings.
+
+**Contextual Considerations:** As a biotechnology company, Gilead's focus on AI might be more relevant in drug discovery and clinical trials, but the excerpts do not provide evidence of such applications.
+
+**Confidence Level:** Medium - The excerpts provide limited information on AI initiatives, focusing more on cybersecurity.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Global Payments  
+Sector: Financials  
+Industry: Transaction & Payment Processing Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.25/5.00  
+(Calculated as: 3×0.35 + 3×0.25 + 4×0.20 + 3×0.15 + 3×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K notes the exploration of AI to enhance market position and customer experiences, indicating AI as a business enabler.
+- **Dimension 2 Evidence:** Mentions of data governance and cloud services suggest intermediate analytics capabilities.
+- **Dimension 3 Evidence:** The company capitalizes on cloud computing arrangements, indicating advanced digital capabilities.
+- **Dimension 4 Evidence:** References to expanding technological capabilities suggest ongoing efforts to build AI skills.
+- **Dimension 5 Evidence:** The company acknowledges the ethical and legal challenges of AI, indicating developing governance structures.
+
+**Strategic AI Positioning:** AI is seen as a potential enabler for enhancing customer experiences and strengthening market position, though still in early phases of integration.
+
+**Contextual Considerations:** As a financial technology company, Global Payments is well-positioned to leverage AI for transaction processing and fraud detection, which aligns with industry trends.
+
+**Confidence Level:** High - The excerpts provide a detailed view of AI-related challenges and initiatives.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Globe Life  
+Sector: Financials  
+Industry: Life & Health Insurance
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.95/5.00  
+(Calculated as: 2×0.35 + 2×0.25 + 2×0.20 + 1×0.15 + 2×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** Mentions of AI are limited to responsible use in modernization efforts, indicating operational enhancement.
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** The focus is on modernization, but without specifics on cloud or digital platform adoption.
+- **Dimension 4 Evidence:** No evidence of AI-related hiring or skills development initiatives.
+- **Dimension 5 Evidence:** Basic references to data security and compliance, with no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is currently used for operational improvements rather than as a strategic driver in Globe Life's offerings.
+
+**Contextual Considerations:** The insurance industry is increasingly adopting AI for underwriting and risk assessment, but Globe Life's current AI initiatives appear limited.
+
+**Confidence Level:** Low - The excerpts provide minimal information on AI initiatives.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: GoDaddy  
+Sector: Information Technology  
+Industry: Internet Services & Infrastructure
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.85/5.00  
+(Calculated as: 4×0.35 + 4×0.25 + 4×0.20 + 3×0.15 + 3×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is integral to GoDaddy's offerings, such as Airo, which enhances customer experiences and business growth.
+- **Dimension 2 Evidence:** AI-powered tools for customer insights and marketing indicate sophisticated data analytics capabilities.
+- **Dimension 3 Evidence:** The use of AI in customer solutions and cloud-based platforms demonstrates advanced digital capabilities.
+- **Dimension 4 Evidence:** References to expanding technological capabilities suggest ongoing efforts to build AI skills.
+- **Dimension 5 Evidence:** Mentions of responsible AI deployment indicate developing governance structures.
+
+**Strategic AI Positioning:** AI is a strategic differentiator for GoDaddy, enhancing customer experiences and enabling business growth through innovative solutions.
+
+**Contextual Considerations:** As a leader in internet services, GoDaddy's focus on AI aligns with industry trends towards automation and personalized customer experiences.
+
+**Confidence Level:** High - The excerpts provide a comprehensive view of AI integration in GoDaddy's business strategy.
+
+### END COMPANY REPORT

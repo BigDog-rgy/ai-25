@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Mastercard  
+Sector: Financials  
+Industry: Transaction & Payment Processing Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 4/5
+
+**Overall AI-Readiness Score:** 3.95/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "We create a range of products and services for our customers using our data and artificial intelligence (“AI”) assets, technology, platforms and expertise."
+- **Dimension 2 Evidence:** "We continually invest in data cleansing, structuring and modeling as well as robust governance to make this data available for use in AI to be deployed at scale."
+- **Dimension 3 Evidence:** "We utilize our data using traditional analytical methodologies and an ever-increasing range of AI, including machine learning, natural-language processing, neural networks and generative AI."
+- **Dimension 4 Evidence:** No specific mention of AI-specific hiring or training initiatives, but general investment in technology is implied.
+- **Dimension 5 Evidence:** "Our Privacy by Design, Data by Design and AI Governance processes are designed to ensure we embed multiple layers of privacy, data protection and information security controls in all our products and services."
+
+**Strategic AI Positioning:** AI is integral to Mastercard's product offerings and competitive strategy, enhancing personalization and security services, which are crucial for maintaining its competitive edge in the payment processing industry.
+
+**Contextual Considerations:** As a major player in the financial sector, Mastercard's focus on AI for security and personalization aligns with industry trends towards digital transformation and data-driven services.
+
+**Confidence Level:** High - based on comprehensive AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Match Group  
+Sector: Communication Services  
+Industry: Interactive Media & Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 3.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "We currently incorporate AI into certain of our services and are working to further integrate AI technologies into our services."
+- **Dimension 2 Evidence:** No specific advanced analytics capabilities mentioned, but there is an implication of data use for service enhancement.
+- **Dimension 3 Evidence:** "We expect our overall headcount to grow modestly in 2025 as we expect to continue to focus on recruiting employees in technical functions such as software and product."
+- **Dimension 4 Evidence:** "We expect to continue to focus on recruiting employees in technical functions such as software and product."
+- **Dimension 5 Evidence:** General mention of compliance with AI-related laws, but no specific governance framework detailed.
+
+**Strategic AI Positioning:** AI is used to enhance user experience and service offerings, but it is not yet a core driver of Match Group's business model.
+
+**Contextual Considerations:** The company's focus on integrating AI into its services reflects the competitive nature of the online dating industry, where personalization and user engagement are key.
+
+**Confidence Level:** Medium - based on moderate AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: McCormick & Company  
+Sector: Consumer Staples  
+Industry: Packaged Foods & Meats
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "We must also be able to respond successfully to technological advances (including artificial intelligence and machine learning, which may become critical in interpreting consumer preferences in the future)."
+- **Dimension 2 Evidence:** No specific mention of advanced data analytics capabilities.
+- **Dimension 3 Evidence:** No specific mention of modern technology infrastructure.
+- **Dimension 4 Evidence:** No specific mention of AI-related hiring or training initiatives.
+- **Dimension 5 Evidence:** No specific mention of AI governance or ethical considerations.
+
+**Strategic AI Positioning:** AI is acknowledged as a future consideration for consumer insights but is not currently central to McCormick's business strategy.
+
+**Contextual Considerations:** As a leader in the packaged foods industry, McCormick's current AI focus is limited, reflecting the industry's slower adoption of AI technologies compared to tech-centric sectors.
+
+**Confidence Level:** Low - based on limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: McDonald's  
+Sector: Consumer Discretionary  
+Industry: Restaurants
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "The artificial intelligence tools we are incorporating into certain aspects of our business may not generate the intended efficiencies."
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure.
+- **Dimension 3 Evidence:** No specific mention of modern technology infrastructure.
+- **Dimension 4 Evidence:** No specific mention of AI-related hiring or training initiatives.
+- **Dimension 5 Evidence:** No specific mention of AI governance or ethical considerations.
+
+**Strategic AI Positioning:** AI is being explored for operational efficiencies but is not yet a core component of McDonald's strategic vision.
+
+**Contextual Considerations:** As a global leader in the fast-food industry, McDonald's exploration of AI reflects an initial phase of digital transformation aimed at improving efficiencies.
+
+**Confidence Level:** Low - based on limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT

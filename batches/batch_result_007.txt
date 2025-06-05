@@ -1,0 +1,111 @@
+### BEGIN COMPANY REPORT
+Company: Ameren  
+Sector: Utilities  
+Industry: Multi-Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 1/5
+
+**Overall AI-Readiness Score:** 1.75/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K mentions AI in the context of cybersecurity risks, indicating AI is not a strategic business driver but rather a concern for operational security.
+- **Dimension 2 Evidence:** No specific mention of advanced analytics capabilities or data-driven strategies in the excerpts.
+- **Dimension 3 Evidence:** The report does not discuss modern technology infrastructure or cloud adoption.
+- **Dimension 4 Evidence:** No mention of AI-related talent acquisition or skills development programs.
+- **Dimension 5 Evidence:** No discussion of AI governance or ethical considerations beyond standard cybersecurity protocols.
+- **Strategic AI Positioning:** AI is not central to Ameren’s business strategy; it is primarily mentioned in the context of cybersecurity risks.
+- **Contextual Considerations:** As a utility company, Ameren's focus may be more on operational efficiency and regulatory compliance rather than cutting-edge AI integration.
+
+**Confidence Level:** Low - The 10-K excerpts provide limited information on AI initiatives.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: American Electric Power  
+Sector: Utilities  
+Industry: Electric Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 1/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 1/5
+
+**Overall AI-Readiness Score:** 1.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned only in the context of potential IT failures, not as a strategic business driver.
+- **Dimension 2 Evidence:** No mention of data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** No discussion of technology infrastructure or digital capabilities.
+- **Dimension 4 Evidence:** No mention of AI-related human capital or skills development.
+- **Dimension 5 Evidence:** No evidence of AI governance or responsible implementation practices.
+- **Strategic AI Positioning:** AI is not positioned as a strategic element in AEP’s business model.
+- **Contextual Considerations:** As a large utility company, AEP may prioritize infrastructure and operational resilience over AI-driven innovation.
+
+**Confidence Level:** Low - Limited AI-related information in the 10-K excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: American Express  
+Sector: Financials  
+Industry: Consumer Finance
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 4/5
+
+**Overall AI-Readiness Score:** 3.50/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of enhancing competitive products and services, indicating its role as a business enabler.
+- **Dimension 2 Evidence:** The company maintains a governance framework for data management and AI, indicating sophisticated data infrastructure.
+- **Dimension 3 Evidence:** Investment in technology across all areas of business, including AI and machine learning, suggests advanced digital capabilities.
+- **Dimension 4 Evidence:** References to investment in technology and AI skills, though specific programs are not detailed.
+- **Dimension 5 Evidence:** Established policies and governance framework for AI and data protection, indicating structured AI governance.
+- **Strategic AI Positioning:** AI is used to enhance customer interactions and compliance systems, playing a significant role in business operations.
+- **Contextual Considerations:** As a financial services company, Amex’s focus on data and technology is crucial for maintaining competitive advantage.
+
+**Confidence Level:** High - Detailed AI-related disclosures in the 10-K excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: American International Group  
+Sector: Financials  
+Industry: Multi-line Insurance
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 4/5
+
+**Overall AI-Readiness Score:** 3.15/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of data strategy and workflow enhancement, indicating its role as a business enabler.
+- **Dimension 2 Evidence:** Focus on data quality and analytics to inform decision-making, suggesting intermediate data infrastructure.
+- **Dimension 3 Evidence:** References to technological advancements and the use of AI in operations, indicating a modernizing infrastructure.
+- **Dimension 4 Evidence:** No specific AI talent strategies mentioned, but there is a focus on technological advancements.
+- **Dimension 5 Evidence:** Detailed discussion of AI-related regulations and governance, indicating structured AI governance.
+- **Strategic AI Positioning:** AI is used to enhance decision-making and operational efficiency, playing a significant role in business strategy.
+- **Contextual Considerations:** As a large insurance company, AIG’s focus on AI is aligned with industry trends towards digital transformation and data-driven decision-making.
+
+**Confidence Level:** Medium - Moderate AI-related disclosures in the 10-K excerpts.
+
+### END COMPANY REPORT

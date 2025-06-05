@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: News Corp  
+Sector: Communication Services  
+Industry: Publishing
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.70/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K mentions that Dow Jones is investing in an "artificial intelligence-focused data analytics company" and uses AI for "generative AI-enabled automated reports," indicating AI is an important business enabler.
+- **Dimension 2 Evidence:** References to investments in AI-focused data analytics suggest some level of data infrastructure, but no detailed descriptions of advanced analytics capabilities.
+- **Dimension 3 Evidence:** No specific mentions of cloud adoption or modern platform architectures; focus appears to be on traditional media distribution.
+- **Dimension 4 Evidence:** No specific mentions of AI talent acquisition or training programs; general awareness of AI's impact on business is noted.
+- **Dimension 5 Evidence:** General references to the risks of AI, such as unauthorized use and intellectual property concerns, but no specific governance framework is mentioned.
+
+**Strategic AI Positioning:** AI is used to enhance product offerings and customer insights, particularly in the Dow Jones segment, but it is not yet a core driver of the business model.
+
+**Contextual Considerations:** As a media and publishing company, News Corp faces unique challenges in integrating AI due to content protection and distribution complexities.
+
+**Confidence Level:** Medium - The 10-K provides some insights into AI initiatives, but lacks depth in infrastructure and governance details.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: NextEra Energy  
+Sector: Utilities  
+Industry: Multi-Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.05/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of cybersecurity risks, indicating a focus on operational enhancement rather than strategic business driving.
+- **Dimension 2 Evidence:** No specific evidence of advanced data infrastructure or analytics capabilities beyond standard cybersecurity measures.
+- **Dimension 3 Evidence:** No detailed mentions of cloud or digital platform strategies; focus remains on traditional utility operations.
+- **Dimension 4 Evidence:** No evidence of AI-related human capital initiatives or skills development programs.
+- **Dimension 5 Evidence:** General mentions of cybersecurity risks related to AI, but no specific governance or ethical frameworks are discussed.
+
+**Strategic AI Positioning:** AI is primarily viewed as a risk factor in cybersecurity, with limited strategic integration into the core business model.
+
+**Contextual Considerations:** As a large utility company, NextEra Energy's focus on AI may be constrained by regulatory and operational complexities.
+
+**Confidence Level:** Low - The 10-K excerpts provide limited information on AI initiatives, focusing mainly on risks.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Nike, Inc.  
+Sector: Consumer Discretionary  
+Industry: Apparel, Accessories & Luxury Goods
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.05/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of cybersecurity risks and potential regulatory impacts, indicating operational awareness rather than strategic integration.
+- **Dimension 2 Evidence:** No specific mentions of advanced data analytics capabilities; focus is on cybersecurity and data management.
+- **Dimension 3 Evidence:** No detailed evidence of cloud or digital platform strategies; mentions of cybersecurity audits suggest some digital infrastructure efforts.
+- **Dimension 4 Evidence:** General awareness of AI's impact on operations, but no specific talent acquisition or training programs are mentioned.
+- **Dimension 5 Evidence:** General mentions of cybersecurity and privacy risks related to AI, but no specific governance frameworks are outlined.
+
+**Strategic AI Positioning:** AI is acknowledged as a factor in operational risk management, but not as a strategic driver of business growth.
+
+**Contextual Considerations:** As a global apparel company, Nike's AI initiatives may be influenced by the need to manage complex supply chains and consumer data.
+
+**Confidence Level:** Medium - The 10-K provides limited insights into AI strategy and infrastructure, focusing more on risk management.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: NiSource  
+Sector: Utilities  
+Industry: Multi-Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.95/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic business driver; focus is on traditional utility operations.
+- **Dimension 2 Evidence:** Basic mentions of data management and process optimization, but no advanced analytics capabilities are described.
+- **Dimension 3 Evidence:** Evidence of cloud computing investments and modernization efforts, indicating a transition towards more modern infrastructure.
+- **Dimension 4 Evidence:** No evidence of AI-related human capital initiatives or skills development programs.
+- **Dimension 5 Evidence:** General mentions of cybersecurity and risk assessment, but no specific AI governance frameworks are discussed.
+
+**Strategic AI Positioning:** AI is not currently a strategic focus for NiSource, with efforts primarily centered on infrastructure modernization.
+
+**Contextual Considerations:** As a regulated utility company, NiSource's AI initiatives may be limited by regulatory and operational constraints.
+
+**Confidence Level:** Low - The 10-K provides minimal information on AI initiatives, with a focus on infrastructure and risk management.
+
+### END COMPANY REPORT

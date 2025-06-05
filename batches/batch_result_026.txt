@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Chipotle Mexican Grill  
+Sector: Consumer Discretionary  
+Industry: Restaurants
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.55/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No strategic mention of AI as a business driver; AI is only referenced in the context of cybersecurity risks.
+- **Dimension 2 Evidence:** Mentions of predictive analytics in the context of cybersecurity risk assessment, but no broader data analytics strategy.
+- **Dimension 3 Evidence:** References to cybersecurity and data security programs, indicating some modernization efforts, but no clear cloud or digital platform strategy.
+- **Dimension 4 Evidence:** No mention of AI-specific talent acquisition or training programs.
+- **Dimension 5 Evidence:** General mention of privacy and data security regulations, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is not currently a strategic business driver for Chipotle; it is primarily mentioned in the context of cybersecurity risks.
+
+**Contextual Considerations:** As a restaurant chain, Chipotle's core business does not inherently rely on AI, which may explain the minimal focus on AI initiatives.
+
+**Confidence Level:** Medium - The 10-K excerpts provide limited AI-related information, but the context of the restaurant industry supports the assessment.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Chubb Limited  
+Sector: Financials  
+Industry: Property & Casualty Insurance
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.75/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is integral to Chubb's digital transformation and business strategy, particularly in leveraging global data for digital partnerships.
+- **Dimension 2 Evidence:** Advanced analytics and data infrastructure are implied through mentions of risk modeling and data-driven strategies.
+- **Dimension 3 Evidence:** Comprehensive cybersecurity and technology infrastructure, with a focus on digital transformation.
+- **Dimension 4 Evidence:** Some references to AI talent, but not extensively detailed.
+- **Dimension 5 Evidence:** Awareness of AI governance challenges, but no detailed framework provided.
+
+**Strategic AI Positioning:** AI is a strategic differentiator for Chubb, enhancing its competitive position in the insurance industry through digital transformation.
+
+**Contextual Considerations:** As a leading global insurer, Chubb's scale and industry position necessitate advanced AI and data capabilities.
+
+**Confidence Level:** High - The 10-K excerpts provide substantial evidence of AI integration into business strategy.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Church & Dwight  
+Sector: Consumer Staples  
+Industry: Household Products
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.10/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of competitive threats rather than as a strategic driver.
+- **Dimension 2 Evidence:** Limited discussion of data management and analytics capabilities.
+- **Dimension 3 Evidence:** Basic cybersecurity measures are in place, but no advanced technology infrastructure is mentioned.
+- **Dimension 4 Evidence:** General awareness of technology skills, but no specific AI talent strategies.
+- **Dimension 5 Evidence:** Some governance structures for cybersecurity and data privacy, indicating developing AI governance.
+
+**Strategic AI Positioning:** AI is not a core strategic focus for Church & Dwight, with more emphasis on traditional consumer goods operations.
+
+**Contextual Considerations:** The consumer goods industry may not prioritize AI to the same extent as technology-driven sectors, impacting readiness.
+
+**Confidence Level:** Medium - The excerpts provide limited AI-specific information, but align with industry norms.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Cigna  
+Sector: Health Care  
+Industry: Health Care Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 4/5
+
+**Overall AI-Readiness Score:** 4.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is used to support healthcare transformation, indicating a strategic role in enhancing healthcare solutions.
+- **Dimension 2 Evidence:** AI models facilitate personalized solutions, showing advanced data analytics capabilities.
+- **Dimension 3 Evidence:** Strong technology infrastructure supports AI models and digital health solutions.
+- **Dimension 4 Evidence:** Active development and monitoring of AI models, with responsible AI principles guiding talent strategies.
+- **Dimension 5 Evidence:** Responsible AI principles and governance frameworks are in place, with board oversight.
+
+**Strategic AI Positioning:** AI is a strategic differentiator for Cigna, enhancing healthcare delivery and operational efficiency.
+
+**Contextual Considerations:** As a major healthcare provider, Cigna's focus on AI aligns with industry trends towards digital health solutions.
+
+**Confidence Level:** High - The 10-K excerpts provide detailed evidence of AI integration and governance.
+
+### END COMPANY REPORT

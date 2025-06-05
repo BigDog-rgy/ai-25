@@ -1,0 +1,89 @@
+### BEGIN COMPANY REPORT
+Company: Fortive  
+Sector: Industrials  
+Industry: Industrial Machinery & Supplies & Components
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.00/5.00  
+(Calculated as: 3×0.35 + 3×0.25 + 3×0.20 + 2×0.15 + 3×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "We are continually evolving FBS to meet the changing needs of our portfolio and incorporating new technology enablers, like artificial intelligence and machine learning, to drive faster growth, more productivity, and greater impact."
+- **Dimension 2 Evidence:** No specific advanced data infrastructure mentioned, but the general mention of AI and machine learning implies some level of data analytics capability.
+- **Dimension 3 Evidence:** "We may incorporate artificial intelligence (“AI”) solutions into our products, services and features," suggesting ongoing digital capability development.
+- **Dimension 4 Evidence:** No specific mention of AI talent acquisition or skills development programs.
+- **Dimension 5 Evidence:** "The rapid evolution of AI, including the regulation of AI by government or other regulatory agencies, will require significant resources to develop, test and maintain our platforms, offerings, services, and features to implement AI ethically and minimize any unintended harmful impacts."
+
+**Strategic AI Positioning:** Fortive is integrating AI into its business processes and product development to enhance growth and productivity, indicating AI as a business enabler.
+
+**Contextual Considerations:** As an industrial technology company, Fortive's integration of AI into its operations and products aligns with industry trends towards automation and efficiency improvements.
+
+**Confidence Level:** Medium - The 10-K excerpts provide some insights into AI initiatives, but lack detailed specifics on implementation and outcomes.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Fox Corporation  
+Sector: Communication Services  
+Industry: Broadcasting
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.40/5.00  
+(Calculated as: 2×0.35 + 2×0.25 + 3×0.20 + 2×0.15 + 3×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Although the Company may also seek to responsibly incorporate AI into the development of new and existing products and services to enhance their value to viewers and advertisers, there can be no assurance that these efforts will be successful."
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** "Cloud services, content delivery and other networks, information systems and other technologies that we or our vendors or other partners use... are critical to our business activities."
+- **Dimension 4 Evidence:** No specific mention of AI talent acquisition or skills development programs.
+- **Dimension 5 Evidence:** "The Audit Committee of the Board is responsible for... overseeing the Company’s policies and practices with respect to risk assessment and risk management, including with respect to cybersecurity and the use of AI."
+
+**Strategic AI Positioning:** AI is considered for enhancing content and advertising, but its strategic impact is uncertain and not yet fully realized.
+
+**Contextual Considerations:** As a broadcasting company, Fox Corporation's exploration of AI reflects industry trends in content personalization and advertising, but the strategic integration appears nascent.
+
+**Confidence Level:** Medium - The 10-K excerpts highlight some AI considerations but lack depth in strategic execution and infrastructure specifics.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Franklin Resources  
+Sector: Financials  
+Industry: Asset Management & Custody Banks
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.35/5.00  
+(Calculated as: 2×0.35 + 3×0.25 + 2×0.20 + 2×0.15 + 2×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Developments in our use of process automation and artificial intelligence further heighten our dependency on technology."
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure, but reliance on technology implies some analytics capability.
+- **Dimension 3 Evidence:** No specific mention of cloud or modern technology infrastructure.
+- **Dimension 4 Evidence:** No specific mention of AI talent acquisition or skills development programs.
+- **Dimension 5 Evidence:** No specific mention of AI governance or ethical considerations beyond standard cybersecurity protocols.
+
+**Strategic AI Positioning:** AI is used for process automation, indicating a focus on operational efficiency rather than strategic transformation.
+
+**Contextual Considerations:** As an asset management firm, Franklin Resources' use of AI for process automation aligns with industry trends towards efficiency and risk management.
+
+**Confidence Level:** Low - The 10-K excerpts provide limited detail on AI initiatives and infrastructure specifics.
+
+### END COMPANY REPORT

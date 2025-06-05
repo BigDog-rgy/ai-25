@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: GE HealthCare  
+Sector: Health Care  
+Industry: Health Care Equipment
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "We offer a suite of AI-enabled software and applications that help clinicians improve productivity, address staff shortages, and deliver better patient outcomes."
+- **Dimension 2 Evidence:** "Our systems combine high image quality with comprehensive clinical tools including measurement quantification, workflow automation, cross-modality networking, real-time and AI-enabled scan guidance, and cloud-based technologies."
+- **Dimension 3 Evidence:** "Innovating medical technology, pharmaceutical diagnostics, and integrated, cloud-first AI-enabled solutions, services, and data analytics."
+- **Dimension 4 Evidence:** "Our ability to attract and/or retain key personnel and qualified employees."
+- **Dimension 5 Evidence:** No specific mention of AI governance frameworks; general compliance and regulatory adherence are noted.
+
+**Strategic AI Positioning:** AI is integral to GE HealthCare's offerings, enhancing diagnostic capabilities and operational efficiencies, making it a strategic differentiator in their product portfolio.
+
+**Contextual Considerations:** The company's global presence and focus on healthcare technology necessitate a robust AI strategy to maintain competitiveness, especially in diagnostics and patient care.
+
+**Confidence Level:** High - due to detailed AI-related disclosures in the 10-K excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: GE Vernova  
+Sector: Industrials  
+Industry: Heavy Electrical Equipment
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.30/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Energy intensive technological innovations and efficiencies, such as artificial intelligence, may affect or may be perceived to affect electricity demand."
+- **Dimension 2 Evidence:** No specific advanced analytics capabilities mentioned; focus is on regulatory compliance.
+- **Dimension 3 Evidence:** "Adoption of new technologies, particularly generative AI, which raises novel privacy and security issues."
+- **Dimension 4 Evidence:** No specific AI talent strategies mentioned; general mention of the ability to attract and retain personnel.
+- **Dimension 5 Evidence:** "As artificial intelligence (AI) is an emerging area, we expect to see increased legislation."
+
+**Strategic AI Positioning:** AI is not currently a core strategic driver for GE Vernova, with mentions primarily focused on potential impacts and regulatory considerations.
+
+**Contextual Considerations:** As a newly formed entity from GE's energy businesses, GE Vernova may still be developing its AI strategy, particularly in the context of energy efficiency and grid solutions.
+
+**Confidence Level:** Medium - due to limited AI-specific disclosures in the 10-K excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Gen Digital  
+Sector: Information Technology  
+Industry: Systems Software
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.80/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "We offer a range of AI-powered features integrated into Norton Cyber Safety products to provide always-on protection from today’s most sophisticated scams."
+- **Dimension 2 Evidence:** "Our differentiated approach is powered by our global scale and visibility, geographically distributed cloud data platform, and advanced AI-based automation."
+- **Dimension 3 Evidence:** "AI-powered protection against sophisticated cyber threats, including scams and phishing attacks."
+- **Dimension 4 Evidence:** No specific AI talent strategies mentioned; focus on general technology talent.
+- **Dimension 5 Evidence:** "AI presents challenges and risks that could affect our products, solutions and services, and therefore our business."
+
+**Strategic AI Positioning:** AI is a strategic differentiator for Gen Digital, particularly in enhancing cybersecurity offerings and customer protection services.
+
+**Contextual Considerations:** As a leading cybersecurity firm, Gen Digital's integration of AI into its products is crucial for maintaining its competitive edge in threat detection and prevention.
+
+**Confidence Level:** High - due to comprehensive AI-related disclosures in the 10-K excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Generac  
+Sector: Industrials  
+Industry: Electrical Components & Equipment
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Power demand is expected to meaningfully accelerate as a result of the rapid adoption of artificial intelligence and related data center energy requirements."
+- **Dimension 2 Evidence:** "There is also increasing use of data analytics, machine learning, and artificial intelligence software."
+- **Dimension 3 Evidence:** "AI requirements, hyperscalers, and the expansion of edge computing and 'connected devices' are expected to quadruple US data center energy consumption."
+- **Dimension 4 Evidence:** No specific AI talent strategies mentioned; general mention of technology and engineering talent.
+- **Dimension 5 Evidence:** No specific AI governance frameworks mentioned; focus is on general regulatory compliance.
+
+**Strategic AI Positioning:** AI is seen as a business enabler for Generac, particularly in relation to energy demand and infrastructure requirements.
+
+**Contextual Considerations:** As a manufacturer of power generation products, Generac's AI strategy is likely focused on optimizing energy efficiency and supporting the growing demands of data centers.
+
+**Confidence Level:** Medium - due to limited AI-specific disclosures in the 10-K excerpts.
+
+### END COMPANY REPORT

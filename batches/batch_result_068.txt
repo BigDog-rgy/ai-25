@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Kellanova  
+Sector: Consumer Staples  
+Industry: Packaged Foods & Meats
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 1/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.15/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K excerpts mention AI only in the context of regulatory compliance, with no indication of AI being a strategic business driver.
+- **Dimension 2 Evidence:** There is no discussion of data infrastructure or analytics capabilities in the provided excerpts.
+- **Dimension 3 Evidence:** No mention of modern technology infrastructure or digital capabilities is found in the excerpts.
+- **Dimension 4 Evidence:** The excerpts lack any discussion about AI-related talent acquisition or skills development.
+- **Dimension 5 Evidence:** AI is mentioned in the context of compliance with regulations, indicating some awareness but no specific governance framework.
+
+**Strategic AI Positioning:** AI is not positioned as a strategic driver for Kellanova, with mentions limited to regulatory compliance concerns.
+
+**Contextual Considerations:** As a large multinational in the consumer staples sector, Kellanova's lack of AI integration may be influenced by the traditional nature of its industry, which often focuses more on operational efficiency than cutting-edge technology.
+
+**Confidence Level:** Low - The excerpts provide minimal detail on AI initiatives, limiting the ability to assess AI readiness comprehensively.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Kenvue  
+Sector: Consumer Staples  
+Industry: Personal Care Products
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.65/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of internal processes and manufacturing operations, indicating a focus on operational enhancement rather than strategic differentiation.
+- **Dimension 2 Evidence:** No specific mention of data infrastructure or analytics capabilities is found in the excerpts.
+- **Dimension 3 Evidence:** The mention of digital strategy suggests initial steps towards digital transformation, but lacks detail on specific technologies.
+- **Dimension 4 Evidence:** General mention of the importance of skilled employees, but no specific AI talent strategies are outlined.
+- **Dimension 5 Evidence:** AI is mentioned in the context of regulatory uncertainty, indicating some awareness but no detailed governance framework.
+
+**Strategic AI Positioning:** AI is used primarily for operational processes, with no evidence of it being a core strategic driver.
+
+**Contextual Considerations:** As a recent spinoff from Johnson & Johnson, Kenvue may still be developing its independent AI strategy, which could explain the limited AI integration.
+
+**Confidence Level:** Medium - The excerpts provide some context on AI use, but lack depth in strategic and governance aspects.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Keurig Dr Pepper  
+Sector: Consumer Staples  
+Industry: Soft Drinks & Non-alcoholic Beverages
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.50/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is used in manufacturing, distribution, and sales operations, indicating it enhances core operations.
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities is found in the excerpts.
+- **Dimension 3 Evidence:** The mention of emerging technologies like automation and robotics suggests a modernizing infrastructure.
+- **Dimension 4 Evidence:** No specific AI talent strategies are mentioned, but the importance of skilled employees is implied.
+- **Dimension 5 Evidence:** AI is mentioned in the context of cybersecurity, indicating basic awareness but no detailed governance framework.
+
+**Strategic AI Positioning:** AI is used to enhance operations, particularly in manufacturing and distribution, but is not yet a core strategic driver.
+
+**Contextual Considerations:** As a large beverage conglomerate, Keurig Dr Pepper's focus on operational efficiency through AI is typical for its industry.
+
+**Confidence Level:** Medium - The excerpts provide a moderate level of detail on AI use in operations.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: KeyCorp  
+Sector: Financials  
+Industry: Regional Banks
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is used in models and cybersecurity, indicating it enhances core operations and customer experience.
+- **Dimension 2 Evidence:** The use of AI in models suggests some level of data analytics maturity.
+- **Dimension 3 Evidence:** Mentions of cloud computing and AI integration indicate a modernizing technology infrastructure.
+- **Dimension 4 Evidence:** Some mention of AI and ML methodologies suggests an ongoing effort to build AI skills.
+- **Dimension 5 Evidence:** AI is discussed in the context of cybersecurity risks, indicating developing governance structures.
+
+**Strategic AI Positioning:** AI is used to enhance operations and manage risks, particularly in cybersecurity and financial modeling.
+
+**Contextual Considerations:** As a regional bank, KeyCorp's focus on AI for risk management and operational efficiency is aligned with industry trends.
+
+**Confidence Level:** High - The excerpts provide a detailed view of AI use across multiple dimensions.
+
+### END COMPANY REPORT

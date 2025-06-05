@@ -1,0 +1,111 @@
+### BEGIN COMPANY REPORT
+Company: Ball Corporation  
+Sector: Materials  
+Industry: Metal, Glass & Plastic Containers
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 1/5
+
+**Overall AI-Readiness Score:** 1.75/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K excerpts mention "process optimization" but do not indicate AI as a strategic business driver.
+- **Dimension 2 Evidence:** References to "quality control" suggest basic data collection and reporting but no advanced analytics.
+- **Dimension 3 Evidence:** The mention of "cybersecurity" implies some modernization efforts, but no specific cloud or digital strategies are detailed.
+- **Dimension 4 Evidence:** No discussion of AI-related talent acquisition or skills development is present in the excerpts.
+- **Dimension 5 Evidence:** No mention of AI governance or responsible AI implementation is found in the excerpts.
+- **Strategic AI Positioning:** Ball Corporation appears to use technology primarily for operational enhancements rather than strategic differentiation.
+- **Contextual Considerations:** As a materials company, the focus may be more on manufacturing efficiency than on AI-driven innovation.
+
+**Confidence Level:** Low - due to limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Bank of America  
+Sector: Financials  
+Industry: Diversified Banks
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.45/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of operational and technology changes, indicating it as a business enabler.
+- **Dimension 2 Evidence:** The report discusses the use of AI for internal processes and risk management, suggesting sophisticated analytics capabilities.
+- **Dimension 3 Evidence:** References to cloud and technology systems imply a modern and integrated digital infrastructure.
+- **Dimension 4 Evidence:** Some focus on technology changes suggests ongoing efforts to build AI skills, though specifics are limited.
+- **Dimension 5 Evidence:** Mentions of AI-related risks and governance indicate developing awareness and structures.
+- **Strategic AI Positioning:** AI is used to enhance operations and manage risks, playing a significant role in Bank of America's strategy.
+- **Contextual Considerations:** As a large financial institution, Bank of America is likely to have substantial resources for AI and technology investments.
+
+**Confidence Level:** Medium - based on moderate specificity in AI-related disclosures.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Baxter International  
+Sector: Health Care  
+Industry: Health Care Equipment
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of product and service integration, indicating it as a business enabler.
+- **Dimension 2 Evidence:** The report discusses data analytics and AI, suggesting intermediate analytics capabilities.
+- **Dimension 3 Evidence:** References to IT systems and infrastructure expansion imply ongoing modernization efforts.
+- **Dimension 4 Evidence:** Limited mention of AI-specific talent strategies, indicating awareness but not significant investment.
+- **Dimension 5 Evidence:** Increasing regulatory focus on AI and privacy suggests developing governance structures.
+- **Strategic AI Positioning:** AI is integrated into Baxter's products and services, enhancing their healthcare offerings.
+- **Contextual Considerations:** The healthcare sector's regulatory environment influences Baxter's approach to AI and data.
+
+**Confidence Level:** Medium - based on moderate specificity in AI-related disclosures.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Becton Dickinson  
+Sector: Health Care  
+Industry: Health Care Equipment
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.80/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is central to product innovation and competitive positioning, indicating it as a strategic differentiator.
+- **Dimension 2 Evidence:** Advanced analytics and AI-enabled tools are mentioned, suggesting sophisticated data capabilities.
+- **Dimension 3 Evidence:** The use of cloud and AI technologies indicates advanced digital capabilities.
+- **Dimension 4 Evidence:** Some focus on AI and technology skills development, but specifics are limited.
+- **Dimension 5 Evidence:** Mentions of AI-related risks and regulatory focus suggest developing governance structures.
+- **Strategic AI Positioning:** AI is integral to Becton Dickinson's innovation and product development strategy.
+- **Contextual Considerations:** The company's focus on healthcare technology drives its investment in AI and digital capabilities.
+
+**Confidence Level:** High - based on comprehensive AI-related disclosures.
+
+### END COMPANY REPORT

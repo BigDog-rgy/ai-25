@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Amgen  
+Sector: Health Care  
+Industry: Biotechnology
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 4/5
+
+**Overall AI-Readiness Score:** 3.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "We believe that genetics, together with the benefit of artificial intelligence and computational evidence, could meaningfully aid our search for new medicines and help guide our R&D decisions and investments."
+- **Dimension 2 Evidence:** "We have invested considerable time, energy and resources into developing our expertise in human genetics and acquiring access to libraries of genetic information, and are applying artificial intelligence to our R&D activities."
+- **Dimension 3 Evidence:** "To achieve our business objectives, we rely on sophisticated information technology systems, including... cloud services."
+- **Dimension 4 Evidence:** "The Company established an AI Governance Council composed of cross-functional leadership that oversees the safe adoption of third-party AI services."
+- **Dimension 5 Evidence:** "The AI Governance Council is co-sponsored by our Chief Compliance Officer and Senior Vice President, Artificial Intelligence & Data."
+
+**Strategic AI Positioning:** AI is integral to Amgen's R&D strategy, particularly in drug discovery and development, enhancing their competitive advantage in biotechnology.
+
+**Contextual Considerations:** As a leading biotechnology company, Amgen's focus on AI in R&D aligns with industry trends towards precision medicine and personalized healthcare solutions.
+
+**Confidence Level:** High - based on the specificity and depth of AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Amphenol  
+Sector: Information Technology  
+Industry: Electronic Components
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.65/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Our products enable a broad array of IT datacom systems and applications, including a growing range of systems to power artificial intelligence and machine learning."
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities beyond standard product applications.
+- **Dimension 3 Evidence:** "Net sales to the IT datacom market increased... due to strong demand for products used in next-generation artificial intelligence-related applications."
+- **Dimension 4 Evidence:** No specific initiatives or strategies for AI talent acquisition or development were mentioned.
+- **Dimension 5 Evidence:** General cybersecurity measures mentioned, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is a growing area within Amphenol's product offerings, particularly in IT datacom systems, but not yet central to their overall strategy.
+
+**Contextual Considerations:** As a component manufacturer, Amphenol's AI readiness is more about enabling AI capabilities in their products rather than internal AI development.
+
+**Confidence Level:** Medium - based on the limited depth of AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Analog Devices  
+Sector: Information Technology  
+Industry: Semiconductors
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.60/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "We are increasingly incorporating AI capabilities into the development of technologies and our business operations, and into our products and services."
+- **Dimension 2 Evidence:** No specific advanced data infrastructure mentioned, but AI integration in products suggests some level of data analytics capability.
+- **Dimension 3 Evidence:** "The Intelligent Edge is characterized by ubiquitous sensing, hyper-scale and edge computing, artificial intelligence (AI) and pervasive connectivity."
+- **Dimension 4 Evidence:** No specific mention of AI talent strategies, but general technology integration implies some level of skill development.
+- **Dimension 5 Evidence:** Mentions of AI-related risks and governance structures, but no detailed framework.
+
+**Strategic AI Positioning:** AI is a significant component of Analog Devices' product innovation strategy, particularly in edge computing and connectivity.
+
+**Contextual Considerations:** As a semiconductor company, AI integration is crucial for product development, aligning with industry trends in IoT and edge computing.
+
+**Confidence Level:** Medium - based on the general AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Ansys  
+Sector: Information Technology  
+Industry: Application Software
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 3.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Our ability to develop and market new products to address the industry’s rapidly changing technology, including the use of artificial intelligence and machine learning in our products."
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure, but product development implies some level of data analytics.
+- **Dimension 3 Evidence:** General mentions of technology integration, but no specific cloud or digital platform strategies.
+- **Dimension 4 Evidence:** No specific AI talent strategies, but general product development suggests some skill development.
+- **Dimension 5 Evidence:** No specific AI governance framework mentioned beyond general cybersecurity measures.
+
+**Strategic AI Positioning:** AI is part of Ansys' product development strategy, particularly in enhancing simulation software capabilities.
+
+**Contextual Considerations:** As a software company, AI integration is important for maintaining competitive product offerings in engineering simulation.
+
+**Confidence Level:** Medium - based on the general AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT

@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Nordson Corporation  
+Sector: Industrials  
+Industry: Industrial Machinery & Supplies & Components
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.40/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic business driver in the provided excerpts.
+- **Dimension 2 Evidence:** No discussion of data infrastructure or analytics capabilities beyond basic operational reporting.
+- **Dimension 3 Evidence:** Mentions of aligning cybersecurity with NIST standards suggest some modernization efforts in technology infrastructure.
+- **Dimension 4 Evidence:** No evidence of AI skills development or hiring initiatives in the provided excerpts.
+- **Dimension 5 Evidence:** The focus on data security and cybersecurity aligns with basic governance practices, but no specific AI governance framework is mentioned.
+
+**Strategic AI Positioning:** Nordson Corporation does not appear to prioritize AI as a strategic business driver based on the provided excerpts, focusing instead on cybersecurity and data protection.
+
+**Contextual Considerations:** As a manufacturer of industrial machinery, the company may not currently prioritize AI integration in its core operations, which could influence its AI readiness assessment.
+
+**Confidence Level:** Low - due to the limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Norfolk Southern  
+Sector: Industrials  
+Industry: Rail Transportation
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.05/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of cybersecurity threats, indicating its use for operational enhancement rather than as a core business driver.
+- **Dimension 2 Evidence:** Data security protocols are in place, but no advanced analytics capabilities are discussed.
+- **Dimension 3 Evidence:** References to cloud services and disaster recovery plans suggest a modernizing technology infrastructure.
+- **Dimension 4 Evidence:** No mention of AI skills development or hiring initiatives in the provided excerpts.
+- **Dimension 5 Evidence:** The requirement for service providers to adhere to data security standards indicates developing governance structures.
+
+**Strategic AI Positioning:** AI is primarily viewed as a tool for enhancing cybersecurity measures rather than a strategic business driver.
+
+**Contextual Considerations:** As a rail transportation company, Norfolk Southern's focus on operational efficiency and security may influence its AI readiness.
+
+**Confidence Level:** Medium - based on the specificity of AI-related mentions in the context of cybersecurity.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Northern Trust  
+Sector: Financials  
+Industry: Asset Management & Custody Banks
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 4/5
+
+**Overall AI-Readiness Score:** 3.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is used to process transactional activity more efficiently and mitigate risk, indicating its strategic importance.
+- **Dimension 2 Evidence:** The use of AI solutions for risk analysis and monitoring suggests advanced analytics capabilities.
+- **Dimension 3 Evidence:** The mention of internet-based solutions and cloud technologies indicates a modernizing infrastructure.
+- **Dimension 4 Evidence:** The company invests in AI and machine learning solutions, indicating a focus on human capital development.
+- **Dimension 5 Evidence:** Processes and controls are in place to mitigate AI-related risks, showing structured governance.
+
+**Strategic AI Positioning:** AI is integral to Northern Trust's operations, enhancing efficiency and risk management, and is strategically important for maintaining competitive advantage.
+
+**Contextual Considerations:** As a financial services company, Northern Trust's emphasis on AI for risk management and efficiency aligns with industry trends towards digital transformation.
+
+**Confidence Level:** High - due to the detailed AI-related disclosures and strategic positioning in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Northrop Grumman  
+Sector: Industrials  
+Industry: Aerospace & Defense
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.25/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of risk management and operational challenges, indicating its role as a business enabler.
+- **Dimension 2 Evidence:** Data security and supplier engagement indicate intermediate analytics capabilities.
+- **Dimension 3 Evidence:** The use of machine learning for employee training and cybersecurity assessments suggests advanced digital capabilities.
+- **Dimension 4 Evidence:** The mention of personalized learning experiences for employees indicates efforts in building AI skills.
+- **Dimension 5 Evidence:** Cybersecurity governance is well-structured, but specific AI governance is not detailed.
+
+**Strategic AI Positioning:** AI is used to enhance operations and manage risks, playing a significant role in Northrop Grumman's strategic initiatives.
+
+**Contextual Considerations:** As a defense contractor, Northrop Grumman's focus on AI for risk management and operational efficiency is consistent with industry requirements for advanced technology integration.
+
+**Confidence Level:** Medium - based on the breadth of AI-related activities mentioned in the report excerpts.
+
+### END COMPANY REPORT

@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Constellation Brands  
+Sector: Consumer Staples  
+Industry: Distillers & Vintners
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K mentions AI primarily in the context of cybersecurity and digital marketing, indicating it is used for operational enhancement rather than as a core business driver.
+- **Dimension 2 Evidence:** References to data analytics are tied to marketing optimization, but there is no mention of advanced analytics infrastructure.
+- **Dimension 3 Evidence:** The company relies on complex information systems and third-party networks, but there is no detailed discussion of cloud adoption or modern digital platforms.
+- **Dimension 4 Evidence:** No specific mention of AI-related talent acquisition or skills development programs in the 10-K excerpts.
+- **Dimension 5 Evidence:** General mention of cybersecurity risks associated with AI, but no specific AI governance framework is outlined.
+
+**Strategic AI Positioning:** AI is used for enhancing marketing and cybersecurity, but it is not central to the company's core business strategy or value proposition.
+
+**Contextual Considerations:** As a leading beverage company, Constellation Brands operates in a sector where AI is not typically central to the core business model, which may influence its slower adoption of AI as a strategic driver.
+
+**Confidence Level:** Medium - Based on limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Constellation Energy  
+Sector: Utilities  
+Industry: Electric Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.75/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of external investments by hyperscalers and cybersecurity threats, not as a strategic business driver for Constellation Energy itself.
+- **Dimension 2 Evidence:** No evidence of advanced data infrastructure or analytics capabilities is provided in the excerpts.
+- **Dimension 3 Evidence:** The excerpts do not provide specific information about the company's technology infrastructure or cloud adoption.
+- **Dimension 4 Evidence:** There is no mention of AI-related human capital initiatives or skills development programs.
+- **Dimension 5 Evidence:** AI is mentioned in the context of cybersecurity risks, but no specific governance framework is discussed.
+
+**Strategic AI Positioning:** AI is not currently a strategic focus for Constellation Energy, with mentions limited to external influences and cybersecurity.
+
+**Contextual Considerations:** As a utility company, Constellation Energy operates in an industry where AI may be more relevant for operational efficiency and cybersecurity rather than as a core strategic driver.
+
+**Confidence Level:** Medium - Based on limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Cooper Companies (The)  
+Sector: Health Care  
+Industry: Health Care Supplies
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.40/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of regulatory compliance and post-market surveillance, indicating a focus on operational enhancement.
+- **Dimension 2 Evidence:** The company discusses cloud computing arrangements and data security, suggesting an intermediate level of data infrastructure maturity.
+- **Dimension 3 Evidence:** Mentions of cloud computing and system integrations indicate a modernizing technology infrastructure.
+- **Dimension 4 Evidence:** No specific AI talent strategies are mentioned, but there are general references to technology-related roles.
+- **Dimension 5 Evidence:** Basic cybersecurity and risk management practices are mentioned, but no specific AI governance framework is outlined.
+
+**Strategic AI Positioning:** AI is used for compliance and operational purposes, but it is not central to the company's strategic vision.
+
+**Contextual Considerations:** In the healthcare sector, regulatory compliance and data security are critical, which may influence the company's focus on these areas over strategic AI initiatives.
+
+**Confidence Level:** Medium - Based on moderate AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Copart  
+Sector: Industrials  
+Industry: Diversified Support Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.75/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI and machine learning are integral to Copart's services, such as predictive analytics and auction processes, indicating a strategic differentiator role.
+- **Dimension 2 Evidence:** Use of predictive analytics and data-driven customer personalization suggests sophisticated data infrastructure.
+- **Dimension 3 Evidence:** The company utilizes cloud-based platforms and APIs for integration, indicating advanced technology infrastructure.
+- **Dimension 4 Evidence:** Some references to technology roles and training, but no specific AI talent strategies are detailed.
+- **Dimension 5 Evidence:** Basic governance structures are in place, with mentions of cybersecurity and risk management.
+
+**Strategic AI Positioning:** AI is a strategic differentiator for Copart, enhancing its auction services and customer experience.
+
+**Contextual Considerations:** As a leader in online vehicle auctions, Copart's business model naturally aligns with leveraging AI for competitive advantage.
+
+**Confidence Level:** High - Based on detailed AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT

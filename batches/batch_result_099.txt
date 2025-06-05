@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: RTX Corporation  
+Sector: Industrials  
+Industry: Aerospace & Defense
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 1/5
+
+**Overall AI-Readiness Score:** 2.25/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K excerpts do not specifically mention AI as a strategic business driver, focusing more on general risks and operational challenges.
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities in the excerpts.
+- **Dimension 3 Evidence:** While the excerpts do not detail technology infrastructure, RTX's supplementary information suggests ongoing modernization efforts.
+- **Dimension 4 Evidence:** No specific mention of AI-related human capital initiatives in the excerpts.
+- **Dimension 5 Evidence:** No mention of AI governance or responsible implementation practices in the excerpts.
+
+**Strategic AI Positioning:** AI is not prominently featured as a strategic driver in the provided excerpts, indicating it is not central to RTX's current business model.
+
+**Contextual Considerations:** As a major player in aerospace and defense, RTX's focus may be on traditional engineering and manufacturing capabilities rather than AI, influencing the lower AI readiness scores.
+
+**Confidence Level:** Low - due to the lack of specific AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Realty Income  
+Sector: Real Estate  
+Industry: Retail REITs
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 1/5
+
+**Overall AI-Readiness Score:** 2.15/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of predictive analytics for portfolio monitoring, indicating operational enhancement rather than strategic core.
+- **Dimension 2 Evidence:** The use of predictive analytics suggests some level of data infrastructure maturity.
+- **Dimension 3 Evidence:** No specific mention of advanced technology infrastructure in the excerpts.
+- **Dimension 4 Evidence:** No mention of AI-related human capital development in the excerpts.
+- **Dimension 5 Evidence:** No mention of AI governance or responsible implementation practices in the excerpts.
+
+**Strategic AI Positioning:** AI is used for operational enhancements like predictive analytics but is not central to Realty Income's business strategy.
+
+**Contextual Considerations:** As a REIT, Realty Income's primary focus is on real estate management rather than technology innovation, affecting its AI readiness.
+
+**Confidence Level:** Medium - some evidence of data analytics but limited AI-specific disclosures.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Regency Centers  
+Sector: Real Estate  
+Industry: Retail REITs
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.05/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of risks and challenges, not as a strategic driver.
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities in the excerpts.
+- **Dimension 3 Evidence:** No specific mention of technology infrastructure advancements in the excerpts.
+- **Dimension 4 Evidence:** No mention of AI-related human capital development in the excerpts.
+- **Dimension 5 Evidence:** Mentions of AI-related risks suggest some awareness of governance issues.
+
+**Strategic AI Positioning:** AI is primarily discussed in terms of risks, indicating it is not a strategic focus for Regency Centers.
+
+**Contextual Considerations:** As a retail REIT, Regency Centers may prioritize real estate management over AI, impacting its readiness scores.
+
+**Confidence Level:** Low - limited AI-specific disclosures and focus on risk rather than strategic use.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Regeneron Pharmaceuticals  
+Sector: Health Care  
+Industry: Biotechnology
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.40/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is used in the biopharmaceutical industry, indicating it enhances operations but is not yet core.
+- **Dimension 2 Evidence:** Use of cloud computing for laboratory automation and high-quality throughput suggests advanced data infrastructure.
+- **Dimension 3 Evidence:** Cloud computing and innovative approaches indicate a modern technology infrastructure.
+- **Dimension 4 Evidence:** No specific mention of AI-related human capital development, but general technology skills are implied.
+- **Dimension 5 Evidence:** Mentions of AI-related risks and regulations indicate developing governance structures.
+
+**Strategic AI Positioning:** AI is used to enhance operations, particularly in drug discovery and genomics, but is not yet central to Regeneron's strategy.
+
+**Contextual Considerations:** As a biotechnology company, Regeneron is likely to leverage AI for research and development, influencing its higher readiness scores.
+
+**Confidence Level:** Medium - evidence of AI use in operations, but limited strategic focus in the excerpts.
+
+### END COMPANY REPORT

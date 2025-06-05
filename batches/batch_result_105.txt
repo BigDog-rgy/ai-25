@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Smurfit Westrock  
+Sector: Materials  
+Industry: Paper & Plastic Packaging Products & Materials
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.05/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K mentions AI in the context of competitors using AI and machine learning solutions, indicating a focus on external pressures rather than internal strategic use.
+- **Dimension 2 Evidence:** The report primarily discusses data governance in terms of cybersecurity and data privacy risks, with no mention of advanced analytics capabilities.
+- **Dimension 3 Evidence:** There is a focus on cybersecurity and data privacy, but no specific mention of modern technology infrastructure or cloud adoption.
+- **Dimension 4 Evidence:** No specific mentions of AI-related talent acquisition or skills development programs.
+- **Dimension 5 Evidence:** The Board oversees cybersecurity risks, including data privacy and security, indicating some governance structures are in place.
+
+**Strategic AI Positioning:** AI is not currently a strategic business driver for Smurfit Westrock, with mentions limited to competitive pressures rather than internal initiatives.
+
+**Contextual Considerations:** As a company in the materials sector, the focus on packaging products may limit immediate AI applications, influencing the lower scores in AI strategy and human capital.
+
+**Confidence Level:** Medium - The report provides limited AI-specific details, focusing more on cybersecurity and competitive pressures.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Snap-on  
+Sector: Industrials  
+Industry: Industrial Machinery & Supplies & Components
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.10/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned as necessary to keep pace with technological developments, but not as a core strategic driver.
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** Mentions of cybersecurity risks but no detailed discussion on modern technology infrastructure.
+- **Dimension 4 Evidence:** General awareness of technological developments but no specific AI skills development programs mentioned.
+- **Dimension 5 Evidence:** The Audit Committee reviews risk exposures, including those related to cybersecurity, indicating some governance awareness.
+
+**Strategic AI Positioning:** AI is recognized as important for future competitiveness but is not currently central to Snap-on's business strategy.
+
+**Contextual Considerations:** As a tool manufacturer, Snap-on's industry may not yet fully leverage AI, affecting its readiness scores.
+
+**Confidence Level:** Medium - The excerpts provide some context but lack depth in AI-specific initiatives.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Solventum  
+Sector: Health Care  
+Industry: Health Care Technology
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.30/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** Solventum plans to integrate AI into its digital offerings, indicating a strategic role but with acknowledged risks and challenges.
+- **Dimension 2 Evidence:** Strong emphasis on leveraging data science and digital capabilities, suggesting a sophisticated data infrastructure.
+- **Dimension 3 Evidence:** Mentions of cloud computing arrangements and digital capabilities, but no specific cloud provider partnerships.
+- **Dimension 4 Evidence:** References to data science capabilities suggest some focus on AI skills, but no detailed talent strategies.
+- **Dimension 5 Evidence:** Awareness of AI risks and challenges, but no detailed governance framework mentioned.
+
+**Strategic AI Positioning:** AI is positioned as a business enabler, particularly in enhancing Solventum's digital offerings in healthcare technology.
+
+**Contextual Considerations:** As a healthcare technology company, Solventum's focus on digital and data science capabilities aligns with industry trends towards AI integration.
+
+**Confidence Level:** High - The report provides detailed insights into AI and data strategies.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Southern Company  
+Sector: Utilities  
+Industry: Electric Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.20/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of cybersecurity risks and power needs for data centers, not as a core business driver.
+- **Dimension 2 Evidence:** Limited discussion on data infrastructure beyond cybersecurity and data security.
+- **Dimension 3 Evidence:** Mentions of cloud computing costs and projects, indicating some modernization efforts.
+- **Dimension 4 Evidence:** No mention of AI-related human capital initiatives or skills development.
+- **Dimension 5 Evidence:** Some governance structures for cybersecurity and data security, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is not a strategic business driver but is recognized for its impact on cybersecurity and infrastructure demands.
+
+**Contextual Considerations:** As a utility company, Southern Company's focus on infrastructure and cybersecurity aligns with industry priorities, impacting its AI readiness.
+
+**Confidence Level:** Medium - The report provides some context but lacks depth in AI-specific initiatives.
+
+### END COMPANY REPORT

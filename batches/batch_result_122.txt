@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Waste Management  
+Sector: Industrials  
+Industry: Environmental & Facilities Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.65/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K mentions AI primarily in the context of potential risks and the need to adapt to AI technologies, indicating it is not yet a strategic driver.
+- **Dimension 2 Evidence:** References to the use of cloud computing services suggest some level of data infrastructure development.
+- **Dimension 3 Evidence:** Mentions of cloud computing and digital platforms indicate a strategy towards modernizing technology infrastructure.
+- **Dimension 4 Evidence:** No specific evidence of AI skills development or hiring initiatives related to AI was found.
+- **Dimension 5 Evidence:** The Board exercises oversight on AI governance, indicating awareness of AI risks and governance structures.
+
+**Strategic AI Positioning:** Waste Management is aware of AI's potential impact but currently views it more as a risk to be managed rather than a strategic enabler or driver.
+
+**Contextual Considerations:** As a leader in waste management, the company’s focus on AI is likely influenced by the need to manage operational efficiency and regulatory compliance rather than innovation.
+
+**Confidence Level:** Medium - The report provides some insights into AI considerations, but lacks depth in strategic AI initiatives.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Waters Corporation  
+Sector: Health Care  
+Industry: Life Sciences Tools & Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.70/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The company is beginning to integrate AI into operations and products, indicating a developing role for AI as a business enabler.
+- **Dimension 2 Evidence:** No specific advanced data infrastructure is mentioned, but the company is aware of AI's data requirements.
+- **Dimension 3 Evidence:** Limited evidence of modern technology infrastructure; focus is on managing cybersecurity risks.
+- **Dimension 4 Evidence:** No specific initiatives for AI skills development are mentioned.
+- **Dimension 5 Evidence:** Awareness of AI risks and governance structures is indicated, but no comprehensive framework is detailed.
+
+**Strategic AI Positioning:** Waters Corporation is in the early stages of integrating AI, focusing on research and initial deployment, with potential for future strategic importance.
+
+**Contextual Considerations:** The company operates in a highly technical field, which may necessitate future AI integration for competitive advantage.
+
+**Confidence Level:** Medium - The excerpts provide some insight into AI initiatives but lack detailed strategic plans.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: WEC Energy Group  
+Sector: Utilities  
+Industry: Electric Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 1/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 1/5
+
+**Overall AI-Readiness Score:** 1.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic driver in the provided excerpts.
+- **Dimension 2 Evidence:** No evidence of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** No discussion of modern technology infrastructure or digital capabilities.
+- **Dimension 4 Evidence:** No mention of AI skills development or hiring initiatives.
+- **Dimension 5 Evidence:** No discussion of AI governance or responsible implementation.
+
+**Strategic AI Positioning:** AI does not appear to be a focus for WEC Energy Group based on the provided excerpts.
+
+**Contextual Considerations:** As a utility company, the focus may be more on operational reliability and regulatory compliance than on AI innovation.
+
+**Confidence Level:** Low - The lack of AI-related content in the excerpts limits the ability to assess AI readiness.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Wells Fargo  
+Sector: Financials  
+Industry: Diversified Banks
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 1/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 1/5
+
+**Overall AI-Readiness Score:** 1.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic driver in the provided excerpts.
+- **Dimension 2 Evidence:** No evidence of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** No discussion of modern technology infrastructure or digital capabilities.
+- **Dimension 4 Evidence:** No mention of AI skills development or hiring initiatives.
+- **Dimension 5 Evidence:** No discussion of AI governance or responsible implementation.
+
+**Strategic AI Positioning:** The excerpts do not provide any indication of AI being a strategic focus for Wells Fargo.
+
+**Contextual Considerations:** As a large financial institution, Wells Fargo may have internal AI initiatives not reflected in the provided excerpts.
+
+**Confidence Level:** Low - The lack of AI-related content in the excerpts limits the ability to assess AI readiness.
+
+### END COMPANY REPORT

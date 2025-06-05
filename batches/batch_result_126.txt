@@ -1,0 +1,89 @@
+### BEGIN COMPANY REPORT
+Company: Zebra Technologies  
+Sector: Information Technology  
+Industry: Electronic Equipment & Instruments
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.55/5.00  
+(Calculated as: 4×0.35 + 3×0.25 + 4×0.20 + 3×0.15 + 3×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K excerpts highlight that AI is integral to Zebra Technologies' offerings, providing real-time visibility and actionable insights, which are crucial for transforming workflows and creating value for customers.
+- **Dimension 2 Evidence:** The company leverages big data and AI for real-time data analysis, indicating intermediate analytics capabilities.
+- **Dimension 3 Evidence:** Zebra Technologies mentions cloud-based software subscriptions and disruptions to IT systems, indicating a comprehensive adoption of cloud and modern infrastructure.
+- **Dimension 4 Evidence:** While the company is in the early phases of AI development, there is no specific mention of hiring or training initiatives for AI skills, suggesting a building stage.
+- **Dimension 5 Evidence:** The company has implemented certain governance programs to mitigate ethical and legal issues with AI, indicating a developing stage in AI governance.
+
+**Strategic AI Positioning:** AI is strategically important for Zebra Technologies, enhancing their product offerings and providing significant competitive advantages through real-time data insights and workflow transformation.
+
+**Contextual Considerations:** As a company in the Information Technology sector, Zebra Technologies' focus on AI aligns with industry trends, enhancing their competitive positioning in electronic equipment and instruments.
+
+**Confidence Level:** Medium - The report provides a good overview of AI integration, but lacks detailed specifics on human capital and governance structures.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Zimmer Biomet  
+Sector: Health Care  
+Industry: Health Care Equipment
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.00/5.00  
+(Calculated as: 3×0.35 + 3×0.25 + 3×0.20 + 3×0.15 + 3×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI and machine learning are incorporated into new products and digital technologies, enhancing Zimmer Biomet's offerings but not yet core to their business model.
+- **Dimension 2 Evidence:** The use of AI and data analytics in product development suggests intermediate data infrastructure capabilities.
+- **Dimension 3 Evidence:** Mentions of cloud computing arrangements and cybersecurity measures indicate a modernizing technology infrastructure.
+- **Dimension 4 Evidence:** The acquisition of Orthogrid Systems, focused on AI-driven surgical guidance, suggests efforts to build AI skills and capabilities.
+- **Dimension 5 Evidence:** The company acknowledges emerging AI regulations and has cybersecurity measures in place, indicating developing governance practices.
+
+**Strategic AI Positioning:** AI is an enabler for Zimmer Biomet, enhancing product capabilities and supporting digital transformation efforts in the healthcare equipment sector.
+
+**Contextual Considerations:** As a healthcare equipment provider, Zimmer Biomet's AI initiatives are aligned with industry needs for advanced medical technologies and regulatory compliance.
+
+**Confidence Level:** Medium - The excerpts provide a balanced view of AI integration, but more details on specific AI projects and governance would enhance confidence.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Zoetis  
+Sector: Health Care  
+Industry: Pharmaceuticals
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.80/5.00  
+(Calculated as: 3×0.35 + 3×0.25 + 3×0.20 + 2×0.15 + 2×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is used in the Vetscan Imagyst platform for diagnostics, indicating it enhances product offerings but is not yet central to the business model.
+- **Dimension 2 Evidence:** Investments in data and digital capabilities, including AI, suggest intermediate analytics capabilities.
+- **Dimension 3 Evidence:** Capitalization of cloud computing costs indicates a modernizing technology infrastructure.
+- **Dimension 4 Evidence:** There is no specific mention of AI talent acquisition or training programs, indicating limited focus on human capital development in AI.
+- **Dimension 5 Evidence:** The excerpts do not provide evidence of specific AI governance frameworks, indicating a basic level of governance.
+
+**Strategic AI Positioning:** AI is used to enhance Zoetis' diagnostic capabilities, providing competitive advantages in the pharmaceuticals sector but not yet a core business driver.
+
+**Contextual Considerations:** As a pharmaceutical company, Zoetis' use of AI in diagnostics aligns with industry trends towards precision medicine and advanced analytics.
+
+**Confidence Level:** Medium - The report provides insights into AI applications, but lacks detailed information on governance and human capital strategies.
+
+### END COMPANY REPORT

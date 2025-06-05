@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Caterpillar Inc.  
+Sector: Industrials  
+Industry: Construction Machinery & Heavy Transportation Equipment
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of supporting data center growth related to cloud computing and generative AI, but there is no indication that AI is central to Caterpillar's core business model.
+- **Dimension 2 Evidence:** The excerpts do not provide evidence of advanced analytics capabilities or a comprehensive data strategy beyond basic operational reporting.
+- **Dimension 3 Evidence:** No specific mentions of cloud adoption or modern technology infrastructure were found in the excerpts.
+- **Dimension 4 Evidence:** There is no discussion about talent acquisition or skills development programs related to AI or advanced analytics.
+- **Dimension 5 Evidence:** Cybersecurity processes are part of the enterprise risk management program, but there is no specific mention of AI governance or ethical considerations.
+
+**Strategic AI Positioning:** AI is referenced in relation to supporting infrastructure (data centers) but not as a core strategic driver for Caterpillar's business operations.
+
+**Contextual Considerations:** Caterpillar operates in a traditional industrial sector where AI adoption may be more focused on operational efficiency rather than being a core business driver.
+
+**Confidence Level:** Medium - The specificity of AI-related disclosures in the report excerpts is limited.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Cboe Global Markets  
+Sector: Financials  
+Industry: Financial Exchanges & Data
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.30/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is explored for driving new products, increasing productivity, and improving oversight responsibilities, indicating its role as a business enabler.
+- **Dimension 2 Evidence:** Mentions of cloud services and technology support services indicate some level of data infrastructure maturity.
+- **Dimension 3 Evidence:** The company has a comprehensive cloud services strategy with significant financial commitments, suggesting advanced digital capabilities.
+- **Dimension 4 Evidence:** No specific AI talent strategies are mentioned, but the focus on emerging technologies implies a need for skilled personnel.
+- **Dimension 5 Evidence:** Basic awareness of AI-related risks and cybersecurity practices is evident, but no detailed AI governance framework is outlined.
+
+**Strategic AI Positioning:** AI is used to enhance productivity and develop new products, playing a significant role in Cboe's strategic initiatives.
+
+**Contextual Considerations:** As a financial exchange, Cboe's focus on technology and data is critical, influencing its AI readiness.
+
+**Confidence Level:** High - The excerpts provide a clear picture of Cboe's technology and AI-related initiatives.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: CBRE Group  
+Sector: Real Estate  
+Industry: Real Estate Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** Significant investments in AI and machine learning technologies for competitive advantages and efficiencies.
+- **Dimension 2 Evidence:** The company mentions the use of AI tools, indicating some level of data analytics capabilities.
+- **Dimension 3 Evidence:** References to cloud computing and data security suggest ongoing modernization efforts.
+- **Dimension 4 Evidence:** No specific AI skills development programs are mentioned, indicating a general awareness level.
+- **Dimension 5 Evidence:** Oversight of IT risks, including cybersecurity and data security, is mentioned, but AI-specific governance is not detailed.
+
+**Strategic AI Positioning:** AI is used to achieve efficiencies and competitive advantages, indicating its role as a business enabler.
+
+**Contextual Considerations:** As a leader in real estate services, CBRE's adoption of AI is crucial for maintaining its competitive edge.
+
+**Confidence Level:** Medium - The excerpts provide a moderate level of detail on AI initiatives.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: CDW Corporation  
+Sector: Information Technology  
+Industry: Technology Distributors
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.80/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is integral to CDW's offerings, driving efficiency and business-critical functions, indicating strategic differentiation.
+- **Dimension 2 Evidence:** The company leverages cloud-native deployment and AI for scalable technology implementations, suggesting advanced data infrastructure.
+- **Dimension 3 Evidence:** Strong cloud computing capabilities and strategic acquisitions enhance digital capabilities.
+- **Dimension 4 Evidence:** References to AI-related risks and challenges imply a need for skilled personnel, but specific talent strategies are not detailed.
+- **Dimension 5 Evidence:** Awareness of AI-related ethical and safety issues is mentioned, but a comprehensive governance framework is not outlined.
+
+**Strategic AI Positioning:** AI is a strategic differentiator for CDW, enhancing its product offerings and operational efficiency.
+
+**Contextual Considerations:** As a technology distributor, CDW's focus on AI and cloud solutions is critical for maintaining its competitive position.
+
+**Confidence Level:** High - The excerpts provide detailed insights into CDW's AI and technology strategies.
+
+### END COMPANY REPORT

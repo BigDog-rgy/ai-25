@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Cardinal Health  
+Sector: Health Care  
+Industry: Health Care Distributors
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.80/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The PPS Analytics platform uses AI for transforming data into actionable insights, indicating AI as a business enabler.
+- **Dimension 2 Evidence:** Mention of data governance structures and the use of modern data analytics capabilities.
+- **Dimension 3 Evidence:** No specific mention of cloud adoption or modern technology infrastructure; focus is on maintaining existing systems.
+- **Dimension 4 Evidence:** No specific mention of AI-related hiring or training programs.
+- **Dimension 5 Evidence:** References to data governance and the importance of maintaining data integrity, including systems powered by AI.
+
+**Strategic AI Positioning:** AI is used to enhance data analytics capabilities, which supports Cardinal Health's operations and customer insights, but it is not central to the core business model.
+
+**Contextual Considerations:** As a large healthcare distributor, Cardinal Health's use of AI primarily supports operational efficiency and data management, which is typical for its industry.
+
+**Confidence Level:** Medium - The report provides some insights into AI usage, but lacks depth in technology infrastructure and human capital development.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: CarMax  
+Sector: Consumer Discretionary  
+Industry: Automotive Retail
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is integral to customer experience through Skye, the AI-powered virtual assistant, and is part of the omni-channel strategy.
+- **Dimension 2 Evidence:** Advanced data science and AI capabilities are used to optimize business and customer experience.
+- **Dimension 3 Evidence:** Investments in omni-channel platforms and AI-driven systems indicate a modern technology infrastructure.
+- **Dimension 4 Evidence:** Significant hiring of technology and data science associates, along with reskilling programs.
+- **Dimension 5 Evidence:** General mention of cybersecurity and data privacy risks related to AI, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is a strategic differentiator for CarMax, enhancing customer interaction and operational efficiency, and is embedded in their omni-channel strategy.
+
+**Contextual Considerations:** CarMax's focus on digital transformation and AI integration aligns with trends in the automotive retail industry to enhance customer experience and operational efficiency.
+
+**Confidence Level:** High - The report provides comprehensive details on AI initiatives and infrastructure.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Carnival  
+Sector: Consumer Discretionary  
+Industry: Hotels, Resorts & Cruise Lines
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.05/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI integration is mentioned in the context of cybersecurity risks, not as a core business driver.
+- **Dimension 2 Evidence:** Limited discussion on data infrastructure beyond cybersecurity assessments.
+- **Dimension 3 Evidence:** No specific mention of modern technology infrastructure or cloud adoption.
+- **Dimension 4 Evidence:** No mention of AI-related hiring or training programs.
+- **Dimension 5 Evidence:** Cybersecurity governance is discussed, with a focus on risk management and compliance.
+
+**Strategic AI Positioning:** AI is not a strategic focus for Carnival, with mentions primarily related to cybersecurity risks.
+
+**Contextual Considerations:** As a cruise line operator, Carnival's focus is more on operational risk management than on AI-driven innovation.
+
+**Confidence Level:** Low - The report lacks specific details on AI initiatives and infrastructure.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Carrier Global  
+Sector: Industrials  
+Industry: Building Products
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.35/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic business driver.
+- **Dimension 2 Evidence:** No discussion of data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** Mention of AWS indicates some steps towards cloud adoption, but no comprehensive strategy.
+- **Dimension 4 Evidence:** No mention of AI-related hiring or training programs.
+- **Dimension 5 Evidence:** Basic mention of cybersecurity, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is not currently a focus for Carrier Global, with minimal mention in the context of technology infrastructure.
+
+**Contextual Considerations:** As a building products company, Carrier Global's focus is more on traditional manufacturing and distribution rather than AI-driven innovation.
+
+**Confidence Level:** Low - The report provides minimal information on AI initiatives and infrastructure.
+
+### END COMPANY REPORT

@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Royal Caribbean Group  
+Sector: Consumer Discretionary  
+Industry: Hotels, Resorts & Cruise Lines
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "We have continued to expand digital capabilities into our operations and have increased our focus in bringing data analytics and artificial intelligence into our processes to provide better insights for revenue management as well as in how to model our maintenance or operational actions."
+- **Dimension 2 Evidence:** The mention of using data analytics for revenue management and operational modeling suggests intermediate analytics capabilities.
+- **Dimension 3 Evidence:** The expansion of digital capabilities indicates a strategy for modernizing technology infrastructure.
+- **Dimension 4 Evidence:** No specific mention of AI talent acquisition or training programs in the excerpts.
+- **Dimension 5 Evidence:** General mention of cybersecurity threats but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is used to enhance revenue management and operational processes, indicating it plays a role as a business enabler but is not yet a core strategic driver.
+
+**Contextual Considerations:** As a major player in the cruise line industry, Royal Caribbean's focus on AI for operational efficiency is consistent with industry trends towards digital transformation.
+
+**Confidence Level:** Medium - The excerpts provide some insights into AI initiatives but lack depth in governance and human capital development.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: S&P Global  
+Sector: Financials  
+Industry: Financial Exchanges & Data
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 4.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Protecting and growing revenue by integrating generative artificial intelligence (“AI”) into product and creating new products."
+- **Dimension 2 Evidence:** Acquisition of ProntoNLP indicates advanced analytics capabilities.
+- **Dimension 3 Evidence:** Mention of integrating AI into products and creating new offerings suggests advanced digital capabilities.
+- **Dimension 4 Evidence:** The acquisition of AI companies like ProntoNLP suggests a focus on acquiring AI talent.
+- **Dimension 5 Evidence:** Some awareness of AI risks and cybersecurity threats, but no detailed governance framework mentioned.
+
+**Strategic AI Positioning:** AI is a strategic differentiator for S&P Global, driving product innovation and revenue growth.
+
+**Contextual Considerations:** As a leader in financial data and analytics, S&P Global's integration of AI is critical for maintaining its competitive edge.
+
+**Confidence Level:** High - The report provides substantial evidence of strategic AI integration and infrastructure.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Salesforce  
+Sector: Information Technology  
+Industry: Application Software
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 5/5
+- Dimension 2 (Data Infrastructure and Analytics): 5/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 5/5
+- Dimension 4 (Human Capital and AI Skills): 5/5
+- Dimension 5 (AI Governance and Responsible Implementation): 4/5
+
+**Overall AI-Readiness Score:** 4.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Our AI-powered Salesforce Platform unites our offerings — spanning sales, service, marketing, commerce, collaboration, integration, AI, analytics, automation, industries and more."
+- **Dimension 2 Evidence:** "The Salesforce Platform enables companies of all industries, sizes, and locations to build business workflows, applications and AI agents on a single, comprehensive platform."
+- **Dimension 3 Evidence:** "With Agentforce, our suite of customizable AI agents and tools, Salesforce brings autonomous AI, unified data and applications together on one deeply unified platform."
+- **Dimension 4 Evidence:** "Our AI technology enables service teams to automatically route cases to the best service agent for the job."
+- **Dimension 5 Evidence:** "Our Trust Layer is built into the Salesforce Platform to help customers safely use their data and set guardrails on what AI agents do with that data."
+
+**Strategic AI Positioning:** AI is core to Salesforce's value proposition, deeply integrated into its platform and services, driving customer engagement and operational efficiency.
+
+**Contextual Considerations:** As a leading cloud-based software company, Salesforce's comprehensive AI strategy is essential for maintaining its market leadership.
+
+**Confidence Level:** High - The report provides extensive evidence of AI integration across all dimensions.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: SBA Communications  
+Sector: Real Estate  
+Industry: Telecom Tower REITs
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.20/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Consumers are increasing their demand for wireless connectivity due to the adoption of bandwidth-intensive wireless data applications, such as high-definition streaming, generative artificial intelligence."
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** "We are exploring ways to participate in edge computing infrastructure to support existing and future customers."
+- **Dimension 4 Evidence:** No specific mention of AI talent acquisition or training programs.
+- **Dimension 5 Evidence:** General mention of cybersecurity threats but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is currently not a strategic driver but is recognized as an emerging trend in the industry.
+
+**Contextual Considerations:** As a telecom tower REIT, SBA Communications' focus on infrastructure is consistent with industry needs, but AI integration appears limited.
+
+**Confidence Level:** Medium - The report provides limited insights into AI initiatives and governance.
+
+### END COMPANY REPORT

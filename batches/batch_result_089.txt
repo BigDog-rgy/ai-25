@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Old Dominion  
+Sector: Industrials  
+Industry: Cargo Ground Transportation
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.65/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "We currently incorporate AI solutions into our business, and these applications may become more important over time."
+- **Dimension 2 Evidence:** No direct evidence of advanced analytics capabilities; basic mention of cloud computing for storage needs.
+- **Dimension 3 Evidence:** "We rely on third parties to provide us with operational and technical services, such as hosting of our cloud computing and storage needs."
+- **Dimension 4 Evidence:** No specific mention of AI-related hiring or training programs.
+- **Dimension 5 Evidence:** "AI also presents emerging ethical issues and if our use of AI becomes controversial, we may experience brand or reputational harm."
+
+**Strategic AI Positioning:** AI is currently used to enhance operations and may grow in importance, but it is not yet central to Old Dominion's core business strategy.
+
+**Contextual Considerations:** As a logistics company, Old Dominion's use of AI is primarily operational. The industry focus on efficiency and logistics optimization influences their AI strategy.
+
+**Confidence Level:** Medium - The report provides some insight into AI use, but lacks depth in specific initiatives or outcomes.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Omnicom Group  
+Sector: Communication Services  
+Industry: Advertising
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 4/5
+
+**Overall AI-Readiness Score:** 3.75/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "We believe generative AI will have a significant effect on how we provide services to our clients and how we enhance the productivity of our people."
+- **Dimension 2 Evidence:** "We continually evaluate the use of AI in our business processes."
+- **Dimension 3 Evidence:** "In 2023, we entered into strategic partnerships with leading AI technology companies, enabling enhanced product and service capabilities in generative AI."
+- **Dimension 4 Evidence:** "We are working closely with our clients and technology partners to take advantage of the benefits of AI."
+- **Dimension 5 Evidence:** "We are committed to responsible AI practices and collaboration to harness AI's potential, while evaluating related risks."
+
+**Strategic AI Positioning:** AI is a strategic differentiator for Omnicom, enhancing service delivery and productivity, with a strong focus on responsible implementation.
+
+**Contextual Considerations:** As a leader in advertising, Omnicom's integration of AI into client services and internal processes is crucial for maintaining competitive advantage.
+
+**Confidence Level:** High - The report provides detailed insights into AI strategy, partnerships, and governance.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: ON Semiconductor  
+Sector: Information Technology  
+Industry: Semiconductors
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.80/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Our extensive range of power technologies are used to help power AI and related data centers and we expect this part of our business to grow."
+- **Dimension 2 Evidence:** "The emergence of big data and new tools such as machine learning and AI that capitalize on the availability of large data sets."
+- **Dimension 3 Evidence:** "Investments involve replacing existing systems, some of which are older, legacy systems that are less flexible and efficient, with successor systems."
+- **Dimension 4 Evidence:** No specific mention of AI-related hiring or training programs, but general technology talent acquisition is implied.
+- **Dimension 5 Evidence:** "AI presents risks and challenges and increasing legal, social and ethical concerns relating to its responsible use."
+
+**Strategic AI Positioning:** AI is integral to ON Semiconductor's product offerings, particularly in power technologies for AI data centers, positioning them as a key player in the semiconductor industry.
+
+**Contextual Considerations:** The semiconductor industry is highly competitive, and ON Semiconductor's focus on AI-driven power solutions is crucial for maintaining market position.
+
+**Confidence Level:** High - The report provides comprehensive insights into AI-driven product strategies and infrastructure investments.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Oneok  
+Sector: Energy  
+Industry: Oil & Gas Storage & Transportation
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.55/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic business driver.
+- **Dimension 2 Evidence:** No direct evidence of advanced analytics capabilities; mentions of data security and regulatory compliance.
+- **Dimension 3 Evidence:** No specific mention of modern technology infrastructure or cloud adoption.
+- **Dimension 4 Evidence:** No mention of AI-related hiring or training programs.
+- **Dimension 5 Evidence:** General mention of cybersecurity and regulatory compliance, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is not currently a strategic focus for Oneok, with no evidence of significant AI initiatives or infrastructure.
+
+**Contextual Considerations:** As an energy company, Oneok's focus is primarily on regulatory compliance and operational efficiency, with limited emphasis on AI.
+
+**Confidence Level:** Low - The report lacks specific AI-related disclosures, indicating minimal engagement with AI technologies.
+
+### END COMPANY REPORT

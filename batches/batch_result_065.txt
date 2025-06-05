@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Invesco  
+Sector: Financials  
+Industry: Asset Management & Custody Banks
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.15/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K excerpts mention AI primarily in the context of risks and challenges, with no clear indication that AI is central to Invesco's business strategy or competitive advantage.
+- **Dimension 2 Evidence:** There is no substantial discussion of advanced data infrastructure or analytics capabilities in the excerpts provided.
+- **Dimension 3 Evidence:** The excerpts do not provide evidence of a modern or advanced technology infrastructure, with only limited mentions of technology advancements.
+- **Dimension 4 Evidence:** No specific initiatives related to AI skills development or hiring are mentioned in the excerpts.
+- **Dimension 5 Evidence:** The excerpts discuss the legal and regulatory environment related to AI, indicating some awareness of AI governance issues.
+
+**Strategic AI Positioning:** Invesco appears to view AI as a potential risk rather than a strategic driver, focusing more on the challenges and regulatory aspects rather than leveraging AI for competitive advantage.
+
+**Contextual Considerations:** As a financial services company, Invesco operates in a highly regulated environment, which may influence its cautious approach to AI adoption.
+
+**Confidence Level:** Medium - The excerpts provide some insights into the company's stance on AI, but lack depth in strategic initiatives.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Invitation Homes  
+Sector: Real Estate  
+Industry: Single-Family Residential REITs
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 1/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.20/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K excerpts do not mention AI as a strategic business driver or provide evidence of AI integration into core operations.
+- **Dimension 2 Evidence:** There is no mention of data infrastructure or analytics capabilities in the provided excerpts.
+- **Dimension 3 Evidence:** The excerpts lack any discussion of modern technology infrastructure or digital capabilities.
+- **Dimension 4 Evidence:** No references to AI skills development or related human capital initiatives are present.
+- **Dimension 5 Evidence:** Basic awareness of AI-related risks is mentioned, but no specific governance framework is outlined.
+
+**Strategic AI Positioning:** AI does not appear to be a focus for Invitation Homes, with no strategic initiatives or investments highlighted in the excerpts.
+
+**Contextual Considerations:** As a real estate company, Invitation Homes may not prioritize AI in the same way as technology-driven sectors, focusing instead on property management and acquisition.
+
+**Confidence Level:** Low - The lack of specific AI-related content in the excerpts limits the ability to assess AI readiness accurately.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: IQVIA  
+Sector: Health Care  
+Industry: Life Sciences Tools & Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 5/5
+- Dimension 2 (Data Infrastructure and Analytics): 5/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 5/5
+- Dimension 5 (AI Governance and Responsible Implementation): 5/5
+
+**Overall AI-Readiness Score:** 4.75/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** IQVIA's 10-K highlights AI as a core component of its offerings, with AI embedded across its solutions and integral to its business strategy.
+- **Dimension 2 Evidence:** The company demonstrates a sophisticated data ecosystem, leveraging high-quality health data and advanced analytics for AI applications.
+- **Dimension 3 Evidence:** IQVIA has a robust technology infrastructure, though specific details on next-generation capabilities like edge computing are not mentioned.
+- **Dimension 4 Evidence:** The company invests heavily in AI skills development, with extensive training programs and a focus on AI talent acquisition.
+- **Dimension 5 Evidence:** IQVIA has a comprehensive AI governance framework, including policies for ethical AI use and compliance with international regulations.
+
+**Strategic AI Positioning:** AI is central to IQVIA's value proposition, driving innovation and efficiency in healthcare solutions and services.
+
+**Contextual Considerations:** As a leader in health information technology, IQVIA's advanced AI capabilities are aligned with its strategic goals in a data-intensive industry.
+
+**Confidence Level:** High - The detailed and comprehensive AI-related disclosures support a strong assessment of AI readiness.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Iron Mountain  
+Sector: Real Estate  
+Industry: Other Specialized REITs
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned as part of Iron Mountain's strategic growth plan, particularly in optimizing customer data for AI applications.
+- **Dimension 2 Evidence:** The use of data analytics and machine learning for customer acquisition is noted, indicating intermediate data capabilities.
+- **Dimension 3 Evidence:** The launch of the Insight Digital Experience Platform suggests a modernizing technology infrastructure.
+- **Dimension 4 Evidence:** There is no specific mention of AI skills development or hiring initiatives in the excerpts.
+- **Dimension 5 Evidence:** Basic governance structures are implied, with mentions of AI-related compliance and cybersecurity risks.
+
+**Strategic AI Positioning:** AI is used to enhance offerings and improve customer experience, but it is not yet a core driver of Iron Mountain's business model.
+
+**Contextual Considerations:** As a company focused on information management, Iron Mountain's AI initiatives are likely influenced by its need to modernize and remain competitive in a digital landscape.
+
+**Confidence Level:** Medium - The excerpts provide some insights into AI initiatives, but lack depth in certain areas such as human capital development.
+
+### END COMPANY REPORT

@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Tesla, Inc.  
+Sector: Consumer Discretionary  
+Industry: Automobile Manufacturers
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 5/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 5/5
+- Dimension 4 (Human Capital and AI Skills): 4/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 4.35/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** Tesla's AI capabilities are central to its competitive advantage, particularly in self-driving technology and robotics. The 10-K mentions, "AI is integral to products like Autopilot and FSD (Supervised)," indicating AI's core role in Tesla's value proposition.
+- **Dimension 2 Evidence:** The mention of "Cortex, our training cluster at Gigafactory Texas," suggests advanced data infrastructure supporting AI initiatives.
+- **Dimension 3 Evidence:** Tesla's investment in "AI-related capital expenditures" and "global factory expansion" shows a robust technology infrastructure optimized for AI.
+- **Dimension 4 Evidence:** The 10-K notes funding for "learners acquiring valuable skills in artificial intelligence," indicating a focus on developing AI skills.
+- **Dimension 5 Evidence:** The report discusses compliance with "artificial intelligence or security laws," suggesting awareness of AI governance, though not extensively detailed.
+
+**Strategic AI Positioning:** AI is fundamental to Tesla's business strategy, driving innovation in self-driving vehicles and robotics, which are key differentiators in the automotive industry.
+
+**Contextual Considerations:** Tesla's position as a leader in electric vehicles and its focus on AI-driven autonomy significantly influence its AI readiness, supported by its large scale and innovative culture.
+
+**Confidence Level:** High - The 10-K provides detailed and specific information on AI initiatives and infrastructure.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Texas Instruments  
+Sector: Information Technology  
+Industry: Semiconductors
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.30/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K mentions AI in the context of cybersecurity threats, not as a strategic business driver.
+- **Dimension 2 Evidence:** There is no mention of advanced analytics capabilities, only basic IT systems.
+- **Dimension 3 Evidence:** The company has a focus on "information technology systems," indicating some level of modernization.
+- **Dimension 4 Evidence:** No specific mention of AI skills development or hiring strategies in the 10-K.
+- **Dimension 5 Evidence:** General cybersecurity risk management is mentioned, but no specific AI governance framework.
+
+**Strategic AI Positioning:** AI is not a core component of Texas Instruments' strategic vision, with limited mention beyond cybersecurity contexts.
+
+**Contextual Considerations:** As a semiconductor company, Texas Instruments may focus more on hardware innovation than AI, affecting its AI readiness.
+
+**Confidence Level:** Medium - Limited AI-specific information in the 10-K excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Texas Pacific Land Corporation  
+Sector: Energy  
+Industry: Oil & Gas Exploration & Production
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 1.30/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** No mention of AI as a strategic business driver in the 10-K excerpts.
+- **Dimension 2 Evidence:** No discussion of data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** Basic IT policies and cybersecurity measures are mentioned.
+- **Dimension 4 Evidence:** No mention of AI skills development or technology talent acquisition.
+- **Dimension 5 Evidence:** Cybersecurity risk management is noted, but no AI-specific governance.
+
+**Strategic AI Positioning:** AI does not appear to play a role in Texas Pacific Land Corporation's strategy or operations.
+
+**Contextual Considerations:** As a land and resource management company, AI may not be as relevant to its core business model.
+
+**Confidence Level:** Low - The 10-K excerpts lack AI-specific content.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Textron  
+Sector: Industrials  
+Industry: Aerospace & Defense
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.30/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of cybersecurity threats, not as a strategic driver.
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** The company discusses "advanced driver assistance systems (ADAS)," indicating some digital capability.
+- **Dimension 4 Evidence:** No specific mention of AI talent development or hiring strategies.
+- **Dimension 5 Evidence:** Some awareness of AI-related risks in cybersecurity contexts.
+
+**Strategic AI Positioning:** AI is not central to Textron's strategy, with limited mentions related to cybersecurity and ADAS.
+
+**Contextual Considerations:** As an industrial conglomerate, Textron's focus may be more on manufacturing and engineering than AI.
+
+**Confidence Level:** Medium - Limited AI-specific information in the 10-K excerpts.
+
+### END COMPANY REPORT

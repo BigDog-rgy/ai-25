@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Corning Inc.  
+Sector: Information Technology  
+Industry: Electronic Components
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.85/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "The rapid acceleration of artificial intelligence (“AI”) is driving strong demand for fiber and connectivity products inside and between data centers."
+- **Dimension 2 Evidence:** No specific mention of advanced analytics capabilities or data-driven culture beyond supporting AI-related connectivity solutions.
+- **Dimension 3 Evidence:** "We invented new fibers, cables and connectors to capture the generative AI enterprise demand."
+- **Dimension 4 Evidence:** No specific mention of hiring or developing AI-related skills in the workforce.
+- **Dimension 5 Evidence:** "The rapid development and increasing adoption of emerging technologies, such as artificial intelligence and machine learning, may further complicate our ability to anticipate and implement effective protective measures against cyber events."
+
+**Strategic AI Positioning:** AI is a business enabler for Corning, particularly in driving demand for its optical communications products, but it is not yet core to the company's overall value proposition.
+
+**Contextual Considerations:** Corning's focus on advanced materials and technologies positions it well to leverage AI in enhancing its product offerings, particularly in optical communications, but the company's traditional focus on materials may limit the centrality of AI in its strategy.
+
+**Confidence Level:** Medium - The 10-K excerpts provide some insights into AI's role in product demand but lack depth in AI strategy and governance.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Corpay  
+Sector: Financials  
+Industry: Transaction & Payment Processing Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.65/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "We must respond to the technological advances offered by our competitors, including the use of artificial intelligence..."
+- **Dimension 2 Evidence:** "The credit review includes a combination of machine learning models, as well as judgmental underwriting based on customer financials."
+- **Dimension 3 Evidence:** "Additionally, as we develop new solutions and modernize legacy assets, we increasingly use cloud services."
+- **Dimension 4 Evidence:** No specific mention of AI-specific talent acquisition or training programs.
+- **Dimension 5 Evidence:** "Our information security program is designed to generally align with recommended practices in security standards..."
+
+**Strategic AI Positioning:** AI is primarily used for operational enhancements, such as credit review processes, but is not yet a strategic differentiator for Corpay.
+
+**Contextual Considerations:** As a financial services company, Corpay's use of AI in risk management and operational processes is crucial, but the company has not yet fully integrated AI into its core business strategy.
+
+**Confidence Level:** Medium - The excerpts provide a moderate level of detail on AI applications but lack comprehensive strategic insights.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Corteva  
+Sector: Materials  
+Industry: Fertilizers & Agricultural Chemicals
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.40/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "Speed in discovering, developing, protecting and responding to new technologies, including artificial intelligence... is a significant competitive advantage."
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** No specific mention of modern technology infrastructure or cloud adoption.
+- **Dimension 4 Evidence:** No specific mention of AI-specific talent acquisition or training programs.
+- **Dimension 5 Evidence:** "As these threats continue to evolve, particularly around cybersecurity and artificial intelligence, Corteva may be required to expend significant resources..."
+
+**Strategic AI Positioning:** AI is seen as a business enabler for accelerating product development timelines, but it is not yet central to Corteva's overall strategy.
+
+**Contextual Considerations:** As an agricultural company, Corteva's focus on AI for product development is strategic, but the lack of detailed infrastructure and talent strategies limits its AI readiness.
+
+**Confidence Level:** Medium - The excerpts provide some strategic insights but lack depth in infrastructure and talent development.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: CoStar Group  
+Sector: Real Estate  
+Industry: Real Estate Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.90/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** "To be successful, we must be able to quickly adapt to changes in the industry, as well as rapid technological changes, including AI and machine learning..."
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities beyond basic operational enhancements.
+- **Dimension 3 Evidence:** No specific mention of modern technology infrastructure or cloud adoption.
+- **Dimension 4 Evidence:** No specific mention of AI-specific talent acquisition or training programs.
+- **Dimension 5 Evidence:** "The tools and techniques (including AI) used to obtain unauthorized, improper, or illegal access to a target’s systems..."
+
+**Strategic AI Positioning:** AI is an important enabler for CoStar's information and analytics services, but it is not yet a core differentiator.
+
+**Contextual Considerations:** As a real estate services company, CoStar's use of AI in analytics and information services is strategic, but the lack of detailed infrastructure and talent strategies limits its AI readiness.
+
+**Confidence Level:** Medium - The excerpts provide a moderate level of detail on AI applications but lack comprehensive strategic insights.
+
+### END COMPANY REPORT

@@ -11,7 +11,7 @@ type CompanySummary = {
   isTopIndex?: boolean;
 };
 
-function calculateTopIndexWithWeights(companies: CompanySummary[], indexN = 5, bucketTop = 2) {
+function calculateTopIndexWithWeights(companies: CompanySummary[], indexN = 25, bucketTop = 10) {
   if (!companies || companies.length === 0) return {};
 
   // 1. Get top N by overall (AI-25)
@@ -66,7 +66,7 @@ export default async function Page() {
     .order("overall", { ascending: false }) as { data: CompanySummary[] | null };
 
   // 1. Calculate "top index" weights for top N (use 25 for real, or 5/9 for test)
-  const topIndexMap = calculateTopIndexWithWeights(rows || [], 10);
+  const topIndexMap = calculateTopIndexWithWeights(rows || [], 25);
 
   return (
     <main style={{ maxWidth: 700, margin: "2rem auto" }}>

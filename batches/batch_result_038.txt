@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: Dollar Tree  
+Sector: Consumer Staples  
+Industry: Consumer Staples Merchandise Retail
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.35/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The mention of AI is primarily in the context of regulatory compliance, indicating it is not central to the business model.
+- **Dimension 2 Evidence:** Use of predictive analytics for safety assistance shows some intermediate analytics capabilities.
+- **Dimension 3 Evidence:** No specific mention of cloud adoption or modern technology infrastructure; focus is on basic operational improvements.
+- **Dimension 4 Evidence:** No specific initiatives for AI skills development or hiring mentioned.
+- **Dimension 5 Evidence:** General mention of regulatory compliance without specific AI governance frameworks.
+
+**Strategic AI Positioning:** AI is used primarily for operational enhancements such as safety assistance, but it is not a strategic business driver for Dollar Tree.
+
+**Contextual Considerations:** As a large retailer, Dollar Tree's focus on cost efficiency and operational improvements is typical, but there is limited evidence of strategic AI initiatives.
+
+**Confidence Level:** Medium - Based on limited AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Dominion Energy  
+Sector: Utilities  
+Industry: Multi-Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.55/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of meeting demand growth, indicating it is an enabler for infrastructure development.
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** Some mention of evolving technology needs due to AI, but no detailed cloud or digital strategy.
+- **Dimension 4 Evidence:** No specific AI talent acquisition or skills development initiatives noted.
+- **Dimension 5 Evidence:** General cybersecurity mentions without specific AI governance frameworks.
+
+**Strategic AI Positioning:** AI is seen as a business enabler for infrastructure planning and demand management, but not yet a core strategic driver.
+
+**Contextual Considerations:** Dominion Energy's focus on infrastructure and energy demand aligns with its industry, but AI initiatives appear to be in early stages.
+
+**Confidence Level:** Medium - Based on general AI-related mentions in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Domino's  
+Sector: Consumer Discretionary  
+Industry: Restaurants
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.55/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned as potentially important in operations, indicating its role as a business enabler.
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** General mention of evolving technology needs due to AI, but no detailed cloud or digital strategy.
+- **Dimension 4 Evidence:** No specific AI talent acquisition or skills development initiatives noted.
+- **Dimension 5 Evidence:** General cybersecurity mentions without specific AI governance frameworks.
+
+**Strategic AI Positioning:** AI is considered for future operational enhancements, but not yet a central strategic component.
+
+**Contextual Considerations:** As a global restaurant chain, Domino's focus on operational efficiency and customer experience could benefit from AI, but current initiatives are limited.
+
+**Confidence Level:** Medium - Based on general AI-related mentions in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: DoorDash  
+Sector: Consumer Discretionary  
+Industry: Specialized Consumer Services
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.75/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is integral to platform offerings and competitive positioning, indicating its role as a strategic differentiator.
+- **Dimension 2 Evidence:** Use of AWS for data management and cloud infrastructure supports advanced analytics capabilities.
+- **Dimension 3 Evidence:** Cloud infrastructure and AWS partnership highlight advanced digital capabilities.
+- **Dimension 4 Evidence:** Some mention of AI skills and talent, but no comprehensive strategy outlined.
+- **Dimension 5 Evidence:** Awareness of AI-related risks and ethical considerations, but no detailed governance framework.
+
+**Strategic AI Positioning:** AI is strategically important for DoorDash's platform and service differentiation, supporting its competitive edge in the market.
+
+**Contextual Considerations:** As a leading food delivery platform, DoorDash's reliance on AI for logistics and customer experience is crucial, aligning with industry trends.
+
+**Confidence Level:** High - Based on detailed AI-related disclosures and strategic positioning in the report excerpts.
+
+### END COMPANY REPORT

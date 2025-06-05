@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: BlackRock  
+Sector: Financials  
+Industry: Asset Management & Custody Banks
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.30/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The 10-K mentions AI primarily in the context of operational risks rather than as a strategic business driver.
+- **Dimension 2 Evidence:** Limited discussion on data infrastructure, mainly focusing on operational risks associated with AI and technology.
+- **Dimension 3 Evidence:** Mentions of using cloud technologies and remote access, indicating some level of modernization.
+- **Dimension 4 Evidence:** No specific mention of AI skills development or hiring initiatives in the excerpts.
+- **Dimension 5 Evidence:** General mention of operational risks related to AI, but no specific governance framework discussed.
+
+**Strategic AI Positioning:** BlackRock's use of AI appears to be more focused on operational enhancements and risk management rather than as a core strategic driver.
+
+**Contextual Considerations:** As a large asset manager, BlackRock's scale and industry position suggest potential for AI integration, but the 10-K excerpts do not provide strong evidence of AI as a strategic focus.
+
+**Confidence Level:** Medium - The information provided is somewhat limited, focusing more on risks than strategic initiatives.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Blackstone Inc.  
+Sector: Financials  
+Industry: Asset Management & Custody Banks
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned as a factor that could disrupt business models and operational processes, indicating its strategic consideration.
+- **Dimension 2 Evidence:** References to the use of AI technologies for insights and efficiencies suggest intermediate data capabilities.
+- **Dimension 3 Evidence:** Mentions of digital infrastructure demand and internal AI-powered applications indicate a modernizing infrastructure.
+- **Dimension 4 Evidence:** Discussion of AI technologies and employee use of AI-powered applications suggests some focus on AI skills.
+- **Dimension 5 Evidence:** Mentions of regulatory frameworks and ethical considerations around AI indicate developing governance.
+
+**Strategic AI Positioning:** Blackstone acknowledges AI's potential to disrupt and enhance its business, indicating a developing strategic role.
+
+**Contextual Considerations:** As a leading alternative investment firm, Blackstone's focus on AI aligns with its need to innovate in a competitive industry.
+
+**Confidence Level:** High - The excerpts provide a balanced view of AI's strategic and operational roles.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: BNY Mellon  
+Sector: Financials  
+Industry: Asset Management & Custody Banks
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of risks and challenges, not as a strategic driver.
+- **Dimension 2 Evidence:** No detailed discussion of data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** Limited mention of technology infrastructure, focusing on risks.
+- **Dimension 4 Evidence:** No specific mention of AI skills development or hiring in the excerpts.
+- **Dimension 5 Evidence:** General mention of risks related to AI, with no specific governance framework.
+
+**Strategic AI Positioning:** AI is primarily seen as a risk factor rather than a strategic enabler for BNY Mellon.
+
+**Contextual Considerations:** As a large financial institution, BNY Mellon may have underlying AI initiatives not captured in the excerpts provided.
+
+**Confidence Level:** Low - The excerpts provide limited information on AI initiatives beyond risk considerations.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Boeing  
+Sector: Industrials  
+Industry: Aerospace & Defense
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of cybersecurity and predictive maintenance, indicating its role in enhancing operations.
+- **Dimension 2 Evidence:** References to predictive maintenance suggest intermediate data analytics capabilities.
+- **Dimension 3 Evidence:** Mentions of advanced forms of automation and AI indicate a modernizing technology infrastructure.
+- **Dimension 4 Evidence:** No specific mention of AI skills development, but the use of AI in operations suggests some level of skill investment.
+- **Dimension 5 Evidence:** General mention of AI-related risks, with no detailed governance framework discussed.
+
+**Strategic AI Positioning:** Boeing uses AI to enhance operational efficiency and address cybersecurity, indicating a developing strategic role.
+
+**Contextual Considerations:** As a major aerospace manufacturer, Boeing's use of AI in predictive maintenance and cybersecurity aligns with industry trends.
+
+**Confidence Level:** Medium - The excerpts provide a reasonable view of AI's operational role, though strategic details are limited.
+
+### END COMPANY REPORT

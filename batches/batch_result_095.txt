@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: PPG Industries  
+Sector: Materials  
+Industry: Specialty Chemicals
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 1/5
+- Dimension 2 (Data Infrastructure and Analytics): 1/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 1/5
+- Dimension 4 (Human Capital and AI Skills): 1/5
+- Dimension 5 (AI Governance and Responsible Implementation): 1/5
+
+**Overall AI-Readiness Score:** 1.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The only mention of AI is in the context of cyber-attacks, indicating no strategic integration of AI into the business model.
+- **Dimension 2 Evidence:** No evidence of data infrastructure or analytics capabilities related to AI.
+- **Dimension 3 Evidence:** No mention of modern technology infrastructure or digital capabilities related to AI.
+- **Dimension 4 Evidence:** No discussion of AI-related talent acquisition or skills development.
+- **Dimension 5 Evidence:** No mention of AI governance or ethical considerations.
+
+**Strategic AI Positioning:** AI is not positioned as a strategic business driver for PPG Industries, based on the lack of relevant mentions in the 10-K excerpts.
+
+**Contextual Considerations:** As a specialty chemicals company, PPG Industries may not prioritize AI in its core operations compared to other sectors.
+
+**Confidence Level:** High - due to the lack of AI-related disclosures in the report excerpts.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: PPL Corporation  
+Sector: Utilities  
+Industry: Electric Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned as an emerging technology with potential impact, but no specific strategic initiatives are detailed.
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** No detailed discussion of technology infrastructure related to AI.
+- **Dimension 4 Evidence:** No specific initiatives for AI talent acquisition or skills development.
+- **Dimension 5 Evidence:** General awareness of AI risks, but no specific governance framework is mentioned.
+
+**Strategic AI Positioning:** AI is recognized as a potential area of impact, but not yet strategically integrated into PPL Corporation's business model.
+
+**Contextual Considerations:** As a utility company, PPL Corporation may focus more on operational efficiency rather than AI-driven innovation.
+
+**Confidence Level:** Medium - some mentions of AI, but lacking depth and specificity.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Principal Financial Group  
+Sector: Financials  
+Industry: Life & Health Insurance
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.90/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of changing marketing, distribution, underwriting, and pricing of financial services products.
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure, but AI regulations suggest some level of data handling.
+- **Dimension 3 Evidence:** No specific mention of technology infrastructure, but AI's impact on operations is acknowledged.
+- **Dimension 4 Evidence:** No specific initiatives for AI talent acquisition or skills development.
+- **Dimension 5 Evidence:** Awareness of AI regulations and potential impacts, indicating some level of governance consideration.
+
+**Strategic AI Positioning:** AI is seen as a potential enabler for evolving financial services, but specific strategic initiatives are not detailed.
+
+**Contextual Considerations:** As a financial services company, Principal Financial Group is likely to be influenced by regulatory developments in AI.
+
+**Confidence Level:** Medium - AI is acknowledged, but specifics are lacking.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Procter & Gamble  
+Sector: Consumer Staples  
+Industry: Personal Care Products
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 2.40/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of potential misuse and operational disruptions, not as a strategic driver.
+- **Dimension 2 Evidence:** No specific mention of advanced data infrastructure or analytics capabilities.
+- **Dimension 3 Evidence:** Mentions of upgrading IT/OT systems and adopting new technologies, including AI.
+- **Dimension 4 Evidence:** No specific initiatives for AI talent acquisition or skills development.
+- **Dimension 5 Evidence:** Awareness of AI-related risks and regulations, indicating some level of governance consideration.
+
+**Strategic AI Positioning:** AI is recognized for its potential risks and operational impacts, but not as a core strategic driver.
+
+**Contextual Considerations:** As a consumer goods company, P&G may focus more on operational efficiency and risk management rather than AI-driven innovation.
+
+**Confidence Level:** Medium - AI is acknowledged, but specifics are lacking.
+
+### END COMPANY REPORT

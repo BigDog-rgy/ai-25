@@ -1,0 +1,119 @@
+### BEGIN COMPANY REPORT
+Company: eBay Inc.  
+Sector: Consumer Discretionary  
+Industry: Broadline Retail
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 4/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 4/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.65/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** eBay is leveraging AI to enhance its marketplace experience, with initiatives like "Shop the Look" and "Explore," which use generative AI for personalized recommendations.
+- **Dimension 2 Evidence:** The excerpts mention AI-driven insights and personalized recommendations, indicating some level of analytics capability.
+- **Dimension 3 Evidence:** eBay's use of generative AI and AI-powered shopping feeds suggests a modern digital platform architecture.
+- **Dimension 4 Evidence:** The report mentions investments in AI and generative AI, implying some focus on building AI skills.
+- **Dimension 5 Evidence:** The mention of the EU AI Act indicates awareness of AI governance, but no specific governance framework is detailed.
+
+**Strategic AI Positioning:** AI is a strategic differentiator for eBay, enhancing customer experiences and potentially driving future growth through personalized shopping experiences.
+
+**Contextual Considerations:** As a major player in e-commerce, eBay's investment in AI aligns with industry trends where personalization and AI-driven insights are critical for competitive advantage.
+
+**Confidence Level:** High - The report provides specific examples of AI applications and strategic intentions.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Ecolab  
+Sector: Materials  
+Industry: Specialty Chemicals
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 3/5
+- Dimension 2 (Data Infrastructure and Analytics): 4/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 3/5
+- Dimension 5 (AI Governance and Responsible Implementation): 3/5
+
+**Overall AI-Readiness Score:** 3.35/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** Ecolab is incorporating AI into its products and services, though the focus seems to be on operational enhancements.
+- **Dimension 2 Evidence:** The mention of data science and predictive analytics indicates advanced analytics capabilities.
+- **Dimension 3 Evidence:** There is a general mention of technology development goals, but specifics about the infrastructure are limited.
+- **Dimension 4 Evidence:** The excerpts do not provide specific evidence of AI talent strategies but mention a commitment to developing AI responsibly.
+- **Dimension 5 Evidence:** The report mentions responsible AI development, indicating awareness of governance but lacks detailed frameworks.
+
+**Strategic AI Positioning:** AI is an enabler for Ecolab, enhancing their product offerings and operational efficiencies, but not yet a core business driver.
+
+**Contextual Considerations:** As a specialty chemicals company, Ecolab's use of AI for operational efficiency and product enhancement is consistent with industry practices.
+
+**Confidence Level:** Medium - While there is evidence of AI use, the strategic depth and governance details are less clear.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Edison International  
+Sector: Utilities  
+Industry: Electric Utilities
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 2/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 2/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.00/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** The mention of AI is in the context of cybersecurity risks, not as a strategic business driver.
+- **Dimension 2 Evidence:** No specific evidence of advanced data infrastructure or analytics capabilities is provided.
+- **Dimension 3 Evidence:** The report lacks details on modern technology infrastructure or digital capabilities.
+- **Dimension 4 Evidence:** There is no mention of AI-specific skills development or hiring initiatives.
+- **Dimension 5 Evidence:** Basic awareness of AI-related risks is mentioned, but no governance framework is detailed.
+
+**Strategic AI Positioning:** AI is currently not a strategic focus for Edison International, with mentions limited to risk contexts.
+
+**Contextual Considerations:** As a utility company, the focus on AI may be less pronounced compared to technology-driven sectors.
+
+**Confidence Level:** Low - The report provides minimal information on AI initiatives or strategic integration.
+
+### END COMPANY REPORT
+
+### BEGIN COMPANY REPORT
+Company: Edwards Lifesciences  
+Sector: Health Care  
+Industry: Health Care Equipment
+
+**Dimension Scores:**
+- Dimension 1 (AI Strategy and Vision): 2/5
+- Dimension 2 (Data Infrastructure and Analytics): 3/5
+- Dimension 3 (Technology Infrastructure and Digital Capabilities): 3/5
+- Dimension 4 (Human Capital and AI Skills): 2/5
+- Dimension 5 (AI Governance and Responsible Implementation): 2/5
+
+**Overall AI-Readiness Score:** 2.55/5.00  
+(Calculated as: D1×0.35 + D2×0.25 + D3×0.20 + D4×0.15 + D5×0.05)
+
+**Key Evidence Summary:**
+- **Dimension 1 Evidence:** AI is mentioned in the context of cybersecurity threats, not as a strategic driver.
+- **Dimension 2 Evidence:** The use of cloud-based data management applications suggests some level of data infrastructure maturity.
+- **Dimension 3 Evidence:** Reliance on third-party cloud services indicates a move towards modern digital capabilities.
+- **Dimension 4 Evidence:** No specific AI skills development initiatives are mentioned.
+- **Dimension 5 Evidence:** Basic awareness of AI-related cybersecurity risks is noted, but no governance framework is detailed.
+
+**Strategic AI Positioning:** AI is not currently a strategic focus for Edwards Lifesciences, with mentions primarily related to cybersecurity.
+
+**Contextual Considerations:** As a health care equipment company, the focus on AI may be more on operational security rather than strategic product development.
+
+**Confidence Level:** Medium - The report provides some insights into digital capabilities but lacks depth in AI strategy and governance.
+
+### END COMPANY REPORT
