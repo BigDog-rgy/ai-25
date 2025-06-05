@@ -1,5 +1,5 @@
 import os, json, time
-from pathlib import Path   
+from pathlib import Path
 from openai import OpenAI
 from dotenv import load_dotenv
 
@@ -17,9 +17,8 @@ SLEEP_SECONDS  = 60     # 60-second cooldown
 companies    = json.load(open("batch_input.json", "r", encoding="utf-8"))
 instructions = open("rubric.txt", "r", encoding="utf-8").read()
 
-def build_batch_prompt(instr, comps, first_batch=False):
-    header = instr if first_batch else "Same rubric as previous batch."
-    body   = ""
+def build_batch_prompt(instr, comps):
+    body = ""
     for idx, c in enumerate(comps, 1):
         body += (
             f"\n### Company {idx}: {c['name']}\n"
@@ -29,7 +28,7 @@ def build_batch_prompt(instr, comps, first_batch=False):
     body += (
         "\nPlease respond for each company separately, labeling each response clearly with the company name."
     )
-    return f"{header}\n\n## Companies to Evaluate ({len(comps)}):\n{body}"
+    return f"{instr}\n\n## Companies to Evaluate ({len(comps)}):\n{body}"
 
 def batch_companies(items, size):
     for i in range(0, len(items), size):
@@ -40,9 +39,7 @@ for batch_num, batch in enumerate(batch_companies(companies, BATCH_SIZE), 1):
         break
 
     # ------------- build prompt -------------
-    prompt = build_batch_prompt(
-        instructions, batch, first_batch=(batch_num == 1)
-    )
+    prompt = build_batch_prompt(instructions, batch)
 
     messages = [
         {
