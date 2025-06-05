@@ -66,7 +66,7 @@ export default async function Page() {
     .order("overall", { ascending: false }) as { data: CompanySummary[] | null };
 
   // 1. Calculate "top index" weights for top N (use 25 for real, or 5/9 for test)
-  const topIndexMap = calculateTopIndexWithWeights(rows || [], 5);
+  const topIndexMap = calculateTopIndexWithWeights(rows || [], 10);
 
   return (
     <main style={{ maxWidth: 700, margin: "2rem auto" }}>

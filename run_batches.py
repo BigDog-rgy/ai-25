@@ -6,7 +6,8 @@ from dotenv import load_dotenv
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-BATCH_SIZE = 3
+BATCH_SIZE   = 10   # we want 25 companies per chunk
+MAX_BATCHES  = 2    
 
 # Load data
 with open("batch_input.json", "r", encoding="utf-8") as f:
@@ -35,7 +36,7 @@ def batch_companies(companies, batch_size=BATCH_SIZE):
         yield companies[i:i + batch_size]
 
 for batch_num, batch in enumerate(batch_companies(companies, BATCH_SIZE), 1):
-    if batch_num > 3:      #  <-- abort after 3 batches
+    if batch_num > MAX_BATCHES:
         break
     print(f"Processing batch {batch_num} with {len(batch)} companies...")
     user_prompt = build_batch_prompt(instructions, batch)
